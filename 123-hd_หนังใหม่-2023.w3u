@@ -1,9 +1,35 @@
 {
   "name": "หนังใหม่ 2023",
-  "author": "เจียว เจียว อัพวันที่ 10 ตุลาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "Sijjin (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Sijjin-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "Sijjin (2023)",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Sijjin-2023-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/73b1c1759b51e323b5b44f74/73b1c1759b51e323b5b44f74438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Bikeriders เดอะ ไบค์ไรเดอร์ส (2023)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Bikeriders-เดอะ-ไบค์ไรเดอร์ส-2023-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Bikeriders เดอะ ไบค์ไรเดอร์ส (2023)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Bikeriders-เดอะ-ไบค์ไรเดอร์ส-2023-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/7fb33d3c35df122aa1233a64/7fb33d3c35df122aa1233a64438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Forge (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Forge-2024-300x450.jpg",
@@ -12,7 +38,8 @@
           "name": "The Forge (2024)",
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Forge-2024-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/8d13e3316536b5cb157ca864/8d13e3316536b5cb157ca864438.m3u8"
+          "url": "https://main.abcplays.com/m3u8/8d13e3316536b5cb157ca864/8d13e3316536b5cb157ca864438.m3u8",
+          "referer": "https://www.123-hd.com/"
         }
       ]
     },

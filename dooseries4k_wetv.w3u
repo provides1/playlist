@@ -1,9 +1,629 @@
 {
   "name": "WeTV",
-  "author": "เจียว เจียว อัพวันที่ 25 กันยายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Love of Nirvana (2024) ธารธารารักนิรันดร์",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e891df06ee1745b4c6428c2747c769a5/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2d0428786add89baba2e4dea8262a4d7/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/df51148622374206baddc582f224372e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/fa22d6e73aad946a546970aba4e76cbc/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b0cf3d4827d7ac8e282a6edf58866039/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/556b4bfc33c53a9845a76a3a29ff67c7/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/43f9016173ab68b47d4c2dec86ca920e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a803cf90c0ba939114ad74431890f7aa/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/3987a775165fdb97427fb61263d7f6b5/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/06ef3f63ba8167d2ca7622b740979393/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/bf5df38db787f28c4f23a17f27664ff8/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5e36b8710cb5c3824a332a2b747d660c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a4a448a54ab1b9e2b1c90a750b64d58e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/04537cc9a7c716ebcc13df88b7cf87fa/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/bbca1b65ad0a406c7f15d695244a3659/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c5367e0d132a3e21e9bfb030560360f3/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/7d34c0f2812e5235e5913e5983c3cade/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/7cd18673ac4cf8e82e69a967a50f6219/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b6969c5ca09c7286d1a8506940957792/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/7fb1f0add249bb3ff0f8029a26bf3b3d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a27bf371815caa8e81ca561c89280ebf/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b8559aac9c30b81a8154ed188cdb3150/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/47febc67d895250821b1ad8342033eaf/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a09773241783cacc6868f0e3e7ba6b37/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/dc8294d0e84e15fdd4c0119f435d1d7f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2d81e66f7003a75ad91ed64e3714e66a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/787519d699943b58ba1f3e6b9ccef5ac/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e24b63110d584b0139018c82bb98e239/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/31ac207bcbf68baecb90e1b113fe630a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/32c0b6f3007d652bf733bfb6037cc91d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9c5ff599c48ba3e05f8fa3cf9467874d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/56d3c11142b30d26848b04e1e1ff70ca/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d2e8ae2bc0c44532f1d3610cdcc22939/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a4e6106c4859164ee353e5f92b492c31/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4cabde0de1c5f79ba96041fa7a06fe10/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/dce547b17d78c77950d0c7a666106b21/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 37",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/619fc2c5f30d0789f94b8b28521c1269/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 38",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/86246ffa9a86a846a75ca09d52d6385f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 39",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/aba160d91807a7d5d5442fa75bc5d711/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 40",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/45afb01dbaab3cfd57192331847c01e6/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "Love’s Rebellion (2024) เทพบุตรจุติมารัก",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a90d631d3ac10b2c8d94d2719242909a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9436706d09f836bbd0884746927d8142/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/eec0365e96c878c17b1117c0abc8980b/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b37983b0be2d370ca43e9ddae934373f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/bf779ff664de92fb34f2eba41dcba4d1/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5a634513681b83b0753ce2d949f7ecb3/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/92f2decf906fa31bf51cbaba5e31fde5/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/03155f3a73dcdd236833a7aed8f02798/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/69f76d16b013a72b7fbbd84e787a839a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/76a6146ea7803d03684edd6eb30aba35/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0d5c206c88f47bfad3c3197c1590b778/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/554d99abdfd033564dc32cc6f125cd00/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4824a289bc070e6b33a349e6741752a4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ff9cd724c3344052806f53bb0653ed6c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e6288d74a2c9f3090dbbf720da76c52b/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/dfc6a64f6106abab13e3f45b376206db/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f4ee205e02d3315577afcb83cced6f84/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1d713398b7ecfdf8b680cbbdb3119c8e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2ce0b66ec858d42ed89ac629237eaf60/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/3dac7769634bd92e2d84fa3d7e553a89/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/931cd46a0850c96af0f4e5f4f45042f4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/931e2f191288f483029e08bcdb56bc0e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/992a83cf129b9089e8740243e4542726/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d613229a60620dfce33e31a13de34d10/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9a2d9429cd7b78fe6d7e857f6ed4eb8f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/344c017762a5b56910d2c8f23138cf50/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/dd01e99bec7e0def0a146ec2b293b945/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/7a9390d482b901d509b7448bc772d217/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 29",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9cf01a528837e805815e45fe72d6f49e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 30",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/78d6bc26ebec5fc8fbd3eab6adc64fdc/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 31",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5bf867133ada59ec1d2167690a691fd6/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 32",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/3a986c295acc119f453cb42e6da3e5d1/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 33",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4e10ae0e73d6e042a92ad7057a8663aa/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 34",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5dd65eb53846bf01ad365347ed47519c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 35",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/08539286957c651c861f4df75da480c7/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 36",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Loves-Rebellion-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/10eff303db9764513479cfbbea148ae7/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
     {
       "name": "Dashing Youth (2024) ดรุณควบม้าขาว เมามายลมวสันต์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2024/07/Dashing-Youth-220x300-c-default.jpg",

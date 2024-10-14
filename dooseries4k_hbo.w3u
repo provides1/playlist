@@ -1,9 +1,39 @@
 {
   "name": "HBO",
-  "author": "เจียว เจียว อัพวันที่ 25 กันยายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "The Penguin (2024) เดอะ เพนกวิน",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Penguin-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Penguin-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/3671d2ccbce7ef94847209ec63702b76/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Penguin-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/6ca479554e0577606943a912f60e4abb/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Penguin-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/498e9a7e22d127fb67b62f1156e510d2/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
     {
       "name": "The Winter King Season 1 (2023)",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
@@ -91,7 +121,7 @@
       ]
     },
     {
-      "name": "The Winter King",
+      "name": "House of the Dragon (2024) ตระกูลแห่งมังกร",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2024/06/House-of-the-Dragon-2024-220x300-c-default.jpg",
       "groups": [
         {
@@ -499,7 +529,7 @@
       ]
     },
     {
-      "name": "Generation Kill (2008)",
+      "name": "Doom Patrol",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
       "groups": [
         {
@@ -1739,7 +1769,7 @@
       ]
     },
     {
-      "name": "The Lazarus Project",
+      "name": "Warrior วอร์ริเออร์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/Warrior-ss3-220x300-c-default.jpg",
       "groups": [
         {
@@ -2342,7 +2372,7 @@
       ]
     },
     {
-      "name": "Gotham Knights",
+      "name": "Warrior วอร์ริเออร์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Warrior-ss2-220x300-c-default.jpg",
       "groups": [
         {
@@ -3010,7 +3040,7 @@
       ]
     },
     {
-      "name": "Warrior วอร์ริเออร์",
+      "name": "Quantum Leap ควอนตัมลีป กระโดดข้ามเวลา",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Quantum-Leap-ควอนตัมลีป-กระโดดข้ามเวลา-Season-1-2022-220x300-c-default.jpg",
       "groups": [
         {
@@ -3594,7 +3624,7 @@
       ]
     },
     {
-      "name": "Pretty Little Liars Original Sin (2022)",
+      "name": "His Dark Materials",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/His-Dark-Materials-season-3-220x300-c-default.jpg",
       "groups": [
         {
@@ -4230,7 +4260,7 @@
       ]
     },
     {
-      "name": "Watchmen วอทช์เม็น",
+      "name": "Raised by Wolves (2020) พันธุ์หมาป่า ซีซัน 1 (พากย์ไทย)",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/mTvSVKMn2Npf6zvYNbGMJnYLtvp-220x300-c-default.jpg",
       "groups": [
         {
@@ -4536,7 +4566,7 @@
       ]
     },
     {
-      "name": "Raised by Wolves (2020) พันธุ์หมาป่า ซีซัน 1 (พากย์ไทย)",
+      "name": "Raised by Wolves",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/crwpBuqW26toMDffmYTGIDrjuO7-220x300-c-default.jpg",
       "groups": [
         {
@@ -5054,7 +5084,7 @@
       ]
     },
     {
-      "name": "Super Pumped: The Battle for Uber",
+      "name": "La Brea ลาเบรีย ผจญภัยโลกดึกดำบรรพ์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss2-220x300-c-default.jpg",
       "groups": [
         {
@@ -5334,7 +5364,7 @@
       ]
     },
     {
-      "name": "La Brea ลาเบรีย ผจญภัยโลกดึกดำบรรพ์",
+      "name": "Doom Patrol",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Doom-Patrol-Season-3-220x300-c-default.jpg",
       "groups": [
         {
@@ -6056,7 +6086,7 @@
       ]
     },
     {
-      "name": "Doom Patrol",
+      "name": "La Brea ลาเบรีย ผจญภัยโลกดึกดำบรรพ์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
       "groups": [
         {
@@ -6668,7 +6698,7 @@
       ]
     },
     {
-      "name": "Miss S (2020)",
+      "name": "Gossip Girl",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Gossip-Girl-Season-2-220x300-c-default.jpg",
       "groups": [
         {
@@ -6765,7 +6795,7 @@
       ]
     },
     {
-      "name": "Gossip Girl",
+      "name": "Doom Patrol",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Doom-Patrol-Season-2-220x300-c-default.jpg",
       "groups": [
         {
@@ -8295,7 +8325,7 @@
       ]
     },
     {
-      "name": "Philip K. Dick’s Electric Dreams",
+      "name": "Euphoria ยูโฟเรีย",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Euphoria-ยูโฟเรีย-Season-2-2022-220x300-c-default.jpg",
       "groups": [
         {
@@ -8569,7 +8599,7 @@
       ]
     },
     {
-      "name": "Euphoria ยูโฟเรีย",
+      "name": "Westworld",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/07/8MfgyFHf7XEboZJPZXCIDqqiz6e-220x300-c-default.jpg",
       "groups": [
         {
@@ -9127,7 +9157,7 @@
       ]
     },
     {
-      "name": "Westworld",
+      "name": "The Walking Dead ฝ่าสยองทัพผีดิบ",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/xf9wuDcqlUPWABZNeDKPbZUjWx0-220x300-c-default.jpg",
       "groups": [
         {
@@ -11925,7 +11955,7 @@
       ]
     },
     {
-      "name": "House That Dragons Built เบื้องหลัง มหาสงครามศึกชิงบัลลังก์มังกร",
+      "name": "House of the Dragon (2022) ตระกูลแห่งมังกร",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/House-of-the-Dragon-2022-220x300-c-default.jpg",
       "groups": [
         {
@@ -12223,7 +12253,7 @@
       ]
     },
     {
-      "name": "House of the Dragon (2022) ตระกูลแห่งมังกร",
+      "name": "Game of Thrones (2011) มหาศึกชิงบัลลังก์ ซีซัน 1",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-1-220x300-c-default.jpg",
       "groups": [
         {
@@ -13445,7 +13475,7 @@
       ]
     },
     {
-      "name": "Game of Thrones (2011) มหาศึกชิงบัลลังก์ ซีซัน 1",
+      "name": "Game of Thrones",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/08/Game-of-Thrones-Season-2-220x300-c-default.jpg",
       "groups": [
         {
@@ -21999,7 +22029,7 @@
       ]
     },
     {
-      "name": "Game of Thrones",
+      "name": "Westworld",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/07/mUjK0jqx485OM7hmJiOQ6nHfBD0-220x300-c-default.jpg",
       "groups": [
         {
@@ -23673,7 +23703,7 @@
       ]
     },
     {
-      "name": "Westworld",
+      "name": "The Boys",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/07/ut4PhX7OP2l2oJhrIUYWnt9pnQU-220x300-c-default.jpg",
       "groups": [
         {
@@ -25297,7 +25327,7 @@
       ]
     },
     {
-      "name": "The Boys",
+      "name": "Tokyo Vice (2022) โตเกียว ไวซ์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/05/za5QWRfCLwgRLLVXUkx3NUSAm6G-220x300-c-default.jpg",
       "groups": [
         {
@@ -25527,7 +25557,7 @@
       ]
     },
     {
-      "name": "Peacemaker",
+      "name": "Euphoria ยูโฟเรีย",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/5mi3aRl16yKmfpQJMzvqN5TXkdA-220x300-c-default.jpg",
       "groups": [
         {

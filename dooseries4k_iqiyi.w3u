@@ -1,9 +1,1053 @@
 {
   "name": "iQiyi",
-  "author": "เจียว เจียว อัพวันที่ 25 กันยายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Snowy Night Timeless Love (2024) หิมะเจ็ดรัตติกาล รักไร้กาลเวลา",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8a9e46234cbeba1e728ed2205bed0310/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/46ad87d60a36aafb324b3ae15bcbfa04/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/72c491fcba2c82e606009ffd71e844c2/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/dbaec18b45e20470b8619ecb134bfed2/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b6f7d4bc935452fadc0cf549923f2d30/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5e8924b0e49ce8788d230b4c1b3f7ecd/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "Echo of Her Voice (2024) คีตาพานพบ",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a00ae85a49fecd7a66a0d6d0631fc4c9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/42670eb17f7c1ae592beb78b2c12a292/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8f06d253f7defdf3de4b69fe19bc8a58/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1bae0462b5721444a81ddebb9334eff3/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ecb3b8608d957843baed159ae76483a2/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/fccfa02166ac422fa855eaee3419e2c9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/fd6177d0086064788493f10daaa8e420/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/51109caa144db013bdd364242ff4b80c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/6f6d3b021ea373600572a817ed188143/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/eac151029b72fe1d6ca99cca9db445b8/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8b7e45f3ac3df2f27ec0727663fe6da4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/42a44be1dce9317888bc04425d1cce98/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1baad891e323b4c53491d002ea7b5a3b/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/956970266fe2abe824c8d460cc59f1b0/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/61c073f8fdacfa0688b999e600a82814/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c61fd7cf08dda0e7791e198e65088737/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e973549c63770392ef76cb2ac3608778/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/387467fc03c266840ff42c0658c0fca4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ac5d640bf8750870206e9ac07346e05a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0f98219e043a3e709cea254db6e45658/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/be765caab95aca605be83b17358c832c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b2030a28c640b2324b0fbdc697dba644/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5ec6f076e02699c0a2604d952509aaf7/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/419d7bdbbe627f338755b79534a0e18d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "Fall in Love with a Fox (2024) บ่วงเสน่ห์เล่ห์สิคาล",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9384f15cbc7a9fa1714e1044b0b90dcb/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/99fd588e1c5368a1db0884cdfd8fab8c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/79b8f1193d2cdc41246e9a8ec8bdb9c8/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a87c9c6bb56aadadae2772b5dbe6e9a1/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ac27930a13162fe3d6bfccd290f1da3f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/dea82091dbf43f902d287843db3f91e9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/965d802161fc130e30290cb965bd1039/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c61799085edc3af32cfded8437684c42/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4f828ff0771f28c582bd086aad425570/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c37af363d7d028cda28112391e2181c4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c8a0c9f87583a55b0cf2e3823cc979f8/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f3288ce9d6356193e01fd9fa4941cf36/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1aceee299821355d9cd6705e38726e8e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/44a6a2a4b556a260613307e26af6e0b1/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9b6a7173afe636b6832bbb4c2186e559/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f6bb5cfcb5c0c917b92cb5e5654df24a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f599cee66229542ec2c22e719956f80b/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d6694338b81e1b9128939518a2725ade/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/7a078185fca118cf64c032c1f726ab81/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c4ab3931e4200054d7180d0901f4d35e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5a409f99f687acd5a0b5360e12f113dc/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/051d3ee54e7c3ccba449dcf20874fa00/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/31ce278cf02269a141fc846def153453/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ba9d47cf1befcab82eb211c5acbb0cc1/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "Fate of Beauty (2024) บุปผาซ่อนแค้น",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/43fde21a7318496204a73b6edfb2bc40/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a4ff19fb3cd417fc3e9e1b1a7f087431/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5c23e95466adcad038409d4540979e6b/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/839a22ea773e6f6d05be57fecc44ca30/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d0b90c3f314f6e2a5348132d24a5424a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/98c1f02c6ba8488fd9ba05a9243167cd/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d69f2d0610575d4b0f376c2078b5f495/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8f829898737fd5971e7a4c7307119c70/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/101358c5969754025bc2103d43cb0274/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/1ae1fb4e2715754875520a70821fc32f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ba5d25b489a2d794faf8cd981b6c47ba/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4788929ec8875cfa9109a164d94e7fd3/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/fa65a590815b741930807507a9510f78/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f121aea373826b3ee02a2594066dc989/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/6d0503e0d4cb196a0b219bd8784457ea/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0d72826876f6fb5a793e59909d3610d7/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/41d1e225fd6ea27241f982d65975f639/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a03de5636b66e45cb4a988d9fa4ac393/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/61099ccc77cf88a23afe0038773c9d73/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/fd6183649a3e023188dcb135c9de5b93/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fate-of-Beauty-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ba53d4aa7a67abe0cbf6f30d852fc420/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "Double Life (2024) ลวงรักหยาดพิรุณ",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/75f2ce6fb17901efa9be50b90602f80f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2580b230ed995984f8926ad86a9e7e71/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/299d524574fbcb203946ff7d9e868eed/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/528226da03b0e26304186c7ba9803ac4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/45e7a56d3d6e3d14ac7f5c136b04f92c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/3982c5c93f21b17e0dd0c4f4628f0ead/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/25b515a9d7c4a0f7c7fa1fb87e235b1d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d6832ad57d4b0128e95e572932c9b458/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2f931bbe1d89cd25d453f86a2d101dd6/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e33dfa08eceb7dfbdc8c02bef5104d94/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5d3a7ea3cbf0dd26466a3dd11e56c8b2/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d8b51d815d7f9d44179647102920b685/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/c89075284fa02b23e2fdbf40501330b3/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/aa40b82c905e8691b49e3012bfd8e28e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0f3302fc52fe961df20fb6dfc382ac18/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/30488dbdfe296a2a104253ed2de349d1/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/31acee301fa69b18c1711e8a79230118/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b4604cb333ee738a561933f992ba89d8/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5a71b014a90071d6eb1706acd465d7e4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f390e896fb2c7de7ce3d3232ee6d80ed/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ebe2b5c6dd142e95fd46fecb5e4eda2a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/09a68f4469c7f872a2fd2496550425e9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/cad95452699ec7a007164610ec23b9c4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d51784dd4704241fdd437471e38ccbb9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e5ef820f5a00cc0d8a000837af6f9b6b/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e14a328de7ce023cebabab9823cf6eed/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Double-Life-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8466375076d89a7f925a2ae7a811dd93/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "Secrets of the Shadow Sect (2024) ใต้เงารักหมื่นหทัย",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/03265271aa7dea216ffdb0c0aa7286c9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a75512f3a4eab3128c983d8ca1f2d142/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/721791ceb07cf6c6852a112f467a9124/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/101a3c180d31b52c9c0b4f124220b8fd/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/3298603a489a2e6e6059fa8ed23f594d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d84ee1393ef85fb13342d3c93fec1f56/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/976b24db6d234e2c63da0fbe289eec1c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a00b441eb559ecccd2977212df54d996/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/18db2f2f8f2b95fc30c559d4fa0db766/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/532bdaef60b8eae30950538ad3d1eb06/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8fb8f891ef3b33b66be0bdc416829b21/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9e844dce50fbeaab1084e6552e195b0d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4e37457db5e848c322c7a1180713c9b9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0a7b5e257ac2439de3b7e7d8d1569b1e/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/64193297a01b390b171020b212bcb81f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0eeb0ac0c35b582f9515920ff04c9f31/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ab48acba7b3178ca92438d3028ab9c03/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/633d4b7975ef6ec721cd74cf8a5f5ff8/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9722c4c3c171a1c8f5c664ca6dbfc479/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/73086dddaec8d78262e02d92c00bfa6d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9fd340edd9523b2a5b46b7e4954ff020/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/6e6417250e5b145a583ac01d8c61796a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9796a1208f1c3e7fec3a5d35c715f46d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Secrets-of-The-Shadow-Sect-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/05239fd344fafa1af7d25c98ac3b06b9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
     {
       "name": "Blossoms in Adversity (2024) ฮวาจื่อ บุปผากลางภัย",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2024/04/Blossoms-in-Adversity-220x300-c-default.jpg",

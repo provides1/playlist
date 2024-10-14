@@ -1,9 +1,163 @@
 {
   "name": "วิทยาศาสตร์",
-  "author": "เจียว เจียว อัพวันที่ 25 กันยายน 2567",
+  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Gyeongseong Creature (2024) สัตว์สยองกยองซอง",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+      "groups": [
+        {
+          "name": "ซีซั่น 1",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+          "stations": [
+            {
+              "name": "ซีซั่น 1 ตอนที่ 1",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/7ee28af332817cc2a97e09444a5e5f71/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 2",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/9feb7aaab53e718a0ae544bd2a129f73/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 3",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/b1f6d316b195daa16a262fcea72b30fe/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 4",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/07422e69fc615ab7b64da34d58a70610/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 5",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/7c10eb38b87f997ae9fae8d16d05fd71/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 6",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/76aaef9130718e74782cd9f9900aea29/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 7",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/b31eddf1d892157fdbd51fe1baca0669/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 8",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/691f1971c91b384b2f8d7819546adaf6/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 9",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/a2095c3223939c72439d32c12294091b/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 10",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/9e677d2e2f5170dc330f3dcc5682ca7e/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            }
+          ]
+        },
+        {
+          "name": "ซีซั่น 2",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+          "stations": [
+            {
+              "name": "ซีซั่น 2 ตอนที่ 1",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/535a0898c585070b31baa9c2879ad377/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 2",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/4ff5e8a46ecdb4f0697b88c5e3936079/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 3",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/09708eae99944d0668e120f445ce840e/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 4",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/83307b8ec93840cf81d66e414c8e0c9c/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 5",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/e69960942f06a5a8faf51f6ec1712361/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 6",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/c43e919125581d1ad8c94171d660f12d/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 7",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/d1c5046ec4115ba2d90ad2dad1f06880/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Kaos (2024) เคออส",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2024/08/KAOS-220x300-c-default.jpg",
@@ -827,86 +981,154 @@
     {
       "name": "Gyeongseong Creature (2023) สัตว์สยองกยองซอง",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-      "stations": [
+      "groups": [
         {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
+          "name": "ซีซั่น 1",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/321aecf0-50d1-501e-91d6-7c719e1e94a5.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+          "stations": [
+            {
+              "name": "ซีซั่น 1 ตอนที่ 1",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/7ee28af332817cc2a97e09444a5e5f71/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 2",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/9feb7aaab53e718a0ae544bd2a129f73/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 3",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/b1f6d316b195daa16a262fcea72b30fe/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 4",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/07422e69fc615ab7b64da34d58a70610/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 5",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/7c10eb38b87f997ae9fae8d16d05fd71/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 6",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/76aaef9130718e74782cd9f9900aea29/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 7",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/b31eddf1d892157fdbd51fe1baca0669/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 8",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/691f1971c91b384b2f8d7819546adaf6/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 9",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/a2095c3223939c72439d32c12294091b/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 10",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/9e677d2e2f5170dc330f3dcc5682ca7e/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            }
+          ]
         },
         {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
+          "name": "ซีซั่น 2",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/9d4abd17-06e9-5766-a130-e37f55843613.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/c745d14f-ea87-5707-add1-021fae251579.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/cd4f59ea-4cdd-51db-8b72-490a02a44ad1.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/dfc98a24-2a86-5e64-b17a-5f1df08644d1.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/6af5eed9-5b82-5c71-bf9b-e8aca94431cc.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5789a325-8396-526b-a498-8a20540e10d7.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/968b9e6e-2896-57d6-9426-0fa2ca47eb3a.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/367a2aec-9d23-5b56-8796-b0cd6b7c2849.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseriesn.xyz/view/5907504d-89cd-5907-8f01-bd34970bd13f.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+          "stations": [
+            {
+              "name": "ซีซั่น 2 ตอนที่ 1",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/535a0898c585070b31baa9c2879ad377/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 2",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/4ff5e8a46ecdb4f0697b88c5e3936079/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 3",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/09708eae99944d0668e120f445ce840e/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 4",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/83307b8ec93840cf81d66e414c8e0c9c/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 5",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/e69960942f06a5a8faf51f6ec1712361/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 6",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/c43e919125581d1ad8c94171d660f12d/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 7",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2023/12/Gyeongseong-Creature-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/d1c5046ec4115ba2d90ad2dad1f06880/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            }
+          ]
         }
       ]
     },
@@ -1157,7 +1379,7 @@
       ]
     },
     {
-      "name": "Miraculous Brothers (2023)",
+      "name": "Doom Patrol",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Doom-Patrol-Season-4-220x300-c-default.jpg",
       "groups": [
         {
@@ -1879,7 +2101,7 @@
       ]
     },
     {
-      "name": "Doom Patrol",
+      "name": "Loki (2023) โลกิ",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Loki-SS2-220x300-c-default.jpg",
       "groups": [
         {
@@ -2083,7 +2305,7 @@
       ]
     },
     {
-      "name": "Loki (2023) โลกิ",
+      "name": "Upload อัปโหลด",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Upload-ss03-220x300-c-default.jpg",
       "groups": [
         {
@@ -3162,7 +3384,7 @@
       ]
     },
     {
-      "name": "The Bionic Life (2023) ไขคดีปริศนามนุษย์ไบโอนิค",
+      "name": "Upload อัปโหลด",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/10/Upload-ss02-220x300-c-default.jpg",
       "groups": [
         {
@@ -3662,7 +3884,7 @@
       ]
     },
     {
-      "name": "GOOD NIGHT WORLD (2023) กู๊ดไนท์ เวิลด์",
+      "name": "Invasion",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/Invasion-Season-22023-220x300-c-default.jpg",
       "groups": [
         {
@@ -4010,7 +4232,7 @@
       ]
     },
     {
-      "name": "Destined with You (2023) รักสุดวิสัย หัวใจไม่ให้เลี่ยง",
+      "name": "The Wheel of Time วงล้อแห่งกาลเวลา",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-220x300-c-default.jpg",
       "groups": [
         {
@@ -4394,7 +4616,7 @@
       ]
     },
     {
-      "name": "Ahsoka (2023) (พากย์ไทย)﻿",
+      "name": "Foundation สถาบันสถาปนา",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Foundationss2-2023-220x300-c-default.jpg",
       "groups": [
         {
@@ -4720,7 +4942,7 @@
       ]
     },
     {
-      "name": "The Lazarus Project",
+      "name": "Invasion (2021)",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/Invasion-2021-220x300-c-default.jpg",
       "groups": [
         {
@@ -4888,7 +5110,7 @@
       ]
     },
     {
-      "name": "Invasion (2021)",
+      "name": "The Wheel Of Time (2021) วงล้อแห่งกาลเวลา",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-220x300-c-default.jpg",
       "groups": [
         {
@@ -5408,7 +5630,7 @@
       ]
     },
     {
-      "name": "The Chosen One (2023) ผู้ถูกเลือก",
+      "name": "The Witcher",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/06/The-Witcher-2023-SS3-220x300-c-default.jpg",
       "groups": [
         {
@@ -6110,7 +6332,7 @@
       ]
     },
     {
-      "name": "I’ve Got the Power (2022) นิมิตลับโกงตาย [พากย์ไทย]",
+      "name": "Foundation สถาบันสถาปนา (2021)",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/Foundation-2021-220x300-c-default.jpg",
       "groups": [
         {
@@ -6298,7 +6520,7 @@
       ]
     },
     {
-      "name": "From",
+      "name": "Titans ไททันส์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/07/TitansSS4-220x300-c-default.jpg",
       "groups": [
         {
@@ -7942,7 +8164,7 @@
       ]
     },
     {
-      "name": "MAKE MY DAY (2023)",
+      "name": "Quantum Leap ควอนตัมลีป กระโดดข้ามเวลา",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Quantum-Leap-ควอนตัมลีป-กระโดดข้ามเวลา-Season-1-2022-220x300-c-default.jpg",
       "groups": [
         {
@@ -8749,7 +8971,7 @@
       ]
     },
     {
-      "name": "The Gryphon (2023) กริฟฟอน",
+      "name": "Ultraman",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/05/Ultraman-Season-3-220x300-c-default.jpg",
       "groups": [
         {
@@ -9169,7 +9391,7 @@
       ]
     },
     {
-      "name": "Black Knight (2023) อัศวินดำ",
+      "name": "Sweet Tooth (2021)",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Sweet-Tooth-SS1-220x300-c-default.jpg",
       "groups": [
         {
@@ -9591,7 +9813,7 @@
       ]
     },
     {
-      "name": "Last Light แสงสุดท้าย (2022)",
+      "name": "Sweet Tooth",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/04/Sweet-Tooth-SS2-220x300-c-default.jpg",
       "groups": [
         {
@@ -9991,7 +10213,7 @@
       ]
     },
     {
-      "name": "Sweet Tooth",
+      "name": "Star Trek: Picard สตาร์ เทรค: พิคาร์ด",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/Star-Trek-Picard-ss3-220x300-c-default.jpg",
       "groups": [
         {
@@ -10255,7 +10477,7 @@
       ]
     },
     {
-      "name": "Star Trek: Picard สตาร์ เทรค: พิคาร์ด",
+      "name": "The Mandalorian เดอะ แมนดาลอเรี่ยน",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/03/The-Mandalorian-2023-SS3-220x300-c-default.jpg",
       "groups": [
         {
@@ -10741,7 +10963,7 @@
       ]
     },
     {
-      "name": "Watchmen วอทช์เม็น",
+      "name": "Raised by Wolves (2020) พันธุ์หมาป่า ซีซัน 1 (พากย์ไทย)",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/mTvSVKMn2Npf6zvYNbGMJnYLtvp-220x300-c-default.jpg",
       "groups": [
         {
@@ -11047,7 +11269,7 @@
       ]
     },
     {
-      "name": "Raised by Wolves (2020) พันธุ์หมาป่า ซีซัน 1 (พากย์ไทย)",
+      "name": "Star Wars: The Bad Batch",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/Star-Wars-The-Bad-Batch-2-220x300-c-default.jpg",
       "groups": [
         {
@@ -11599,7 +11821,7 @@
       ]
     },
     {
-      "name": "Star Wars: The Bad Batch",
+      "name": "La Brea ลาเบรีย ผจญภัยโลกดึกดำบรรพ์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss2-220x300-c-default.jpg",
       "groups": [
         {
@@ -11901,7 +12123,7 @@
       ]
     },
     {
-      "name": "La Brea ลาเบรีย ผจญภัยโลกดึกดำบรรพ์",
+      "name": "Island (2022) เกาะปีศาจ",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Island-2022-220x300-c-default.jpg",
       "groups": [
         {
@@ -12015,7 +12237,7 @@
       ]
     },
     {
-      "name": "Island (2022) เกาะปีศาจ",
+      "name": "Gundam Build Divers กันดั้ม บิลด์ ไดฟ์เวอร์ส Re:Rise [พากย์ไทย]",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/Gundam-Build-Divers-SS2-ReRise-220x300-c-default.jpg",
       "groups": [
         {
@@ -12569,7 +12791,7 @@
       ]
     },
     {
-      "name": "Gundam Build Divers กันดั้ม บิลด์ ไดฟ์เวอร์ส Re:Rise [พากย์ไทย]",
+      "name": "Gundam Build Divers กันดั้ม บิลด์ ไดฟ์เวอร์ส [พากย์ไทย]",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/Gundam-Build-Divers-SS1-220x300-c-default.jpg",
       "groups": [
         {
@@ -13123,7 +13345,7 @@
       ]
     },
     {
-      "name": "Gundam Build Divers กันดั้ม บิลด์ ไดฟ์เวอร์ส [พากย์ไทย]",
+      "name": "Doom Patrol",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Doom-Patrol-Season-3-220x300-c-default.jpg",
       "groups": [
         {
@@ -13845,7 +14067,7 @@
       ]
     },
     {
-      "name": "Doom Patrol",
+      "name": "Star Trek: Picard สตาร์ เทรค: พิคาร์ด",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/Star-Trek-Picard-ss2-220x300-c-default.jpg",
       "groups": [
         {
@@ -14373,7 +14595,7 @@
       ]
     },
     {
-      "name": "Star Trek: Picard สตาร์ เทรค: พิคาร์ด",
+      "name": "La Brea ลาเบรีย ผจญภัยโลกดึกดำบรรพ์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/La-Brea-ss1-220x300-c-default.jpg",
       "groups": [
         {
@@ -14729,7 +14951,7 @@
       ]
     },
     {
-      "name": "A Girl and an Astronaut หญิงสาวกับนักบินอวกาศ",
+      "name": "Daniel Spellbound แดเนียล สเปลบาวด์: นักล่าสมบัติมหัศจรรย์ ซีซั่น 2 [พากย์ไทย] Netflix",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/02/daniel_spellbound-824547780-large-220x300-c-default.jpg",
       "groups": [
         {
@@ -15491,7 +15713,7 @@
       ]
     },
     {
-      "name": "Star Trek: Strange New Worlds",
+      "name": "Doom Patrol",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2023/01/Doom-Patrol-Season-2-220x300-c-default.jpg",
       "groups": [
         {
@@ -16519,7 +16741,7 @@
       ]
     },
     {
-      "name": "The Murder in Kairoutei (2022) คดีปริศนาฆาตกรเพลิงมรณะ",
+      "name": "Star Trek: Discovery",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/12/Star-Trek-Discovery-Season-2-220x300-c-default.jpg",
       "groups": [
         {
@@ -18898,7 +19120,7 @@
       ]
     },
     {
-      "name": "Star Trek: Discovery",
+      "name": "Westworld",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/07/8MfgyFHf7XEboZJPZXCIDqqiz6e-220x300-c-default.jpg",
       "groups": [
         {
@@ -19986,7 +20208,7 @@
       ]
     },
     {
-      "name": "Andor (2022) เอนดอร์",
+      "name": "The Walking Dead ฝ่าสยองทัพผีดิบ",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/xf9wuDcqlUPWABZNeDKPbZUjWx0-220x300-c-default.jpg",
       "groups": [
         {
@@ -23014,7 +23236,7 @@
       ]
     },
     {
-      "name": "The Imperfects : ดิ อิมเพอร์เฟคส์ (2022) พากย์ไทย",
+      "name": "Fate-The Winx Saga: เฟต-เดอะ วิงซ์ ซาก้า",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/09/Fate-The-Winx-Saga-SS2-220x300-c-default.jpg",
       "groups": [
         {
@@ -23440,7 +23662,7 @@
       ]
     },
     {
-      "name": "Resident Evil (2022) ผีชีวะ",
+      "name": "Westworld",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/07/mUjK0jqx485OM7hmJiOQ6nHfBD0-220x300-c-default.jpg",
       "groups": [
         {
@@ -25114,7 +25336,7 @@
       ]
     },
     {
-      "name": "Westworld",
+      "name": "Stranger Things",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/07/rbnuP7hlynAMLdqcQRCpZW9qDkV-220x300-c-default.jpg",
       "groups": [
         {
@@ -25970,78 +26192,122 @@
     {
       "name": "Halo (2022)",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-      "stations": [
+      "groups": [
         {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
+          "name": "ซีซั่น 1",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/bb61e6e7-87c8-53ba-89af-6114f4e6d2e0.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+          "stations": [
+            {
+              "name": "ซีซั่น 1 ตอนที่ 1",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/bb61e6e7-87c8-53ba-89af-6114f4e6d2e0.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 2",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/7b5babce-4c88-541b-af6f-a2d60ef2e909.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 3",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/56ad7b1d-bac1-5723-af4f-4f974179e21e.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 4",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/a73fada7-0e3d-5d5c-911d-f14e28fbeb48.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 5",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/b7d0ff21-1084-5ae9-a2af-0fa7f6401448.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 6",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/5b411cf9-f5a4-5fc0-8f0a-c45d98751c71.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 7",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/54c00e99-5470-52e9-9bf7-71caa7ef6b97.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 8",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/1fdd7ee3-6967-57ea-91bc-3d85af61411d.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 1 ตอนที่ 9",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://www.sgcdnseries.com/view/9962611e-5ca2-5aa4-a8c1-9a7083b01c82.m3u8",
+              "referer": "https://www.dooseries4k.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            }
+          ]
         },
         {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
+          "name": "ซีซั่น 2",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/7b5babce-4c88-541b-af6f-a2d60ef2e909.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/56ad7b1d-bac1-5723-af4f-4f974179e21e.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/a73fada7-0e3d-5d5c-911d-f14e28fbeb48.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/b7d0ff21-1084-5ae9-a2af-0fa7f6401448.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/5b411cf9-f5a4-5fc0-8f0a-c45d98751c71.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/54c00e99-5470-52e9-9bf7-71caa7ef6b97.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/1fdd7ee3-6967-57ea-91bc-3d85af61411d.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/9962611e-5ca2-5aa4-a8c1-9a7083b01c82.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+          "stations": [
+            {
+              "name": "ซีซั่น 2 ตอนที่ 1",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/406e0b3bd485893b49391c662d988310/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 2",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/65fb0eec55a016cd571f77f06554e09d/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 3",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/6fd7e1eb26a86ada415c4efc8178cef9/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 4",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/08c0940cf448a9f3ccde68973303a982/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            }
+          ]
         }
       ]
     },
@@ -26364,14 +26630,7 @@
           "url": "https://www.sgcdnseries.com/view/0dd98986-2db6-56af-ab23-9dea728e9e2f.m3u8",
           "referer": "https://www.dooseries4k.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        }
-      ]
-    },
-    {
-      "name": "MOONFALL (2022) วันวิบัติ จันทร์ถล่มโลก",
-      "info": "SUB",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/n7tuqI1Kb0wiM0iGbWYQI7bMHXQ-220x300-c-default.jpg",
-      "stations": [
+        },
         {
           "name": "MOONFALL (2022) วันวิบัติ จันทร์ถล่มโลก",
           "info": "ซับไทย",
@@ -26516,7 +26775,7 @@
       ]
     },
     {
-      "name": "The Silent Sea ทะเลสงัด (2021)",
+      "name": "Lost in Space (2018) ทะลุโลกหลุดจักรวาล",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/y8NJnTXzb4rio9uvVYFVrXEMofU-220x300-c-default.jpg",
       "groups": [
         {
@@ -26764,7 +27023,7 @@
       ]
     },
     {
-      "name": "Lost in Space (2018) ทะลุโลกหลุดจักรวาล",
+      "name": "Lost in Space (2019) ทะลุโลกหลุดจักรวาล ซีซัน 2",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/83mK4CnvRPFSqcyO3s3lq6aDy1x-220x300-c-default.jpg",
       "groups": [
         {
@@ -27012,7 +27271,7 @@
       ]
     },
     {
-      "name": "Lost in Space (2019) ทะลุโลกหลุดจักรวาล ซีซัน 2",
+      "name": "Lost in Space (2021) ทะลุโลกหลุดจักรวาล ซีซัน 3",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/nF6x04wogGbnF1mUwRzEaePHDOr-220x300-c-default.jpg",
       "groups": [
         {
@@ -27702,7 +27961,7 @@
       ]
     },
     {
-      "name": "Star Wars The Book of Boba Fett (2022) Disney+",
+      "name": "Loki (2021) โลกิ Disney+",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/Loki-2021-โลกิ-220x300-c-default.jpg",
       "groups": [
         {
