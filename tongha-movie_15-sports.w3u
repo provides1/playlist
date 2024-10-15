@@ -1,9 +1,51 @@
 {
  "name": "หนังกีฬา",
- "author": "เจียว เจียว อัพวันที่ 30 กันยายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "MF Ghost Season 2 - เอ็มเอฟ โกสต์ ซีซั่น 2 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/video/19733/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/202410151419185sGu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5357/video/19734/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "blue lock season 2 VS. U-20 JAPAN - ขังดวลแข้ง (ภาค2) (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "blue lock season 2 VS. U-20 JAPAN - ขังดวลแข้ง (ภาค2) (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19670/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "blue lock season 2 VS. U-20 JAPAN - ขังดวลแข้ง (ภาค2) (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/2024100600222389EG.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5342/video/19712/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
   {
    "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
@@ -16,6 +58,133 @@
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/video/19571/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Haikyuu!! The Dumpster Battle - ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5212/20240629143012G4l2.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Haikyuu!! The Dumpster Battle - ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
+     "info": "Zoom พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5212/20240629143012G4l2.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5212/video/18552/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "THE FIRST SLAM DUNK - เดอะ เฟิร์ส สแลม ดังค์ (2022)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/20230207121858B0kY.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "THE FIRST SLAM DUNK - เดอะ เฟิร์ส สแลม ดังค์ (2022)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/20230207121858B0kY.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/video/18525/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "THE FIRST SLAM DUNK - เดอะ เฟิร์ส สแลม ดังค์ (2022)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/20230207121858B0kY.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/video/18441/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "MF GHOST Season 1 - เอ็มเอฟ โกสต์ ซีซั่น 1 (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19720/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19721/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19722/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19723/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19724/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19725/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19726/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19727/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19728/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19729/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19731/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/20241015114020xE31.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5356/video/19732/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -85,43 +254,6 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5260/20240802162219vZrp.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5260/video/18988/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Haikyuu!! The Dumpster Battle - ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5212/20240629143012G4l2.jpg",
-   "info": "Zoom พากย์ไทย",
-   "stations": [
-    {
-     "name": "Haikyuu!! The Dumpster Battle - ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ (2024)",
-     "info": "Zoom พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5212/20240629143012G4l2.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5212/video/18552/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "THE FIRST SLAM DUNK - เดอะ เฟิร์ส สแลม ดังค์ (2022)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/20230207121858B0kY.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/20230207121858B0kY.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/video/18525/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/20230207121858B0kY.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/3928/video/18441/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -3000,154 +3132,6 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1445/20210806134154V6Hr.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1445/video/1593/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "Back in the Day (2016) วันมรณะ สั่งเป็นสั่งตาย - วันมรณะ สั่งเป็นสั่งตาย (2016)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1350/20210805151519AXTX.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Back in the Day (2016) วันมรณะ สั่งเป็นสั่งตาย - วันมรณะ สั่งเป็นสั่งตาย (2016)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1350/20210805151519AXTX.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1350/video/1499/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Southpaw (2015) - สังเวียนเดือด (2015)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1310/20210805140845L8I5.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Southpaw (2015) - สังเวียนเดือด (2015)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/1310/20210805140845L8I5.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/1310/video/1461/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Boyka Undisputed IV (2016) ยูริ บอยก้า นักชกเจ้าสังเวียน(Soundtrack ซับไทย) -  ยูริ บอยก้า นักชกเจ้าสังเวียน(Soundtrack ซับไทย) (2016)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/985/20210731152101dnxF.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Boyka Undisputed IV (2016) ยูริ บอยก้า นักชกเจ้าสังเวียน(Soundtrack ซับไทย) -  ยูริ บอยก้า นักชกเจ้าสังเวียน(Soundtrack ซับไทย) (2016)",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/985/20210731152101dnxF.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/985/video/1054/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "Creed (2015)  - ครี้ด บ่มแชมป์เลือดนักชก (2015)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/943/20210731135655QM5u.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Creed (2015)  - ครี้ด บ่มแชมป์เลือดนักชก (2015)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/943/20210731135655QM5u.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/943/video/1015/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Space Jam - สเปซแจม ทะลุมิติมหัศจรรย์ (1996)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/892/20210730165236cCtB.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Space Jam - สเปซแจม ทะลุมิติมหัศจรรย์ (1996)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/892/20210730165236cCtB.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/892/video/961/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Chuck (2016) สุภาพบุรุษหยุดสังเวียน - สุภาพบุรุษหยุดสังเวียน (2016) ซับนอก",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/821/20210730143617wbNk.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Chuck (2016) สุภาพบุรุษหยุดสังเวียน - สุภาพบุรุษหยุดสังเวียน (2016) ซับนอก",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/821/20210730143617wbNk.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/821/video/824/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "McFarland USA (2015)  -  แม็คฟาร์แลนด์ ยูเอสเอ (2015)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/803/20210730133738OyBI.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "McFarland USA (2015)  -  แม็คฟาร์แลนด์ ยูเอสเอ (2015)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/803/20210730133738OyBI.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/803/video/805/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "The Flintstones & WWE Stone Age Smackdown (2015) -  มนุษย์หินฟลินท์สโตน กับศึกสแมคดาวน์ (2015)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/764/20210729181319TrEt.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "The Flintstones & WWE Stone Age Smackdown (2015) -  มนุษย์หินฟลินท์สโตน กับศึกสแมคดาวน์ (2015)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/764/20210729181319TrEt.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/764/video/764/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Benchwarmers 2 Breaking Balls (2019) - Benchwarmers 2 Breaking Balls (2019) (2019)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/754/20210729175738VSGp.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Benchwarmers 2 Breaking Balls (2019) - Benchwarmers 2 Breaking Balls (2019) (2019)",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/754/20210729175738VSGp.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/754/video/755/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "To The Fore (2015) - ปั่น ท้า โลก (2015)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/691/202107291536031bfV.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "To The Fore (2015) - ปั่น ท้า โลก (2015)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/691/202107291536031bfV.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/691/video/692/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
    ]
   }

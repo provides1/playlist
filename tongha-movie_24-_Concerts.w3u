@@ -1,6 +1,6 @@
 {
  "name": "หนังคอนเสิร์ต",
- "author": "เจียว เจียว อัพวันที่ 30 กันยายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -40,6 +40,22 @@
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19648/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/20240910163721xcvO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19682/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/20240910163721xcvO.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5310/video/19735/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
    ]
   },
@@ -59,21 +75,6 @@
    ]
   },
   {
-   "name": "Daew Special: Super Soft Power - เดี่ยวสเปเชียล: ซูเปอร์ซอฟต์พาวเวอร์ (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5090/20240502111812S2jv.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Daew Special: Super Soft Power - เดี่ยวสเปเชียล: ซูเปอร์ซอฟต์พาวเวอร์ (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5090/20240502111812S2jv.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5090/video/18087/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
    "name": "THE STANDARD 8 Minute History On Stage - เดอะสแตนดาร์ด ประวัติศาสตร์ 8 นาที ออนสเตจ (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5231/20240717154816ZXLO.jpg",
    "info": "พากย์ไทย",
@@ -83,6 +84,21 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5231/20240717154816ZXLO.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5231/video/18666/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Daew Special: Super Soft Power - เดี่ยวสเปเชียล: ซูเปอร์ซอฟต์พาวเวอร์ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5090/20240502111812S2jv.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Daew Special: Super Soft Power - เดี่ยวสเปเชียล: ซูเปอร์ซอฟต์พาวเวอร์ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5090/20240502111812S2jv.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5090/video/18087/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }

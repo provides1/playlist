@@ -1,6 +1,6 @@
 {
  "name": "หนังจักรวาล Marvel",
- "author": "เจียว เจียว อัพวันที่ 30 กันยายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -32,6 +32,22 @@
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19624/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19660/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19695/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
    ]
   },
@@ -44,7 +60,7 @@
      "name": "Deadpool & Wolverine - เดดพูล & วูล์ฟเวอรีน (2024)",
      "info": "Zoom พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5229/202407171156303i72.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5229/video/18965/hls/movie_3.m3u8",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5229/video/19659/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]

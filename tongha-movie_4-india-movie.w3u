@@ -1,9 +1,23 @@
 {
  "name": "หนังอินเดีย",
- "author": "เจียว เจียว อัพวันที่ 30 กันยายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Maharaja - มหาราชา (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5337/20240930133222OBs5.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Maharaja - มหาราชา (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5337/20240930133222OBs5.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5337/video/19652/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
   {
    "name": "Sector 36 - เซกเตอร์ 36 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5336/202409291816282iAg.jpg",
@@ -45,21 +59,6 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5148/20240516114845penm.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5148/video/18205/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Ministry of Ungentlemanly Warfare - แสบจารชน คนพลิกโลก (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5136/20240513111742Ig62.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "The Ministry of Ungentlemanly Warfare - แสบจารชน คนพลิกโลก (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5136/20240513111742Ig62.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5136/video/18189/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
    ]
   },

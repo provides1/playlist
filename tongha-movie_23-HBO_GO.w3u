@@ -1,6 +1,6 @@
 {
  "name": "HBO GO",
- "author": "เจียว เจียว อัพวันที่ 30 กันยายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -10,12 +10,50 @@
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "The Penguin Season 1 - เดอะ เพนกวิน ซีซั่น 1 (2024)",
+     "name": "ตอนที่ 1",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19615/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19666/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19685/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19716/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Caddo Lake - บึงลี้ลับ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5354/20241014142158wit4.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Caddo Lake - บึงลี้ลับ (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5354/20241014142158wit4.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5354/video/19715/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -178,21 +216,6 @@
    ]
   },
   {
-   "name": "Godzilla x Kong The New Empire  - ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่ (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4995/20240330172848UQB0.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Godzilla x Kong The New Empire  - ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่ (2024)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4995/20240330172848UQB0.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4995/video/18200/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
    "name": "The Walking Dead: The Ones Who Live - เดอะ วอล์คกิ้ง เดธ เดอะวัน ฮู ไลฟ์ (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4699/20240129130436E7hK.jpg",
    "info": "ซับไทย",
@@ -291,6 +314,21 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5248/202407241838001bLL.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5248/video/18885/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Godzilla x Kong The New Empire  - ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4995/20240330172848UQB0.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Godzilla x Kong The New Empire  - ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4995/20240330172848UQB0.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4995/video/18200/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -818,14 +856,14 @@
    "info": "ซับไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
+     "name": "Sisu - สิสู้ เฒ่ามหากาฬ (2023)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4268/20230810103637kCpJ.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4268/video/12638/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "Sisu - สิสู้ เฒ่ามหากาฬ (2023)",
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4268/20230810103637kCpJ.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4268/video/13158/hls/movie_3.m3u8",
@@ -1020,15 +1058,14 @@
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
+     "name": "Batman: The Dark Knight  -  แบทแมน อัศวินรัตติกาล (2008)",
+     "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2288/20220508171403XL4Y.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2288/video/4315/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     },
     {
-     "name": "ตอนที่ 2",
+     "name": "Batman: The Dark Knight  -  แบทแมน อัศวินรัตติกาล (2008)",
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2288/20220508171403XL4Y.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2288/video/14123/hls/movie_3.m3u8",
