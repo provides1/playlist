@@ -1,9 +1,478 @@
 {
  "name": "2023",
- "author": "เจียว เจียว อัพวันที่ 06 กันยายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 21 ตุลาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
+  {
+   "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/The-Moon-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/The-Moon-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/79010a803b139404ccdf86999c5aca3e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/The-Moon-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/5edd1b9f2a60c7508a03b9990b1b95ac/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e6a9b3917e813a67315f6c6c7ac12060/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/65007d9f726768838f1df6dc9f22fe97/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Monster High 2 (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/mClrCMfGpOqTSiuCTSK67WZ92x5-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Monster High 2 (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/mClrCMfGpOqTSiuCTSK67WZ92x5-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/59cabae00456c06a85342fe8b48957b5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/5a2df8496bb2d9fe6b246e6ff13a6899/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/0a069db43c4c50e0648d67df3a074f68/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/b5ce3c7d-fe84-5a7a-add4-d795b89a196e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Bad Guys Haunted Heist (2023) วายร้ายพันธุ์ดี ปล้นป่วนฮาโลวีน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/oEJC05CqPugMxC4rFu9r6r6vg6m-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Bad Guys Haunted Heist (2023) วายร้ายพันธุ์ดี ปล้นป่วนฮาโลวีน",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/oEJC05CqPugMxC4rFu9r6r6vg6m-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d949527b1ed091cdab0e30f58a5fe779/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Bad Guys Haunted Heist (2023) วายร้ายพันธุ์ดี ปล้นป่วนฮาโลวีน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/oEJC05CqPugMxC4rFu9r6r6vg6m-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/13832cef207faa35627d2dd9e5997ba1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Eighth Sense (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/dVntReaq2jaKalinalwoCkIReC6-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Eighth Sense (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/dVntReaq2jaKalinalwoCkIReC6-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/61f83b9c7f4c40282da31c6290f9c314/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Gyeongseong Creature (2023) สัตว์สยองกยองซอง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7ee28af332817cc2a97e09444a5e5f71/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/9feb7aaab53e718a0ae544bd2a129f73/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b1f6d316b195daa16a262fcea72b30fe/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/07422e69fc615ab7b64da34d58a70610/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7c10eb38b87f997ae9fae8d16d05fd71/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/76aaef9130718e74782cd9f9900aea29/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b31eddf1d892157fdbd51fe1baca0669/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/691f1971c91b384b2f8d7819546adaf6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a2095c3223939c72439d32c12294091b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/9e677d2e2f5170dc330f3dcc5682ca7e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/535a0898c585070b31baa9c2879ad377/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4ff5e8a46ecdb4f0697b88c5e3936079/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/09708eae99944d0668e120f445ce840e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/83307b8ec93840cf81d66e414c8e0c9c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e69960942f06a5a8faf51f6ec1712361/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c43e919125581d1ad8c94171d660f12d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d1c5046ec4115ba2d90ad2dad1f06880/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Single in Seoul (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/iZiyPgwWHSrnpPvjhMUo6OqfJQY-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Single in Seoul (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/iZiyPgwWHSrnpPvjhMUo6OqfJQY-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/120e3ab73c884534ae31b2050a8904fb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Single in Seoul (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/iZiyPgwWHSrnpPvjhMUo6OqfJQY-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d8de4500fb6830d59aa4abc32e9013c6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Single in Seoul (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/iZiyPgwWHSrnpPvjhMUo6OqfJQY-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/f3e0e21d-6088-50b8-a1c7-679f4b01f83c.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Totto chan The Little Girl at the Window (2023) โต๊ะโตะจัง เด็กหญิงข้างหน้าต่าง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/shGymw9rgj7uM5qty3o2wkD3T9u-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Totto chan The Little Girl at the Window (2023) โต๊ะโตะจัง เด็กหญิงข้างหน้าต่าง",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/shGymw9rgj7uM5qty3o2wkD3T9u-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d9655b4af4929df12e6b8df110677940/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "No More Bets (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/gjyqQD5LsNOiVIXuczw9joqjiKQ-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "No More Bets (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/gjyqQD5LsNOiVIXuczw9joqjiKQ-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/dd8586fa713b350da0fc93a7bc8036df/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "What Happens Later (2023) เกิดอะไรขึ้นในภายหลัง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/5TrWftAac3EeMcatyiCdAglWKb6-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "What Happens Later (2023) เกิดอะไรขึ้นในภายหลัง",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/5TrWftAac3EeMcatyiCdAglWKb6-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d2ff3e331d8ceeb4ffd92445115d46a7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "What Happens Later (2023) เกิดอะไรขึ้นในภายหลัง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/5TrWftAac3EeMcatyiCdAglWKb6-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7f5cd1d9d3b3d558df6f5c55b46e0357/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Abang Adik (2023) ล่าฝันเมืองเดือด",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/9sSj65cPAoP5doxImrYxSEwimql-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Abang Adik (2023) ล่าฝันเมืองเดือด",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/9sSj65cPAoP5doxImrYxSEwimql-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a1fdee600f9409f239f13bed90c9f18e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Abang Adik (2023) ล่าฝันเมืองเดือด",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/9sSj65cPAoP5doxImrYxSEwimql-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1d69acfbfc0914af4c5e36db3af48c43/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "A Tourist’s Guide to Love (2023) คู่มือรักฉบับนักท่องเที่ยว",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/uWkpjbBe4gRZilXRXbYfsMUZMhz-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "A Tourist’s Guide to Love (2023) คู่มือรักฉบับนักท่องเที่ยว",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/uWkpjbBe4gRZilXRXbYfsMUZMhz-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/53b720cd618711f9e8b2ce01cab93725/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sheroes (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/itUAkQmihFmRxMYTa3AkvIzMCV4-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Sheroes (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/itUAkQmihFmRxMYTa3AkvIzMCV4-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/32dd8957a091937aa8d110e1370763d6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Evil Does Not Exist (2023) ที่นี่ไม่มีปีศาจ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/p5snj6SWehT3YbTbPXaD9u2U35R-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Evil Does Not Exist (2023) ที่นี่ไม่มีปีศาจ",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/p5snj6SWehT3YbTbPXaD9u2U35R-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/cb64bab3d0c3ef22f501f71ebae8ec9f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Evil Does Not Exist (2023) ที่นี่ไม่มีปีศาจ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/p5snj6SWehT3YbTbPXaD9u2U35R-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/647c51595aeeca6815f02bc05aa37207/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rain Town (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/jdeOBGQpckrUirJ1Ej0vyCE5pDx-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Rain Town (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/jdeOBGQpckrUirJ1Ej0vyCE5pDx-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/98e4a0a22938499777d9565f442df421/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "All the Liquors (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/fHzb5kfekz59iByCzFjP5PfAAT7-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "All the Liquors (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/fHzb5kfekz59iByCzFjP5PfAAT7-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/61db9f1b78ccdfae4aaaee565938eede/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "All the Liquors (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/fHzb5kfekz59iByCzFjP5PfAAT7-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/1e419ecf-dc24-5e79-bbff-8b51951b50ed.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Noryang Deadly Sea (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/sRvL19WMG883eFyfs3wBRxf6Vx0-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Noryang Deadly Sea (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/sRvL19WMG883eFyfs3wBRxf6Vx0-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/af38bc199560cbbdaa264e40888973a9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Noryang Deadly Sea (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/sRvL19WMG883eFyfs3wBRxf6Vx0-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/24e58934-cca1-5582-88aa-12b695e80e26.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Individual Circumstances (2023)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/4VQs3SalFe1Mri9RO5j9fvSCqxq-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Individual Circumstances (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/4VQs3SalFe1Mri9RO5j9fvSCqxq-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/fdb74d690a021bc548a1c35afc29fc4b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Individual Circumstances (2023)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/4VQs3SalFe1Mri9RO5j9fvSCqxq-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/62c54ee3-65a2-52ed-9adb-091d0aca14f4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
   {
    "name": "Kyrie (2023) คิริเอะ เพลงรักคือเธอ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/4sGfr8Ut5kYLc9SLPdyr5nZM7z4-190x300-c-default.webp",
@@ -1629,41 +2098,6 @@
    ]
   },
   {
-   "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/c1cc183f6fb143f85651bd361eacf232/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/076d3e95-0a17-50d2-9979-b1442838b6c8.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/0a069db43c4c50e0648d67df3a074f68/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Boy and the Heron (2023) เด็กชายกับนกกระสา",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/y9xS5NQTBnFjDoXhSFQeGxlmkoM-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/b5ce3c7d-fe84-5a7a-add4-d795b89a196e.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Our Season (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/o39QYkDnmuS6gmyAIPPZnGiUFzr-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -2086,27 +2520,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/1bU3cnkS2ampZuV2Om4wzRpQRIt-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6386ed11-a5ba-5e86-885b-a442e28f31da.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/8724fe9608f9f34768973e197c89df8f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Late Night with the Devil (2023) คืนนี้ผีมาคุย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/sEiOwwD6ULly7hUFru3oDPYGBK9-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/c8234f63-14ad-5dad-a57d-1d11aea8f8c9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2772,27 +3185,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/The-Wrath-of-Becky-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/da70fc95-b633-5d1e-acd2-cb8f7dd708a2.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "To Catch a Killer (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/mFp3l4lZg1NSEsyxKrdi0rNK8r1-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "To Catch a Killer (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/mFp3l4lZg1NSEsyxKrdi0rNK8r1-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/8520c5c526ccd58125badc0852d939a8/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "To Catch a Killer (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/mFp3l4lZg1NSEsyxKrdi0rNK8r1-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/a1403656-5fd7-57bc-9c5c-d75cfbaad1d1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -5248,27 +5640,6 @@
    ]
   },
   {
-   "name": "Single in Seoul (2023)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/iZiyPgwWHSrnpPvjhMUo6OqfJQY-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Single in Seoul (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/iZiyPgwWHSrnpPvjhMUo6OqfJQY-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/d8de4500fb6830d59aa4abc32e9013c6/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Single in Seoul (2023)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/iZiyPgwWHSrnpPvjhMUo6OqfJQY-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/f3e0e21d-6088-50b8-a1c7-679f4b01f83c.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Indigo (2023)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/ctW0cYUkJJEUc1LPO3FbkFEptDS-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -5887,27 +6258,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/1hLsR3aYCXnyRopd7JZHXI1p9Jm-190x300-c-default.webp",
      "url": "https://streamhls.com/view/13cd3396-d80e-5588-af22-53e91bbf360f.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/wZNWcn4l8CDzLyQjiD5gp21kXHp-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/wZNWcn4l8CDzLyQjiD5gp21kXHp-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/86da72b44d9e792d2643b68a2eb292c0/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "A Soweto Love Story (2024) ความรักสไตล์โซเวโต",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/wZNWcn4l8CDzLyQjiD5gp21kXHp-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/8d9e7011-8db3-544b-aeed-60c2c44e74e1.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -6685,27 +7035,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/01/aJuVwCn2CqMYUmn1sMWbMAG7X5m-scaled-190x300-c-default.webp",
      "url": "https://streamhls.com/view/a9d4c94c-f1fd-5896-8cff-7a82e1c3536f.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/The-Moon-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/The-Moon-2023-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/1e0dabe334e1878a2fc01e1c8963e86a/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Moon (2023) ปฏิบัติการพิชิตจันทร์",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/08/The-Moon-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/53ebcb48-8af8-5a5d-91d6-e801beac49c5.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -8629,83 +8958,6 @@
    ]
   },
   {
-   "name": "Gyeongseong Creature (2023) สัตว์สยองกยองซอง",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/321aecf0-50d1-501e-91d6-7c719e1e94a5.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/9d4abd17-06e9-5766-a130-e37f55843613.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/c745d14f-ea87-5707-add1-021fae251579.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/cd4f59ea-4cdd-51db-8b72-490a02a44ad1.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/dfc98a24-2a86-5e64-b17a-5f1df08644d1.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/6af5eed9-5b82-5c71-bf9b-e8aca94431cc.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/5789a325-8396-526b-a498-8a20540e10d7.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/968b9e6e-2896-57d6-9426-0fa2ca47eb3a.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/367a2aec-9d23-5b56-8796-b0cd6b7c2849.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/5907504d-89cd-5907-8f01-bd34970bd13f.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Exorcist Believer (2023) หมอผีเอ็กซอร์ซิสต์ ผู้ศรัทธา",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/10/lxRLC3WOFM2INoyEa3bFGIUApvn-scaled-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -9492,41 +9744,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/wZ8QPSLgK06RKA6ESbNz62PXnjF-190x300-c-default.webp",
      "url": "https://streamhls.com/view/11fe818f-9bf4-5550-93ed-9915d85b1bd5.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Maestro (2023) มาเอสโตร",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/kxj7rMco6RNYsVcNwuGAIlfWu64-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Maestro (2023) มาเอสโตร",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/kxj7rMco6RNYsVcNwuGAIlfWu64-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/c398646f31c548c832edf7a57312d096/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Maestro (2023) มาเอสโตร",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/kxj7rMco6RNYsVcNwuGAIlfWu64-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/40bca7b4-354e-5ee1-915a-52e550357d1b.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Maestro (2023) มาเอสโตร",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/kxj7rMco6RNYsVcNwuGAIlfWu64-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/e7cc914fabeee50f6760bd78174a1cc0/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Maestro (2023) มาเอสโตร",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/12/kxj7rMco6RNYsVcNwuGAIlfWu64-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/7815fb0b-8a8d-5a06-9bbf-93319fd0eddf.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -20508,41 +20725,6 @@
    ]
   },
   {
-   "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Little-Mermaid-2023-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Little-Mermaid-2023-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/1ccf9fd081fbf36ad6b71dc084923acf/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Little-Mermaid-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/3dc2d7dc-23a0-52c4-9de4-1312d7ffceb7.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Little-Mermaid-2023-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/b7fbb876737bd34798a82dd241019d03/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Little Mermaid (2023) เงือกน้อยผจญภัย",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/05/The-Little-Mermaid-2023-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6d096afd-0e1c-5849-8eb1-3bb20f4bdef5.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Ninja vs Shark (2023) นินจา ปะทะ ฉลาม",
    "image": "https://www.9nunghd.com/wp-content/uploads/2023/09/Ninja-vs-Shark-2023-190x300-c-default.webp",
    "info": "พากย์ไทย",
@@ -24178,27 +24360,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Nimona-2023-190x300-c-default.webp",
      "url": "https://streamhls.com/view/6a9c3f83-32b2-56d6-a58a-d270c4625b1c.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Inhuman Kiss: The Last Breath (Sang Krasue 2) (2023) แสงกระสือ 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Inhuman Kiss: The Last Breath (Sang Krasue 2) (2023) แสงกระสือ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/9daeb7981cd8e53ded6981a5a58a684f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Inhuman Kiss: The Last Breath (Sang Krasue 2) (2023) แสงกระสือ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2023/06/Inhuman-Kiss-The-Last-Breath2022-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6087e85d-e98d-5163-a6b8-8a478d97631f.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]

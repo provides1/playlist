@@ -1,132 +1,1580 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 30 กันยายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 21 ตุลาคม 2567",
  "info": "ความสำเร็จไม่ใช่จุดสิ้นสุด ความล้มเหลวไม่ใช่เรื่องร้ายแรง ความกล้าหาญที่จะทำต่อไปต่างหากที่สำคัญ",
  "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
  "groups": [
   {
-   "name": "Gyeongseong Creature Season 2 (2024) สัตว์สยองกยองซอง ซีซั่น 2",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+   "name": "ธี่หยด 2 (2024) Death Whisperer 2",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/xPTyukOmTrJDwGPwHYwxEMieaqk-190x300-c-default.webp",
    "info": "พากย์ไทย",
    "stations": [
     {
-     "name": "ซีซั่น1 ตอนที่ 1",
+     "name": "ธี่หยด 2 (2024) Death Whisperer 2",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/7ee28af332817cc2a97e09444a5e5f71/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/xPTyukOmTrJDwGPwHYwxEMieaqk-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4d634c0206fce4d3512d542903f2a0f8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Smile 2 (2024) ยิ้มสยอง 2",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/rXc6o2ByBjdSlBMMHrQO6ggUCEj-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": []
+  },
+  {
+   "name": "Canary Black (2024) รหัสลับดับโลก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/hQNWM6swwnyWhOfnOkw298WavE9-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Canary Black (2024) รหัสลับดับโลก",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/hQNWM6swwnyWhOfnOkw298WavE9-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/fcea6758ea87cb46236f2c4f59cfc0fe/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Wild Robot (2024) หุ่นยนต์ผจญภัยในป่ากว้าง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/sgcKQehXSmcXDmDIVYzDWOE9SmW-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Wild Robot (2024) หุ่นยนต์ผจญภัยในป่ากว้าง",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/sgcKQehXSmcXDmDIVYzDWOE9SmW-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ebe6eb80bcae6c05e128fe1277936611/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Man Who Loved UFOs (2024) ชายผู้คลั่งไคล้ยูเอฟโอ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/jxHsVbRHi7bJjlidoiptMOptD7G-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Man Who Loved UFOs (2024) ชายผู้คลั่งไคล้ยูเอฟโอ",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/jxHsVbRHi7bJjlidoiptMOptD7G-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f19b41f8b9a508ef2f70e58af0cefb65/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 2",
+     "name": "The Man Who Loved UFOs (2024) ชายผู้คลั่งไคล้ยูเอฟโอ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/jxHsVbRHi7bJjlidoiptMOptD7G-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d569eba3d501e1b14b9856a08f4659ac/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "I Not Stupid 3 (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/4dkqJ3nLpAYFjVNJ8Owl4sT8A8p-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "I Not Stupid 3 (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/4dkqJ3nLpAYFjVNJ8Owl4sT8A8p-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/8b373f1d05cc5235159c8b2d48d38352/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sing Thriller (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/i77OInTKcrnRlAozFOaB6D5mk15-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Sing Thriller (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/i77OInTKcrnRlAozFOaB6D5mk15-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7d04f97f72600b6d9f8b502e71eaa8f5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Twisters (2024) ทวิสเตอร์ส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Twisters (2024) ทวิสเตอร์ส",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/9feb7aaab53e718a0ae544bd2a129f73/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/225490fb08d4b6a4287f2f4c3e528db4/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/b1f6d316b195daa16a262fcea72b30fe/master.m3u8",
+     "name": "Twisters (2024) ทวิสเตอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a013383235a5edac1184e860ddce1b3a/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 4",
+     "name": "Twisters (2024) ทวิสเตอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/4fd211e2-e65d-51ae-bdcf-a2e92e09c359.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Woman of the Hour (2024) รู้ไหมใครโสด",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/lfZymP0ea3yhL7lSdE9VcIRDuPl-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Woman of the Hour (2024) รู้ไหมใครโสด",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/lfZymP0ea3yhL7lSdE9VcIRDuPl-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/6e10bcf343d830057c58747d25ed414b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "ทองประกายแสด (2024) The Lady and Her Lovers",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/07422e69fc615ab7b64da34d58a70610/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7188d2a9c0e51adc3e2b5da286f37b21/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 5",
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/e620c14b-323d-55b6-af4a-ee6d016ddb63.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/7c10eb38b87f997ae9fae8d16d05fd71/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7a3d57281e55c399ee53642cb304e605/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 6",
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://www.sgcdnseriesn.xyz/view/f315ef25-5ecd-53a0-8e9e-df73a633e6a4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/76aaef9130718e74782cd9f9900aea29/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f918fca07f1b5a8d6e8283992bcb81b6/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 7",
+     "name": "ตอนที่ 4",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/b31eddf1d892157fdbd51fe1baca0669/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/713c7471e36543408b9faa9810d8dabd/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 8",
+     "name": "ตอนที่ 5",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/691f1971c91b384b2f8d7819546adaf6/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/6b25924b4f34f5b5ee36d5c71c91ee4e/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 9",
+     "name": "ตอนที่ 6",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/a2095c3223939c72439d32c12294091b/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c7ed7eb9b38334abb93c2435540d1b84/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 10",
+     "name": "ตอนที่ 7",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/9e677d2e2f5170dc330f3dcc5682ca7e/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e4372f5a6c4643c7f552411a7282f66a/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น2 ตอนที่ 1",
+     "name": "ตอนที่ 8",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/535a0898c585070b31baa9c2879ad377/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/8166becfd053c675e66dd472eea81e69/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น2 ตอนที่ 2",
+     "name": "ตอนที่ 9",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/4ff5e8a46ecdb4f0697b88c5e3936079/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f5d6024e0a90eb82d9b46c04d68d0d1c/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น2 ตอนที่ 3",
+     "name": "ตอนที่ 10",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/09708eae99944d0668e120f445ce840e/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/790cd754fb254cf5138b194c0a5d5851/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น2 ตอนที่ 4",
+     "name": "ตอนที่ 11",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/83307b8ec93840cf81d66e414c8e0c9c/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c634ef521b96726a19276b582b3ff2c1/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น2 ตอนที่ 5",
+     "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/e69960942f06a5a8faf51f6ec1712361/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/83863ce4a9ecc654fc2340e8181ba4ef/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น2 ตอนที่ 6",
+     "name": "ตอนที่ 13",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/c43e919125581d1ad8c94171d660f12d/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/83f22d6a9cbf2a37f4084672ac962b27/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น2 ตอนที่ 7",
+     "name": "ตอนที่ 14",
      "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/d1c5046ec4115ba2d90ad2dad1f06880/master.m3u8",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/69e139b6a557151b782aadbae27e97f5/master.m3u8",
      "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f6856b967fe9100097eee86c7008e826/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ded01083242b18003d84f456e6d912e2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/8fd79db343159e9b54542387209df4b5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/8e52433f38a86f883dc631217cfb07f8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/9d4c97d582a0b4ff9e4216386a98ca0b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/81094c265d480b9ecf3130cbb4c0e820/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "รักวนลูป (2024) Love Stuck",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/6XnXvJ3bgT6vDIJKibldt0RTv89-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "รักวนลูป (2024) Love Stuck",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/6XnXvJ3bgT6vDIJKibldt0RTv89-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/29008b00d9866a13942e88667f774415/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "เทอม 3 (2024) Haunted Universities 3",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/wrgcEz7En3yqe2ZvNQV5zKR3uuI-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "เทอม 3 (2024) Haunted Universities 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/wrgcEz7En3yqe2ZvNQV5zKR3uuI-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/22caa9f5acd380f2a514774087ca95ed/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Shadow Strays (2024) นักฆ่าเงาล่าทรชน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/rw54JbnHT4n2WtSeJNVxVwCnlDl-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Shadow Strays (2024) นักฆ่าเงาล่าทรชน",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/rw54JbnHT4n2WtSeJNVxVwCnlDl-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a9aa06eedb67456322e1491ea5e29aa5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Shadow Strays (2024) นักฆ่าเงาล่าทรชน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/rw54JbnHT4n2WtSeJNVxVwCnlDl-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/6d4e12566ec2bdead3bae9e9f043626b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Brothers (2024) บราเธอร์ส: ปล้นครั้งนี้เพื่อพี่ที่รัก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/6iemERNoYq1N8aQ4VBCcD2XhHrW-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Brothers (2024) บราเธอร์ส: ปล้นครั้งนี้เพื่อพี่ที่รัก",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/6iemERNoYq1N8aQ4VBCcD2XhHrW-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/179640d27c9c10ae9965b6cb60b658d5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Brothers (2024) บราเธอร์ส: ปล้นครั้งนี้เพื่อพี่ที่รัก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/6iemERNoYq1N8aQ4VBCcD2XhHrW-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/83ada81225107782bdd1473164312064/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Outside (2024) เอาท์ไซด์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/hxVOPYEO6INAstcZfE83fcS1Owg-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Outside (2024) เอาท์ไซด์",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/hxVOPYEO6INAstcZfE83fcS1Owg-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e866b9a94687070eb0411918bdfdc7d8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Outside (2024) เอาท์ไซด์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/hxVOPYEO6INAstcZfE83fcS1Owg-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/239776627c22ffc359a8f49da34164a7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Babes (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/1Cg4G1iQpisGXmWqns5uo4I6fPk-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Babes (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/1Cg4G1iQpisGXmWqns5uo4I6fPk-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/459227ae6bd2257167c15553390343c4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Jade (2024) เจด",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/qz6vvVSNPxuvEHKagfdvoVLz8yb-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Jade (2024) เจด",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/qz6vvVSNPxuvEHKagfdvoVLz8yb-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d2f8f121312b44723bcc8ffe839ee1c5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "นางนาคพระโขนง (2024) The Legend of Nang Nak",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/The-Legend-of-Nang-Nak-2024-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/The-Legend-of-Nang-Nak-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c54168a8803e0f6cea82bf266ae940e5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/The-Legend-of-Nang-Nak-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/3b5730353a5b60224cdf7b26452df85a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Justice (2024) ล่าความยุติธรรม",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/A9ExH4k7LSZgQQZrH8Kjr87NxuO-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Justice (2024) ล่าความยุติธรรม",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/A9ExH4k7LSZgQQZrH8Kjr87NxuO-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/72808ee2039c1c8be91f9445294a8d83/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sweet Bobby My Catfish Nightmare (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/xTetFhrXGTO4pX8fK339yG2k61T-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Sweet Bobby My Catfish Nightmare (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/xTetFhrXGTO4pX8fK339yG2k61T-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/54fbf31dad466cd563ff80f1e9447f89/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sweet Bobby My Catfish Nightmare (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/xTetFhrXGTO4pX8fK339yG2k61T-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Sweet Bobby My Catfish Nightmare (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/xTetFhrXGTO4pX8fK339yG2k61T-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/54fbf31dad466cd563ff80f1e9447f89/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "In Her Place (2024) ชีวิตบนเส้นขนาน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/97CsMcy5NQ0YUQRffqpQ3C0GGNo-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "In Her Place (2024) ชีวิตบนเส้นขนาน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/97CsMcy5NQ0YUQRffqpQ3C0GGNo-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/cd4e4004a954aab21391d8b1a5a7eb68/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Operation Blood Hunt (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/wYf4Eq3c4iOa856tEwh3GHruHZW-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Operation Blood Hunt (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/wYf4Eq3c4iOa856tEwh3GHruHZW-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e76527e8c2db563d4f2c7a41fc84e21d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Operation Blood Hunt (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/wYf4Eq3c4iOa856tEwh3GHruHZW-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c1ae0b0474ac09afa44d287142bff983/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "House of Spoils (2024) เชฟ บ้านวิญญาณหลอน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/udfMAdiyKhgAS47dRXEnXo6tHt6-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "House of Spoils (2024) เชฟ บ้านวิญญาณหลอน",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/udfMAdiyKhgAS47dRXEnXo6tHt6-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/079c8b33918ce705ec9bfecfb5e1e68f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "House of Spoils (2024) เชฟ บ้านวิญญาณหลอน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/udfMAdiyKhgAS47dRXEnXo6tHt6-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e0c03b99d063ea22e454126118033941/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/gzMmQCa3mPm0mLu7m246LAQE7Ca-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/gzMmQCa3mPm0mLu7m246LAQE7Ca-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1afb84aea652fc8380f2a0f151b28b2d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Killer’s Game (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/4bKlTeOUr5AKrLky8mwWvlQqyVd-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Killer’s Game (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/4bKlTeOUr5AKrLky8mwWvlQqyVd-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/0a03d4d38ec027a4e18c7102818a4b8f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "That Kind of Love (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/iVMwyRxkHVuBeiOMSJk9AwU3KIc-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "That Kind of Love (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/iVMwyRxkHVuBeiOMSJk9AwU3KIc-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7a01f8e62e584c8ded63e2c1124bf23f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mystic Singer (Sinden Gaib) (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/2qVmK6l9jKQ4EJbP30oGX5Tq9uV-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Mystic Singer (Sinden Gaib) (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/2qVmK6l9jKQ4EJbP30oGX5Tq9uV-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f93ad1cb9ca91156da811b8a3a151171/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Last of the Sea Women (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/8jhTnfQh9lWmRf0eAX1GNXYuIs5-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Last of the Sea Women (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/8jhTnfQh9lWmRf0eAX1GNXYuIs5-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e5131b44343d09bd8df597f9871fe157/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "V/H/S/Beyond (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/wXaf6VGNHIGU7qivapGOF7o4o4N-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "V/H/S/Beyond (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/wXaf6VGNHIGU7qivapGOF7o4o4N-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/3edfb534b3f94b2d325a2c5e4ac52382/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "เมืองลับแล (2024) Luplae The Hidden Town",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/5c0b7e90215c2cad8cded0aa65c1e021/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/8d4d307829d75bd22796a8bbbd4de6cc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4360a4ae046228fd5ca7f111e53774ff/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f77920a783fef3f1d7be389d0f4d5f02/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c8812b892c3df0d760691c347c80bf48/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/faac093efeab13ad7d7fe25132e6a086/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d155826a6d74bd041b913dfd68f87492/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1da5c12caf5a898f4a45b4a293331f5a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e6ebcf39f0ddf0bc769b847c7b01512a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/990b6292f63ca8a723b064b709968f53/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e4458a6af6ed2ffc244481b0bf5382fe/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ee4d7e78a69643545696fed3e4766335/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/aebe58e358c879aa25aef403365d966f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/3d49f0d9c9e49a4ad3a4ebdad8ca1494/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Judge from Hell (2024) ห้องพิจารณาคดีแห่งปีศาจ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e2525f989ec768e97a3349fa3d0d0c2f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b0f068f659870eae79ba1a960e178f1f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/9b30a337c958e8ae95aacdc53637c767/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d845e5409cf1537af850dfd3a8ae566c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/946a5f417e60cd08eafce4d4e1d79b61/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/635b95a9069e684631b5f968d7cc855c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/8e42c53d1c36c93799c8018e89302849/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/06045603667ec9439c43dbe799462cde/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/2CfGeMYkZAD69qm34VFKlNP4cZL-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/2CfGeMYkZAD69qm34VFKlNP4cZL-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/90d27b4b6588591c20d9c0347af61d3f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/neDvA99HHpW3iWbCgnQNttKfGuS-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/neDvA99HHpW3iWbCgnQNttKfGuS-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d273e7349ae91d2c44af29a6f6dbf69a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/neDvA99HHpW3iWbCgnQNttKfGuS-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/571181972e3b7a182e59cb68eb789072/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mr. Crocket (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/t5TV6Y8yKZXTtg8Abf4uBGVH9mD-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Mr. Crocket (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/t5TV6Y8yKZXTtg8Abf4uBGVH9mD-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/047ef2b1a980f681cd8b76d3f7a80d23/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Lonely Planet (2024) ที่หมายใจโดดเดี่ยว",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/fhMKhu0HHO5ozSFmvEex8Uor2DR-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Lonely Planet (2024) ที่หมายใจโดดเดี่ยว",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/fhMKhu0HHO5ozSFmvEex8Uor2DR-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/5212b183adff700e12be00086658cd4c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Lonely Planet (2024) ที่หมายใจโดดเดี่ยว",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/fhMKhu0HHO5ozSFmvEex8Uor2DR-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/24162a71e06cd07c0c471283a14e0b74/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Uprising (2024) กบฏผงาดแผ่นดิน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/qP46SyJ0wEkV1fEyryCzJUwsM5K-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Uprising (2024) กบฏผงาดแผ่นดิน",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/qP46SyJ0wEkV1fEyryCzJUwsM5K-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/3d620458f2abb814139245c87e1f2807/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Uprising (2024) กบฏผงาดแผ่นดิน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/qP46SyJ0wEkV1fEyryCzJUwsM5K-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4d3b038915c71acc6db59745f3d45347/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Caddo Lake (2024) บึงลี้ลับ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/pU9qZNiiL9zYdoUjW4IIkyrG1T8-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Caddo Lake (2024) บึงลี้ลับ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/pU9qZNiiL9zYdoUjW4IIkyrG1T8-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/055581bd73efdd421d4ca26a639a4f5e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Reunion (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/c5eQaqxTQN0DDKena1XIURNRaeJ-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Reunion (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/c5eQaqxTQN0DDKena1XIURNRaeJ-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1bde50968247ab0ee75038563ce04384/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "อนงค์ (2024) My Boo",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/lNm7MtJen0aJ4kLvPXykQGrN3uy-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "อนงค์ (2024) My Boo",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/lNm7MtJen0aJ4kLvPXykQGrN3uy-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/50f9f7b0c6bcf8d8434e44060282e6ee/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Afraid (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/w0SFLjdtQtjCB4LvwB7On2V1lgG-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Afraid (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/w0SFLjdtQtjCB4LvwB7On2V1lgG-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ee38a06b27a4d07eabc27a3e866572b3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Afraid (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/w0SFLjdtQtjCB4LvwB7On2V1lgG-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/16bbe1f31514f08243c0e2acad4e2f44/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Are You the One (2024) ซ่อนรักชายาลับ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e3c03b6a6ab087524c5aa19a88712664/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f70e2077a2561abace064e101b27de5c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4e61bd509e0fb3953940ba7f22d188c1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/38720271058200b1bc6d6462c4839767/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c1bd1c3565db1de75d96c2cc7cdfd60e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/30e0783e16277e8e893163418927290c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/fc413ba095e108706671e5636198e6d0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a5fe74228ed6b7df8ef4a42e336b88e8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/8eedcdcafb68e838123359a97e7b7e6e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f224fb9a575a1e26f8089c1bd704ec6f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f1f86e2d26f45a168417cf0b33fdae3c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/20aae40d2aa62c5ea3970953d7c62b5b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/5f0c107f2c7c7867eb1271cdd3f90c09/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/46f1e164908a1ffced02276717f378df/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d935c185d5e16a468bd4191746fe6814/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/189464b4ba541481b6b173014dc5d9f8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/74c621d3985a0cc4e30db5134ba62396/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c9976acf63b32fbc5cf4153b3ab02fa5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ace75de78ba8f22831409d0a37d3c0c1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/aa0ca27213e1b986a3b95e2ebee2c962/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/0dafd7c66c826d9f30334cb185ddd0f3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/3d04052945a75c96c5322f9d9dee1698/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b654d94f1d34a60be6bb9e6b5acaa5b0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c10d01b0dd887938b609a6cf223a5b89/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ff559b69c6d06cadf30ca4e91d5f8f5c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/cadda1e67b5fe05c56dcba609f89479a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b81cac3ca93aadc1a2753dd2173e815b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/61ab94056cdbe721ee893c80751096c1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/13132b7c43aef3c9510f1525e3010898/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7db7c9e054400e2d75da8b83d7b0dab6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/49cf969937a2c070bab8e252b170e06a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/48e2a9ac495f051c939a565ee13f2b4d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a687aea1a179a1ddf7e5e39d10564554/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/97a9652bbf37b3d2281200bca4b6e8e2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/fbd46332f446b2eecb758ea6f03eeed4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/774a5fead35dd2a78a6350a2163b2769/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/afda710895c193a8170203206b3fa5f6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/349df3a0b623b224c12ba4fb77fa0b5f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 39",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ae440b3beb4fda75583fa004451a3478/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 40",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Are-You-The-One-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1de7b6f95fc5b84e8dced3eee21a7b95/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Unspeakable Longing (2024) ดุจฝันรัญจวน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/6b9b64d36111a97c4bd7c3456d0745da/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/53231607f1984e50d075ff118d818f66/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/3184532c94d2c19984b1e0c8bdb981d1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d3eb1df59b563d962ce09e8b3dceb7dd/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/86957164cc9b32b68c56ff0b72480a03/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7887cd821bb0ac81d80eab5b5931ab2f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ee7889897bc4802bed0e50062a4ed20f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/17b982543005ed6727ceeb2c763665e0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/eead810af006afb02edd035d6c9da587/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/043dc21788564dde1d582a83c05677a7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/3e70e74ba849c948caa6398473eb1c53/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/6aa3b4648e43ec456d9c225236df9c93/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/13665d048bfe7d7af947f9de46c169cc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4262722ec7691239494e7fb65063aab8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1924a621d19ce7af454dfe71c997941e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1ee4f0bf89c2a52e2df7075d4a217844/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a569d3a4b5addb41c3952c6afa4249ef/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/644ee3b43df4e6781848ea9653a12be9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/dadf8020ac0798f278b8724f05f18e5a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/04045d51b077c5cabdef768d6b5ea39f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/794734be86bcfece03cf7d2e7fa84f21/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e9917160df9c2604c1d94c6fd280c91f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/76be22790e1550572f6f57cee207b837/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/Unspeakable-Longing-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d6104b1d21bd6db390a6c7013ed946bf/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/mVuRFU0A98R3UeNYLFTWazNHNUL-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/mVuRFU0A98R3UeNYLFTWazNHNUL-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/96311a3b777ce46aff24ce1ff3a1d3ad/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/mVuRFU0A98R3UeNYLFTWazNHNUL-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/70ad21ebe9b283813b60061b9cfce7f1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Summer Camp (2024) ซัมเมอร์แคมป์ เพื่อน(รัก)กันยันแก่",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/24ywnG5DlQ0TUo4fQJzNbkLppza-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Summer Camp (2024) ซัมเมอร์แคมป์ เพื่อน(รัก)กันยันแก่",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/24ywnG5DlQ0TUo4fQJzNbkLppza-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/dc76a7a1a78d958ee05033efe979f615/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Harold and the Purple Crayon (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Harold and the Purple Crayon (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/55b10d7a432830909fa9dcf2225ffc2d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Harold and the Purple Crayon (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/ee69cf50ed3f3bf491e376107b8edb44/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Harold and the Purple Crayon (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/09ff5fc2-479b-528b-b797-0766aef8e9aa.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Forge (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/vXW1I7HGZkeGUqw8QpGFiDA31Ih-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "The Forge (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/vXW1I7HGZkeGUqw8QpGFiDA31Ih-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/6ffb754076458d8b90d95a754a5c05ae/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Thelma (2024) เทลม่า",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/rUcuageYgv9SsJoWuc0seRWG6JC-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Thelma (2024) เทลม่า",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/rUcuageYgv9SsJoWuc0seRWG6JC-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a9248b1a0c868225487b9d797232647d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Menendez Brothers (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/zQ32RXVzrNq93TgfKMP4Q3rkzDe-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Menendez Brothers (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/zQ32RXVzrNq93TgfKMP4Q3rkzDe-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/2e88781036b1171d03d930ae3abf35ad/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Menendez Brothers (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/zQ32RXVzrNq93TgfKMP4Q3rkzDe-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/faca5e3812d7a78fdfaa65e9dca53d2c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Joker Folie a Deux (2024) โจ๊กเกอร์ โฟลีย์ อา เดอ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/AtpXilVRCH9VXjAeplUDlSNLjAW-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Joker Folie a Deux (2024) โจ๊กเกอร์ โฟลีย์ อา เดอ",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/AtpXilVRCH9VXjAeplUDlSNLjAW-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/2cf5eb15bd29727261ec1fe99f82633d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Doraemon the Movie Nobita’s Earth Symphony (2024) โดราเอมอน เดอะ มูฟวี่ ตอน โลกแห่งซิมโฟนี่ของโนบิตะ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/2jCGdsSjxvFY3J46lsMCWWwPMI7-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Doraemon the Movie Nobita’s Earth Symphony (2024) โดราเอมอน เดอะ มูฟวี่ ตอน โลกแห่งซิมโฟนี่ของโนบิตะ",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/2jCGdsSjxvFY3J46lsMCWWwPMI7-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4def8585cb9750d33c86808ca79c85eb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/y47sV2cfjAHGpkd4IBFwBKNiuru-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/y47sV2cfjAHGpkd4IBFwBKNiuru-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b82496b955fd697bff760d53b71a385a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/y47sV2cfjAHGpkd4IBFwBKNiuru-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7eea62a28dfb6cffc9f2b9b331e6453f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/y47sV2cfjAHGpkd4IBFwBKNiuru-scaled-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/5ae499e9-f97e-5d5a-8d75-efe0a06ba1c5.m3u8",
+     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
@@ -344,6 +1792,496 @@
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-The-Rings-of-Power-2024-Season-2-190x300-c-default.webp",
      "url": "https://master.streamhls.com/hlsr2/bc25f73c4b971ce6f9cd08e18599219a/master.m3u8",
      "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-The-Rings-of-Power-2024-Season-2-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/5ceaa2bdf7d6c29ecda2b604c0a16b20/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-The-Rings-of-Power-2024-Season-2-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/fe247ed59ae643f7916041c54ef92fb8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Ctrl (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/6bdKunzqqadZwiDd8FYHXlRMlJc-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Ctrl (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/6bdKunzqqadZwiDd8FYHXlRMlJc-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c7eb1328bcb8ab802954df9b094219ed/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Ctrl (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/6bdKunzqqadZwiDd8FYHXlRMlJc-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/0e30e249d35077b96e4a028d3c5a3b9c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "It’s What’s Inside (2024) กระเป๋าลับสลับร่าง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/lnYn5X6vWFbw9CLzcuP56Svjksm-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "It’s What’s Inside (2024) กระเป๋าลับสลับร่าง",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/lnYn5X6vWFbw9CLzcuP56Svjksm-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/af0ab4f66c0d6e00649566e621d102ce/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "It’s What’s Inside (2024) กระเป๋าลับสลับร่าง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/lnYn5X6vWFbw9CLzcuP56Svjksm-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4986f62fac10fd4e1f3ccd028a97b6cf/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dog Days (2024) ด๊อกเดย์ สี่ขาว้าวุ่น",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/03/fep9zmreaCz1Vn9RwLH8ll9uaQ4-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Dog Days (2024) ด๊อกเดย์ สี่ขาว้าวุ่น",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/03/fep9zmreaCz1Vn9RwLH8ll9uaQ4-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b7de7b7c0c48adcd71e1c5e39d3da0a7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Dog Days (2024) ด๊อกเดย์ สี่ขาว้าวุ่น",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/03/fep9zmreaCz1Vn9RwLH8ll9uaQ4-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/11cca526abe70e9f56133212d3443813/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Salem’s Lot (2024) ท้าสู้ผีนรก",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/j7ncdqBVufydVzVtxmXu8Ago4ox-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Salem’s Lot (2024) ท้าสู้ผีนรก",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/j7ncdqBVufydVzVtxmXu8Ago4ox-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f99d11854f824476d0bee0675b5f87ab/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Salem’s Lot (2024) ท้าสู้ผีนรก",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/j7ncdqBVufydVzVtxmXu8Ago4ox-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/223cbd4384a7e99e08d281a14620342a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Diary (2024) ปริศนา สมุดขุดอดีต",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/gNn5CqGpt2ZPUnSsExc2AwEImGs-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Diary (2024) ปริศนา สมุดขุดอดีต",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/gNn5CqGpt2ZPUnSsExc2AwEImGs-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/046eefcdb8f387ea60dcec7b63781b07/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Diary (2024) ปริศนา สมุดขุดอดีต",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/gNn5CqGpt2ZPUnSsExc2AwEImGs-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/fed9bd75a53ebcb470e1ec17facd51c9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Platform 2 (2024) เดอะ แพลตฟอร์ม 2",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/9c44IoiBZbJzUdNoJfI1HZbdVSW-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "The Platform 2 (2024) เดอะ แพลตฟอร์ม 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/9c44IoiBZbJzUdNoJfI1HZbdVSW-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/5b67b6d1e0ddfb8419a13c85ead22623/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Platform 2 (2024) เดอะ แพลตฟอร์ม 2",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/9c44IoiBZbJzUdNoJfI1HZbdVSW-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/6c070d2cb4085621472f9b7164cf7ee2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Trouble (2024) ผิดที่ ผิดทาง",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/m51P2pI2SagXIBe5oRJIMGoR7gR-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Trouble (2024) ผิดที่ ผิดทาง",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/m51P2pI2SagXIBe5oRJIMGoR7gR-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/9e062cfa986f24d3bdbfab4b5e403175/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Trouble (2024) ผิดที่ ผิดทาง",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/m51P2pI2SagXIBe5oRJIMGoR7gR-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/283832621fc1c61a3c9f873d2bec3b6d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Between the Temples (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/iOVe3xoJDIdMMYvCy18a4TlDIOK-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Between the Temples (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/iOVe3xoJDIdMMYvCy18a4TlDIOK-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/f05270215d450b11d4d2e4f8f1dd08bb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Hold Your Breath (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/kuzw7lXL9NJZpSL1B9ckwT8Z2ss-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Hold Your Breath (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/kuzw7lXL9NJZpSL1B9ckwT8Z2ss-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/dae8c2bddc3e23a821341e84dea24ff2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Challengers (2024) ชาเลนเจอร์ส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Challengers (2024) ชาเลนเจอร์ส",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d3f2f2402ccfdf0811ed41a63eba40b9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Challengers (2024) ชาเลนเจอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/dd254459e1062ea86fda121d9bd52098/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Challengers (2024) ชาเลนเจอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/76f72a70-57de-54fb-a33d-c71992ac0218.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Memoir Seorang Guru (2024) บันทึกของคุณครู",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/vvET11r3QLJ9UJAvWJM2PJBBWX9-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Memoir Seorang Guru (2024) บันทึกของคุณครู",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/vvET11r3QLJ9UJAvWJM2PJBBWX9-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1a6ce2e32273c86865365d55ee0c93a0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Strange Darling (2024) รัก ลวง ฆ่า",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/lVrwcMH5BR8OjKdXr5I6eEIQUx0-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Strange Darling (2024) รัก ลวง ฆ่า",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/lVrwcMH5BR8OjKdXr5I6eEIQUx0-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/11c9b21f346ab65d44c222423eb88274/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "She Taught Love (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/hTcsoaYkQnOj6YSPDpeLv9kpaPm-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "She Taught Love (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/hTcsoaYkQnOj6YSPDpeLv9kpaPm-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/cb03a252fae601ccbeac8ab64de3025b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/p0A8cxIAAtdmUaBCYHgQyhL2FYv-scaled-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/p0A8cxIAAtdmUaBCYHgQyhL2FYv-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/840fb49a0937ebb7038730dd5a4d589c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/10/p0A8cxIAAtdmUaBCYHgQyhL2FYv-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/2fd2f701d85abebb62d5d8de0d819109/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Transformers One (2024) ทรานส์ฟอร์เมอร์ส 1",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/zCiaOKDAYbCbSNLgOM74ZVzpt3W-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Transformers One (2024) ทรานส์ฟอร์เมอร์ส 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/zCiaOKDAYbCbSNLgOM74ZVzpt3W-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/2ff58941767e34a4c974d127b7b97adf/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Taklee Genesis (2024) ตาคลี เจเนซิส",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/8CfR7wH66xLVqENxc9r8iRJz6Rb-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Taklee Genesis (2024) ตาคลี เจเนซิส",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/8CfR7wH66xLVqENxc9r8iRJz6Rb-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/cded360d728f2fe04b7d3eef0ddbf30b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Land of Bad (2024)",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/h3jYanWMEJq6JJsCopy1h7cT2Hs-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Land of Bad (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/h3jYanWMEJq6JJsCopy1h7cT2Hs-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b85e8ceeaef6ab3818fcb691438bef80/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Land of Bad (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/h3jYanWMEJq6JJsCopy1h7cT2Hs-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d0691c385b8630e12ce14a7241f3c3a4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rez Ball (2024) เลซบอล",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/5FdYxodAtUsHWaAzhFAdAvPLjH1-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Rez Ball (2024) เลซบอล",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/5FdYxodAtUsHWaAzhFAdAvPLjH1-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b0bf5cab553d584c65d9c52751e7fb34/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Rez Ball (2024) เลซบอล",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/5FdYxodAtUsHWaAzhFAdAvPLjH1-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/72627b1267f6eb320075cf12e18c85a8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Will & Harper (2024) วิลกับฮาร์เปอร์ คู่ซี้ท่องอเมริกา",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/8p8DB8mlGfwkXYPHKAc41aqn0eo-scaled-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "Will & Harper (2024) วิลกับฮาร์เปอร์ คู่ซี้ท่องอเมริกา",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/8p8DB8mlGfwkXYPHKAc41aqn0eo-scaled-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d14e957f2a038b84c568af2d82b9c9f9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Gyeongseong Creature Season 2 (2024) สัตว์สยองกยองซอง ซีซั่น 2",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ซีซั่น1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7ee28af332817cc2a97e09444a5e5f71/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/9feb7aaab53e718a0ae544bd2a129f73/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b1f6d316b195daa16a262fcea72b30fe/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/07422e69fc615ab7b64da34d58a70610/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/7c10eb38b87f997ae9fae8d16d05fd71/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/76aaef9130718e74782cd9f9900aea29/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/b31eddf1d892157fdbd51fe1baca0669/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/691f1971c91b384b2f8d7819546adaf6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/a2095c3223939c72439d32c12294091b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/9e677d2e2f5170dc330f3dcc5682ca7e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/535a0898c585070b31baa9c2879ad377/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/4ff5e8a46ecdb4f0697b88c5e3936079/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/09708eae99944d0668e120f445ce840e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/83307b8ec93840cf81d66e414c8e0c9c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/e69960942f06a5a8faf51f6ec1712361/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/c43e919125581d1ad8c94171d660f12d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Gyeongseong-Creature-2-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d1c5046ec4115ba2d90ad2dad1f06880/master.m3u8",
+     "referer": "https://master.streamhls.com/"
     }
    ]
   },
@@ -399,125 +2337,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/m4v9kjTA7liEIF0DJjn0QHOZtlm-190x300-c-default.webp",
      "url": "https://master.streamhls.com/hlsr2/dc155fb57775e64276e373c3353300a2/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "ทองประกายแสด (2024) The Lady and Her Lovers",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/7188d2a9c0e51adc3e2b5da286f37b21/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/e620c14b-323d-55b6-af4a-ee6d016ddb63.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/7a3d57281e55c399ee53642cb304e605/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://www.sgcdnseriesn.xyz/view/f315ef25-5ecd-53a0-8e9e-df73a633e6a4.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/f918fca07f1b5a8d6e8283992bcb81b6/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/713c7471e36543408b9faa9810d8dabd/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/6b25924b4f34f5b5ee36d5c71c91ee4e/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/c7ed7eb9b38334abb93c2435540d1b84/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/e4372f5a6c4643c7f552411a7282f66a/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/8166becfd053c675e66dd472eea81e69/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/f5d6024e0a90eb82d9b46c04d68d0d1c/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/790cd754fb254cf5138b194c0a5d5851/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/c634ef521b96726a19276b582b3ff2c1/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/83863ce4a9ecc654fc2340e8181ba4ef/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/83f22d6a9cbf2a37f4084672ac962b27/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/The-Lady-and-Her-Lovers-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/69e139b6a557151b782aadbae27e97f5/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
@@ -588,6 +2407,13 @@
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-190x300-c-default.webp",
      "url": "https://master.streamhls.com/hlsr2/79e7b5c2e47935c1ee6125a0d70acf49/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Agatha-All-Along-2024-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/da79503bbad4c65e9fc37169a77497cf/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
@@ -789,20 +2615,6 @@
    ]
   },
   {
-   "name": "Afraid (2024)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/w0SFLjdtQtjCB4LvwB7On2V1lgG-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Afraid (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/w0SFLjdtQtjCB4LvwB7On2V1lgG-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/16bbe1f31514f08243c0e2acad4e2f44/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
    "name": "Monsters (2024) ปีศาจ เรื่องราวของไลล์และเอริค เมเนนเดซ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Monsters-2024-190x300-c-default.webp",
    "info": "พากย์ไทย",
@@ -873,90 +2685,6 @@
    ]
   },
   {
-   "name": "Judge from Hell (2024) ห้องพิจารณาคดีแห่งปีศาจ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/e2525f989ec768e97a3349fa3d0d0c2f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Judge-from-Hell-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/b0f068f659870eae79ba1a960e178f1f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "เมืองลับแล (2024) Luplae The Hidden Town",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/5c0b7e90215c2cad8cded0aa65c1e021/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/8d4d307829d75bd22796a8bbbd4de6cc/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/4360a4ae046228fd5ca7f111e53774ff/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/f77920a783fef3f1d7be389d0f4d5f02/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/c8812b892c3df0d760691c347c80bf48/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/faac093efeab13ad7d7fe25132e6a086/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/d155826a6d74bd041b913dfd68f87492/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/Lablae-The-Hidden-Town-2024-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/1da5c12caf5a898f4a45b4a293331f5a/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
    "name": "Customs Frontline (2024) คนมหากาฬพิฆาตนรก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/a869Prbl9FEWeWPWSw0Q3phE4Iv-190x300-c-default.webp",
    "info": "พากย์ไทย",
@@ -966,20 +2694,6 @@
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/a869Prbl9FEWeWPWSw0Q3phE4Iv-190x300-c-default.webp",
      "url": "https://master.streamhls.com/hlsr2/06000ccf6c1ae90faaebb5e9c0683947/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/2CfGeMYkZAD69qm34VFKlNP4cZL-scaled-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/2CfGeMYkZAD69qm34VFKlNP4cZL-scaled-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/7c458fd7c2348d2cc0f58cfac2fb91fd/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
@@ -1062,41 +2776,6 @@
    ]
   },
   {
-   "name": "Red Right Hand (2024)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/vfEG79SQIg3p6B8rBLVeIo2BBhb-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Red Right Hand (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/vfEG79SQIg3p6B8rBLVeIo2BBhb-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/6ba25eefe12f00308d4801d2413b6129/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Hijack 1971 (2024) นรกเหนือน่านฟ้า",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/qaOspwwkNBZuLIdqu0dOc0oed9k-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Hijack 1971 (2024) นรกเหนือน่านฟ้า",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/qaOspwwkNBZuLIdqu0dOc0oed9k-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/5c624d297d560a9e9fc8c0dddc29bf75/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Hijack 1971 (2024) นรกเหนือน่านฟ้า",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/qaOspwwkNBZuLIdqu0dOc0oed9k-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/319f3ca797a9c7303f05b89b4f58e4c5/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
    "name": "The Ministry of Ungentlemanly Warfare (2024) แสบจารชนคนพลิกโลก",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/653aM7AJQWrQhQKCDMiL6PzO8S3-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -1155,20 +2834,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/zrd6blans3SqghHSxPAl7tqnaOf-190x300-c-default.webp",
      "url": "https://master.streamhls.com/hlsr2/66b5ad1041f8f4b95557889d88e84a40/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/neDvA99HHpW3iWbCgnQNttKfGuS-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/neDvA99HHpW3iWbCgnQNttKfGuS-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/4d317c9855d23f49e8807e5d1514cfbc/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
@@ -1680,27 +3345,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/tpAmowSY4fAzlT8nxSZjaWABWLo-190x300-c-default.webp",
      "url": "https://streamhls.com/view/b4480b72-297e-5ef0-9ca8-db3abf3b3ed8.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/mVuRFU0A98R3UeNYLFTWazNHNUL-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/mVuRFU0A98R3UeNYLFTWazNHNUL-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/a7ccbc9d82d3ab14c29087aa3a8873b0/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/09/mVuRFU0A98R3UeNYLFTWazNHNUL-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/32285ff1-f648-5fa8-9c02-6a82cd619243.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -2371,27 +4015,6 @@
    ]
   },
   {
-   "name": "Strange Darling (2024) รัก ลวง ฆ่า",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/lVrwcMH5BR8OjKdXr5I6eEIQUx0-scaled-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Strange Darling (2024) รัก ลวง ฆ่า",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/lVrwcMH5BR8OjKdXr5I6eEIQUx0-scaled-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/988eefdebf20f370897d8b34c4312cbc/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Strange Darling (2024) รัก ลวง ฆ่า",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/lVrwcMH5BR8OjKdXr5I6eEIQUx0-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/289e156d-4ffa-5f7a-b5cd-9cb0d81008d9.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "The Deliverance (2024) บ้านปลดวิญญาณ",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/k7654ctwt0YZlajQBMlj4AkjEe4-190x300-c-default.webp",
    "info": "พากย์ไทย+ซับไทย",
@@ -2784,27 +4407,6 @@
    ]
   },
   {
-   "name": "Harold and the Purple Crayon (2024)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Harold and the Purple Crayon (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/ee69cf50ed3f3bf491e376107b8edb44/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Harold and the Purple Crayon (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/dEsuQOZwdaFAVL26RjgjwGl9j7m-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/09ff5fc2-479b-528b-b797-0766aef8e9aa.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Longlegs (2024) ถอดรหัส คลั่งอำมหิต",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/t5talZJEpd2TQb8shaOeogFBpym-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -2863,27 +4465,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/5DwQhh1HvTo7edaOeMX49NUyZqy-190x300-c-default.webp",
      "url": "https://streamhls.com/view/249208d2-a182-5684-8593-590d2c337a30.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Supremes at Earl’s All You Can Eat (2024)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/b6gnKDl7iMbW0LqrruhrzVArgVB-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "The Supremes at Earl’s All You Can Eat (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/b6gnKDl7iMbW0LqrruhrzVArgVB-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/194ed09cf495d5b92ef493792a0fd44d/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Supremes at Earl’s All You Can Eat (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/b6gnKDl7iMbW0LqrruhrzVArgVB-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/abb4144d-2a47-541e-bf9e-706d9bd71180.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -3288,27 +4869,6 @@
    ]
   },
   {
-   "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/gzMmQCa3mPm0mLu7m246LAQE7Ca-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/gzMmQCa3mPm0mLu7m246LAQE7Ca-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/c01c1f4bbd0544da5638877eca1075b9/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Alien Romulus (2024) เอเลี่ยน โรมูลัส",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/gzMmQCa3mPm0mLu7m246LAQE7Ca-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/2787f7a0-b973-529c-a5eb-1aa7c1281d53.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Crescent City (2024)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/kWwIkWextuqVUvAEM9DwJfEfkKe-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -3416,41 +4976,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/08/nPX9mJE3fe3WIRoLNQqJ0uhwUfU-190x300-c-default.webp",
      "url": "https://streamhls.com/view/c315e785-faae-50c6-aae4-0a1845f37d76.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Twisters (2024) ทวิสเตอร์ส",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Twisters (2024) ทวิสเตอร์ส",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/53ae628e7955dada468909725322490c/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Twisters (2024) ทวิสเตอร์ส",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/96aedb24-f1a7-5c37-ab11-a9444b5137e3.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Twisters (2024) ทวิสเตอร์ส",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/a013383235a5edac1184e860ddce1b3a/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Twisters (2024) ทวิสเตอร์ส",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/3XLg6MF2Wlf2FkkZYAjjRn8aTdS-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/4fd211e2-e65d-51ae-bdcf-a2e92e09c359.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -4276,15 +5801,8 @@
      "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
      "info": "พากย์ไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/p0A8cxIAAtdmUaBCYHgQyhL2FYv-scaled-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/aeb8af4585489eeccbd76f0b60671c0b/master.m3u8",
+     "url": "https://master.streamhls.com/hlsr2/840fb49a0937ebb7038730dd5a4d589c/master.m3u8",
      "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/07/p0A8cxIAAtdmUaBCYHgQyhL2FYv-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/ce1ff0d4-8fb2-53e3-a783-94c87a29016c.m3u8",
-     "referer": "https://www.9nunghd.com/"
     }
    ]
   },
@@ -6657,41 +8175,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/06/66DJgBPv92MpvdWfiHepHiFvQ8n-190x300-c-default.webp",
      "url": "https://streamhls.com/view/d07b3002-0601-5d9f-85f8-43af0afe8f3d.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Challengers (2024) ชาเลนเจอร์ส",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
-   "info": "พากย์ไทย+ซับไทย",
-   "stations": [
-    {
-     "name": "Challengers (2024) ชาเลนเจอร์ส",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/2a00a0329212c67201a22ba95e605ec0/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Challengers (2024) ชาเลนเจอร์ส",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/86bf84ef-1be0-5c4d-83a0-f6194e5f3634.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    },
-    {
-     "name": "Challengers (2024) ชาเลนเจอร์ส",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/dd254459e1062ea86fda121d9bd52098/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Challengers (2024) ชาเลนเจอร์ส",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/05/fKaxDDVCZ2lrLPjgyWYjW3M6okE-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/76f72a70-57de-54fb-a33d-c71992ac0218.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -14467,27 +15950,6 @@
    ]
   },
   {
-   "name": "Girls State (2024)",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/hD1oCssH4GMGrzUljlVpydQFbGx-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Girls State (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/hD1oCssH4GMGrzUljlVpydQFbGx-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/35a1ee819580f478db28f7f308180ed2/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Girls State (2024)",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/hD1oCssH4GMGrzUljlVpydQFbGx-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/1b970991-aa4b-56e0-a3ee-0af7c8341578.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "What Jennifer Did (2024) บาปของเจนนิเฟอร์",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/86kRatUR3aLxeVZepNyvUtflayD-scaled-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -15552,27 +17014,6 @@
    ]
   },
   {
-   "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/y47sV2cfjAHGpkd4IBFwBKNiuru-scaled-190x300-c-default.webp",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/y47sV2cfjAHGpkd4IBFwBKNiuru-scaled-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/7eea62a28dfb6cffc9f2b9b331e6453f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
-     "info": "ซับไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/y47sV2cfjAHGpkd4IBFwBKNiuru-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/5ae499e9-f97e-5d5a-8d75-efe0a06ba1c5.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
    "name": "Madu (2024)",
    "image": "https://www.9nunghd.com/wp-content/uploads/2024/04/kF738LTEcnAp7IEpKAfMf9ejGOA-190x300-c-default.webp",
    "info": "ซับไทย",
@@ -16499,27 +17940,6 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/03/toEJOPYvM7Na0XwM8exg8aHq553-190x300-c-default.webp",
      "url": "https://streamhls.com/view/9f06f847-1296-56be-8404-b796f8277180.m3u8",
-     "referer": "https://www.9nunghd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Dog Days (2024) ด๊อกเดย์ สี่ขาว้าวุ่น",
-   "image": "https://www.9nunghd.com/wp-content/uploads/2024/03/fep9zmreaCz1Vn9RwLH8ll9uaQ4-scaled-190x300-c-default.webp",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Dog Days (2024) ด๊อกเดย์ สี่ขาว้าวุ่น",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/03/fep9zmreaCz1Vn9RwLH8ll9uaQ4-scaled-190x300-c-default.webp",
-     "url": "https://master.streamhls.com/hlsr2/d1eb81cefe4cd5e7b7e910ad12b3e3b2/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Dog Days (2024) ด๊อกเดย์ สี่ขาว้าวุ่น",
-     "info": "พากย์ไทย",
-     "image": "https://www.9nunghd.com/wp-content/uploads/2024/03/fep9zmreaCz1Vn9RwLH8ll9uaQ4-scaled-190x300-c-default.webp",
-     "url": "https://streamhls.com/view/6125d9a1-5faf-5e54-a410-9cc5835180b9.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]
@@ -19362,6 +20782,62 @@
      "info": "ซับไทย",
      "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/jDz4wFujk94tQP9Sx6EMKDULvkn-190x300-c-default.webp",
      "url": "https://streamhls.com/view/e1c28153-2ab0-51fe-8508-7a3e163b960e.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-190x300-c-default.webp",
+   "info": "พากย์ไทย+ซับไทย",
+   "stations": [
+    {
+     "name": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/53f65a72595b5ac9c0a8ede711a6a10c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
+     "info": "พากย์ไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/2253d22a-7d8c-5071-892d-41de25215cf4.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    },
+    {
+     "name": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/1c628351c786c597542ffd509a8975cc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/31ad5547-966b-5130-a37c-71f6ad84a5e0.m3u8",
+     "referer": "https://www.9nunghd.com/"
+    }
+   ]
+  },
+  {
+   "name": "WIL (2024) วิล",
+   "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/ujtWXSmq2RgFBxxlY4uDNi0IOWW-190x300-c-default.webp",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "WIL (2024) วิล",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/ujtWXSmq2RgFBxxlY4uDNi0IOWW-190x300-c-default.webp",
+     "url": "https://master.streamhls.com/hlsr2/d39e0dee3fe9ab778909e1529bd1e1d5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "WIL (2024) วิล",
+     "info": "ซับไทย",
+     "image": "https://www.9nunghd.com/wp-content/uploads/2024/02/ujtWXSmq2RgFBxxlY4uDNi0IOWW-190x300-c-default.webp",
+     "url": "https://streamhls.com/view/3d1207e8-e4a2-5cf8-9b08-25bfeccb4532.m3u8",
      "referer": "https://www.9nunghd.com/"
     }
    ]

@@ -1,9 +1,23 @@
 {
  "name": "หนังเข้าฉายปี 2023",
- "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 21 ตุลาคม 2567",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "The Moon - ปฏิบัติการพิชิตจันทร์ (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Moon - ปฏิบัติการพิชิตจันทร์ (2023)",
+     "info": "Zoom พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/video/13311/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
   {
    "name": "one piece \"EGG HEAD ARC\" - วันพีช ภาค เกาะเอ็กเฮด (2023)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4528/20231127133835Ir4z.jpg",
@@ -390,21 +404,6 @@
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4435/20230801120320lq6o.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4435/video/18260/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "ของแขก - ของแขก (2023)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4706/202401301148439oWL.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "ของแขก - ของแขก (2023)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4706/202401301148439oWL.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4706/video/17862/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
    ]
   },
@@ -6889,6 +6888,21 @@
    ]
   },
   {
+   "name": "ของแขก - ของแขก (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4706/202401301148439oWL.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ของแขก - ของแขก (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4706/202401301148439oWL.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4706/video/17862/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
    "name": "Z.1 Migration - ครอบครัวเป็ดผจญภัย (2023)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4705/20240130113734nrJT.jpg",
    "info": "พากย์ไทย",
@@ -13169,20 +13183,6 @@
      "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4472/20230831102106RYuI.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4472/video/13312/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Moon - ปฏิบัติการพิชิตจันทร์ (2023)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",
-   "info": "Zoom พากย์ไทย",
-   "stations": [
-    {
-     "name": "The Moon - ปฏิบัติการพิชิตจันทร์ (2023)",
-     "info": "Zoom พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/video/13311/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/"
     }
    ]
