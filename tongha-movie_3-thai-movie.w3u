@@ -1,9 +1,39 @@
 {
  "name": "หนังไทย",
- "author": "เจียว เจียว อัพวันที่ 21 ตุลาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 24 ตุลาคม 2567 เริ่ม 00:09:28 เสร็จ 00:20:02",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Kham Khuen Kaeo Chaos - เพลงลำคำเขื่อนแก้ว",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5372/20241022182913geIZ.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5372/20241022182913geIZ.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5372/video/19806/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "มหา'ลัยสยองขวัญ - Haunted Universities (2009)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5371/20241022140834zcsq.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "มหา'ลัยสยองขวัญ - Haunted Universities (2009)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5371/20241022140834zcsq.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5371/video/19805/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
   {
    "name": "Death Whisperer 2 - ธี่หยด 2 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/202410201838066f5l.jpg",

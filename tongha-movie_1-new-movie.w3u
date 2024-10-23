@@ -1,9 +1,121 @@
 {
  "name": "หนังชนโรง",
- "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 24 ตุลาคม 2567 เริ่ม 00:09:18 เสร็จ 00:18:19",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/video/19571/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "Blue Lock: Episode Nagi - บลูล็อค เดอะ มูฟวี่ ภาค นางิ (2024)",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/20240725135859TAgC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5251/video/19804/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Smile 2 - ยิ้มสยอง 2 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5369/20241020185526tuoN.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Smile 2 - ยิ้มสยอง 2 (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5369/20241020185526tuoN.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5369/video/19791/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Death Whisperer 2 - ธี่หยด 2 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/202410201838066f5l.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Death Whisperer 2 - ธี่หยด 2 (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/202410201838066f5l.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/video/19792/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Wild Robot - หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5367/20241020161758rRkr.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Wild Robot - หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5367/20241020161758rRkr.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5367/video/19790/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Canary Black - รหัสลับดับโลก (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5366/20241019160739I9WS.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Canary Black - รหัสลับดับโลก (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5366/20241019160739I9WS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5366/video/19780/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Moon - ปฏิบัติการพิชิตจันทร์ (2023)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Moon - ปฏิบัติการพิชิตจันทร์ (2023)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4471/video/13311/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Alien: Romulus - เอเลี่ยน: โรมูลัส (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5281/20240817231658tLr3.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Alien: Romulus - เอเลี่ยน: โรมูลัส (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5281/20240817231658tLr3.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5281/video/19742/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
   {
    "name": "Joker: Folie à Deux - โจ๊กเกอร์ โฟลีย์ อา เดอ (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5341/20241006000113SUiK.jpg",

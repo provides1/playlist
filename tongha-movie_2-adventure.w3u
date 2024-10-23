@@ -1,9 +1,270 @@
 {
  "name": "หนังผจญภัย",
- "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 24 ตุลาคม 2567 เริ่ม 00:09:32 เสร็จ 00:15:41",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Death Whisperer 2 - ธี่หยด 2 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/202410201838066f5l.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Death Whisperer 2 - ธี่หยด 2 (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/202410201838066f5l.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/video/19792/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Wild Robot - หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5367/20241020161758rRkr.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Wild Robot - หุ่นยนต์ผจญภัยในป่ากว้าง (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5367/20241020161758rRkr.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5367/video/19790/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Canary Black - รหัสลับดับโลก (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5366/20241019160739I9WS.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Canary Black - รหัสลับดับโลก (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5366/20241019160739I9WS.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5366/video/19780/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Dragon Ball DAIMA - ดราก้อนบอล ไดมะ  (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5353/20241012113745NxMX.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5353/20241012113745NxMX.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5353/video/19707/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5353/20241012113745NxMX.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5353/video/19778/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
+  {
+   "name": "Citadel: Diana Season 1 - ซิทาเดล ดิอาน่า ซีซั่น 1 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/202410181222239tJd.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/202410181222239tJd.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/video/19770/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/202410181222239tJd.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/video/19771/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/202410181222239tJd.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/video/19772/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/202410181222239tJd.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/video/19773/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/202410181222239tJd.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/video/19774/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/202410181222239tJd.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5365/video/19775/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Gundam: Requiem for Vengeance - กันดั้ม: บทสวดส่งวิญญาณแห่งความอาฆาต (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/202410181120254N6E.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/202410181120254N6E.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/video/19763/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/202410181120254N6E.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/video/19764/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/202410181120254N6E.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/video/19765/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/202410181120254N6E.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/video/19766/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/202410181120254N6E.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/video/19767/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/202410181120254N6E.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5363/video/19769/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Shadow Strays - นักฆ่าเงาล่าทรชน (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5364/20241018115527Fzx5.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "The Shadow Strays - นักฆ่าเงาล่าทรชน (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5364/20241018115527Fzx5.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5364/video/19768/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Outside - เอาท์ไซด์ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5360/20241017144658OVwK.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "Outside - เอาท์ไซด์ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5360/20241017144658OVwK.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5360/video/19762/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Agatha All Along - อกาธาร์ ออล อลอง (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19595/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19596/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19624/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19660/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19695/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/20240919174615FLgu.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5322/video/19745/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
   {
    "name": "The Walking Dead: Daryl Dixon Season 2 (the book of carol) - เดอะ วอร์คกิ้งเดต แดรีล ดิ๊กซัน ซีซั่น 2 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5339/20241002125531OCAQ.jpg",
