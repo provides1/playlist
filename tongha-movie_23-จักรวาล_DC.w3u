@@ -1,6 +1,6 @@
 {
  "name": "หนังจักรวาล DC",
- "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:57:17 เสร็จ 01:58:01",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
@@ -38,6 +38,14 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19716/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/20240923221036jGt8.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5326/video/19797/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
@@ -1844,18 +1852,18 @@
    "stations": [
     {
      "name": "Batman: The Dark Knight Rises - แบทแมน อัศวินรัตติกาลผงาด (2012)",
-     "info": "ซับไทย",
+     "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2289/20220508171536LKjW.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2289/video/4316/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
      "name": "Batman: The Dark Knight Rises - แบทแมน อัศวินรัตติกาลผงาด (2012)",
-     "info": "พากย์ไทย",
+     "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2289/20220508171536LKjW.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2289/video/4342/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },
@@ -1866,18 +1874,18 @@
    "stations": [
     {
      "name": "Batman: The Dark Knight  -  แบทแมน อัศวินรัตติกาล (2008)",
-     "info": "ซับไทย",
+     "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2288/20220508171403XL4Y.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2288/video/4315/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
     },
     {
      "name": "Batman: The Dark Knight  -  แบทแมน อัศวินรัตติกาล (2008)",
-     "info": "พากย์ไทย",
+     "info": "ซับไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2288/20220508171403XL4Y.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2288/video/14123/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+     "referer": "https://tongha-movie.com/"
     }
    ]
   },

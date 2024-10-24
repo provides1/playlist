@@ -1,9 +1,48 @@
 {
  "name": "true id",
- "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:38:02 เสร็จ 01:39:51",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Good Doctor - หมอใจพิเศษ",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/20241016121914A3lr.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/20241016121914A3lr.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/video/19738/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/20241016121914A3lr.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/video/19739/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/20241016121914A3lr.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/video/19787/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/20241016121914A3lr.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5359/video/19789/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
   {
    "name": "The Walking Dead: Daryl Dixon Season 2 (the book of carol) - เดอะ วอร์คกิ้งเดต แดรีล ดิ๊กซัน ซีซั่น 2 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5339/20241002125531OCAQ.jpg",

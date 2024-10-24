@@ -1,9 +1,35 @@
 {
   "name": "หนังใหม่ 2022",
-  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "ศรี เมือง ใหม่ E San Holy Trip (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/ศรี-เมือง-ใหม่-E-San-Holy-Trip-2022-300x450.png",
+      "stations": [
+        {
+          "name": "ศรี เมือง ใหม่ E San Holy Trip (2022)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/ศรี-เมือง-ใหม่-E-San-Holy-Trip-2022-300x450.png",
+          "url": "https://main.abcplays.com/m3u8/e4add456440a0b09462fd0e2/e4add456440a0b09462fd0e2438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Satan's Slaves 2: Communion (2022)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Satans-Slaves-2-Communion-2022-300x450.jpg",
+      "stations": [
+        {
+          "name": "Satan's Slaves 2: Communion (2022)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Satans-Slaves-2-Communion-2022-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/c51066762fc990ff11528415/c51066762fc990ff11528415438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "The Cellar (2022)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Cellar-2022-300x450.jpg",
@@ -13767,7 +13793,15 @@
     {
       "name": "Sniper The White Raven (2022)",
       "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Sniper-The-White-Raven-2022-300x450.png",
-      "stations": []
+      "stations": [
+        {
+          "name": "Sniper The White Raven (2022)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2022/07/Sniper-The-White-Raven-2022-300x450.png",
+          "url": "https://hot.24playerhd.com/ioshls/ef02e67738fea123d059d23d1ab85d94/ef02e67738fea123d059d23d1ab85d94.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
     },
     {
       "name": "The Town of Ghosts (2022) เมืองผีห่า",

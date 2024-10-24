@@ -1,9 +1,24 @@
 {
  "name": "หนังสารคดี",
- "author": "เจียว เจียว อัพวันที่ 15 ตุลาคม 2567",
+ "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 02:22:01 เสร็จ 02:23:38",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Death Whisperer 2 - ธี่หยด 2 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/202410201838066f5l.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Death Whisperer 2 - ธี่หยด 2 (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/202410201838066f5l.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5368/video/19792/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
   {
    "name": "The Auditors - ดิ ออดิเตอร์ (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5218/20240708213347OX1k.jpg",
@@ -1135,21 +1150,6 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2723/20220613164050gm2g.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2723/video/5718/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Who You Gonna Call?  - - (2020)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2703/202206101319509e1O.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "Who You Gonna Call?  - - (2020)",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/2703/202206101319509e1O.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/2703/video/5643/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }

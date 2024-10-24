@@ -1,9 +1,3361 @@
 {
  "name": "2024",
- "author": "เจียว เจียว อัพวันที่ 30 กันยายน 2567",
+ "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
  "image": "https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
  "groups": [
+  {
+   "name": "Family Pack (2024) เกมมนุษย์หมาป่า",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Family-Pack-2024.jpg",
+   "stations": [
+    {
+     "name": "Family Pack (2024) เกมมนุษย์หมาป่า",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Family-Pack-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1f2b064b5a2cf7ca28294fc95cc621c7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Family Pack (2024) เกมมนุษย์หมาป่า",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Family-Pack-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b50654eaa4574b9c925f38fdd3e4c974/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Kill Me Love Me ใบไม้ผลิบานที่มอดไหม้ (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/36f6ba99f8f1904b84094524840d6a47/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/34afc4cd852414b8eaca2863bfd4824f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fac715e66afbb82f0308434058815dd6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/cf8a612d181aaf403fc8a7841d5c012c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/714f13daf51cd6864a5f7cd1038ab179/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1e36b9b844a215e44bad77d58996834f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/3a135a8764a0e70515b98f57b74a629b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/cbba74937419fbf56f7d98f41cb19e40/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fe93fb8b53987227a1aa94cb3910883e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/704a09b955f90249be1f63fa7b548715/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/693c83ba2167f714a68c6f732e3adaaa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a7614440d8096e066723d172a77a55d2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/96fd6d0abc266139de12ea9efa2ced06/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/cd73497df74fc008aa386d95eca21a70/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/33515bc317afbf54822cabcbf05151f4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f527e6daa30c31779d6da325096cc15e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Kill-Me-Love-Me.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2ea3efa632f27482292ba53a3ce6869e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Love In The Desert รำพันรักวายุทะเลทราย (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f5ca3822665fe0c914f49d35a78ac6d0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/393e5ef8760d234beaa278e13c8fed18/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/377438a45606daede53dcb8679e45d1f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e135b5273d9ce3b09f222bcdc6eaedb5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/890b612ab30f1f8f4eef5dfc8f9757f1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/39c8f9a86c11858d47e971116fa55232/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/30b54bb9acfe6b351cd8ac682889ce38/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/917fd63c9e3940e392ad05969f4d3b63/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/da69088c1a3fa323d97137c131d89587/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e0658ce1366997373752b8e9e9346f7b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4d7124d9d9cab5032aba55fb85e9f2fa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0522a82e78c24678a0777e9c543269fc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e873fbdbea859bac9174fc3adf0d847d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/74a4b14bdd29c4235aa8a3523f2470e0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/58a578e7f82dfb8eb0daaa6f149852d0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2e459a03f9e8386eadacc7238a820ac8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/956d6f7bc3b0b027be1f2cf8873fa7fa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b9541ab4530956670e3591645cec07d7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/430f07e3c0d4b0fc24e2b23c8e250d88/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/cef92c181aaa0039e9df91a888e4337b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/161e8c1450a0454034addacbfb1c9176/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/756aad7e567a6e0a640f3818237a510c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/977b3fde21475ae46977a26f58ef1f21/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/81f9d85c5e30a8d149ecf553f89dd6f9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d2803212da873603039ef9ad12496f58/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ea4512d92f6adbbabdc93576234dc61c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Gundam: Requiem for Vengeance กันดั้ม: บทสวดส่งวิญญาณแห่งความอาฆาต (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d33b14a2c14750065776aedb569ddb93/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a251e8015af528f113215141df06adc4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8eec65d85de96f2ef15a18f76870ed98/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dd9f2bbcaec56077eb2e39b9afa7b192/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e357fcc5ecfc1f9d68487c7e62f9d47a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b0a026c8635999c7682d43fc6f827733/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Blue Lock: Episode Nagi (2024) บลูล็อก เดอะมูฟวี่ : ตอนนากิ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blue-Lock-Episode-Nagi.jpg",
+   "stations": [
+    {
+     "name": "Blue Lock: Episode Nagi (2024) บลูล็อก เดอะมูฟวี่ : ตอนนากิ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blue-Lock-Episode-Nagi.jpg",
+     "url": "https://master.streamhls.com/hlsr2/3de3b196a0acd5d27d4fd408b336b1fb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Prey (2024) ขย้ำ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Prey.jpg",
+   "stations": [
+    {
+     "name": "Prey (2024) ขย้ำ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Prey.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b8f04d9a6f0ff059bc2ab0c93f0ec122/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Prey (2024) ขย้ำ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Prey.jpg",
+     "url": "https://master.streamhls.com/hlsr2/94c75dc36ec6e3000994410cb63eb37d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Turnaround (2024) เดอะ เทิร์นอะราวด์",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Turnaround.jpg",
+   "stations": [
+    {
+     "name": "The Turnaround (2024) เดอะ เทิร์นอะราวด์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Turnaround.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0949d4e4aad411e869c9c278883157cc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Silent Love (2024) สื่อภาษาใจไปถึงเธอ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Silent-Love-2024.jpg",
+   "stations": [
+    {
+     "name": "Silent Love (2024) สื่อภาษาใจไปถึงเธอ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Silent-Love-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4e9e14571f632155a328812761a63115/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Happiness Is (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Happiness-Is-2024.jpg",
+   "stations": [
+    {
+     "name": "Happiness Is (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Happiness-Is-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/27fc92358650553241b291dd80ed3245/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "LEGO Marvel Avengers: Mission Demolition (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/LEGO-Marvel-Avengers-Mission-Demolition.jpg",
+   "stations": [
+    {
+     "name": "LEGO Marvel Avengers: Mission Demolition (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/LEGO-Marvel-Avengers-Mission-Demolition.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ec975854fa7ccbd48720f3573e8e80fc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Painter (2024) จิตรกร",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Painter-2024.jpg",
+   "stations": [
+    {
+     "name": "The Painter (2024) จิตรกร",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Painter-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/757ba3026f8224c7d5b344eb782141db/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Painter (2024) จิตรกร",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Painter-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ed799ba4ac30be220e9d3863bc9b1ef2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Carved (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Carved.jpg",
+   "stations": [
+    {
+     "name": "Carved (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Carved.jpg",
+     "url": "https://master.streamhls.com/hlsr2/9bba48e898a77d835beedf825fd9abd2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Judge from Hell (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e2525f989ec768e97a3349fa3d0d0c2f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b0f068f659870eae79ba1a960e178f1f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/9b30a337c958e8ae95aacdc53637c767/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d845e5409cf1537af850dfd3a8ae566c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/946a5f417e60cd08eafce4d4e1d79b61/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/635b95a9069e684631b5f968d7cc855c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8e42c53d1c36c93799c8018e89302849/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/06045603667ec9439c43dbe799462cde/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/71ed558b3cd2fe7e58a17557951ccce5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ce19a240f695c7063d4518c2a697a7cb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Snowy Night Timeless Love หิมะเจ็ดรัตติกาล รักไร้กาลเวลา (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8a9e46234cbeba1e728ed2205bed0310/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/46ad87d60a36aafb324b3ae15bcbfa04/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/72c491fcba2c82e606009ffd71e844c2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dbaec18b45e20470b8619ecb134bfed2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b6f7d4bc935452fadc0cf549923f2d30/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5e8924b0e49ce8788d230b4c1b3f7ecd/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d8013c0a59458ed4ecb3cdbde07c11b5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/958a289a34447a53c1972f2f38e8aa81/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/49fb0bde4ef49a57f513f7e1cf35ab34/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/76327b955172609a3154e07793d2f602/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/34b2b6890a7140ba608bbc61a2dd0c9e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0f7ff0ea9b2cfc953e94fe502493ae39/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6f70fabf6b342035aa52dcc0154130b6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/00f27eb998c26369416b5f226fc75227/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/714baa763c723e6cb1e9f36b48a8709b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4c460c2ba21dc538656755d2b8a5ff8c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/49b08a796cf25b2fcd341d18c192efd0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/44f24dff2e7e45e55d2abc9fb34b5e22/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/88c9119f0b543fdf726fb9eb0dc2e78a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6cf794100d1dee4fb736c546644cc14e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/18b9f0b78ffecf70393da28d8d1d10da/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/532c04b9549ee0b7e055cd7c4b3168a4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b09a52ccf1c72d1f01227f47deab2bde/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Snowy-Night-Timeless-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/da8d2880a1c9f7ec29ef5ec335692a31/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "เมืองลับแล (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5c0b7e90215c2cad8cded0aa65c1e021/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8d4d307829d75bd22796a8bbbd4de6cc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4360a4ae046228fd5ca7f111e53774ff/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f77920a783fef3f1d7be389d0f4d5f02/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c8812b892c3df0d760691c347c80bf48/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/faac093efeab13ad7d7fe25132e6a086/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d155826a6d74bd041b913dfd68f87492/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1da5c12caf5a898f4a45b4a293331f5a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e6ebcf39f0ddf0bc769b847c7b01512a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/990b6292f63ca8a723b064b709968f53/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e4458a6af6ed2ffc244481b0bf5382fe/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ee4d7e78a69643545696fed3e4766335/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/aebe58e358c879aa25aef403365d966f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/3d49f0d9c9e49a4ad3a4ebdad8ca1494/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f79a32de20abf704ea799693726f57e6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b9e0d80b4719428b7fbc92dea530be20/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Penguin เดอะ เพนกวิน (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Penguin.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Penguin.jpg",
+     "url": "https://master.streamhls.com/hlsr2/3671d2ccbce7ef94847209ec63702b76/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Penguin.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6ca479554e0577606943a912f60e4abb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Penguin.jpg",
+     "url": "https://master.streamhls.com/hlsr2/498e9a7e22d127fb67b62f1156e510d2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Penguin.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fd692e114c69804ab265bae4210ddce8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Penguin.jpg",
+     "url": "https://master.streamhls.com/hlsr2/49d7169e1721232f91fc070d33f65ea7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Smile 2 (2024) ยิ้มสยอง 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Smile-22.jpg",
+   "stations": [
+    {
+     "name": "Smile 2 (2024) ยิ้มสยอง 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Smile-22.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7477cfeaf32a091f0cf1adae54462bac/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "ธี่หยด 2 (2024) Death Whisperer 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Death-Whisperer-2.jpg",
+   "stations": [
+    {
+     "name": "ธี่หยด 2 (2024) Death Whisperer 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Death-Whisperer-2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4d634c0206fce4d3512d542903f2a0f8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Man Who Loved UFOs (2024) ชายผู้คลั่งไคล้ยูเอฟโอ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs.jpg",
+   "stations": [
+    {
+     "name": "The Man Who Loved UFOs (2024) ชายผู้คลั่งไคล้ยูเอฟโอ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f19b41f8b9a508ef2f70e58af0cefb65/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Man Who Loved UFOs (2024) ชายผู้คลั่งไคล้ยูเอฟโอ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Man-Who-Loved-UFOs.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d569eba3d501e1b14b9856a08f4659ac/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sing: Thriller (2024) ร้องจริง เสียงจริง: Thriller",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Sing-Thriller.jpg",
+   "stations": [
+    {
+     "name": "Sing: Thriller (2024) ร้องจริง เสียงจริง: Thriller",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Sing-Thriller.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7d04f97f72600b6d9f8b502e71eaa8f5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "I Not Stupid 3 (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/I-Not-Stupid-3-2024.jpg",
+   "stations": [
+    {
+     "name": "I Not Stupid 3 (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/I-Not-Stupid-3-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8b373f1d05cc5235159c8b2d48d38352/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Wild Robot (2024) หุ่นยนต์ผจญภัยในป่ากว้าง",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Wild-Robot.jpg",
+   "stations": [
+    {
+     "name": "The Wild Robot (2024) หุ่นยนต์ผจญภัยในป่ากว้าง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Wild-Robot.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ebe6eb80bcae6c05e128fe1277936611/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Canary Black (2024) รหัสลับดับโลก",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Canary-Black.jpg",
+   "stations": [
+    {
+     "name": "Canary Black (2024) รหัสลับดับโลก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Canary-Black.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fcea6758ea87cb46236f2c4f59cfc0fe/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Outside (2024) เอาท์ไซด์",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Outside.jpg",
+   "stations": [
+    {
+     "name": "Outside (2024) เอาท์ไซด์",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Outside.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e866b9a94687070eb0411918bdfdc7d8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Outside (2024) เอาท์ไซด์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Outside.jpg",
+     "url": "https://master.streamhls.com/hlsr2/239776627c22ffc359a8f49da34164a7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Twisters (2024) ทวิสเตอร์ส",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
+   "stations": [
+    {
+     "name": "Twisters (2024) ทวิสเตอร์ส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/225490fb08d4b6a4287f2f4c3e528db4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Twisters (2024) ทวิสเตอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a013383235a5edac1184e860ddce1b3a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Twisters (2024) ทวิสเตอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
+     "url": "https://streamhls.com/view/4fd211e2-e65d-51ae-bdcf-a2e92e09c359.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Shadow Strays (2024) นักฆ่าเงาล่าทรชน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Shadow-Strays.jpg",
+   "stations": [
+    {
+     "name": "The Shadow Strays (2024) นักฆ่าเงาล่าทรชน",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Shadow-Strays.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a9aa06eedb67456322e1491ea5e29aa5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Shadow Strays (2024) นักฆ่าเงาล่าทรชน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Shadow-Strays.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6d4e12566ec2bdead3bae9e9f043626b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Babes (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Babes-2024.jpg",
+   "stations": [
+    {
+     "name": "Babes (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Babes-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/459227ae6bd2257167c15553390343c4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Jade (2024) เจด",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Jade-2024.jpg",
+   "stations": [
+    {
+     "name": "Jade (2024) เจด",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Jade-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d2f8f121312b44723bcc8ffe839ee1c5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Brothers (2024) บราเธอร์ส: ปล้นครั้งนี้เพื่อพี่ที่รัก",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Brothers.jpg",
+   "stations": [
+    {
+     "name": "Brothers (2024) บราเธอร์ส: ปล้นครั้งนี้เพื่อพี่ที่รัก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Brothers.jpg",
+     "url": "https://master.streamhls.com/hlsr2/179640d27c9c10ae9965b6cb60b658d5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Brothers (2024) บราเธอร์ส: ปล้นครั้งนี้เพื่อพี่ที่รัก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Brothers.jpg",
+     "url": "https://master.streamhls.com/hlsr2/83ada81225107782bdd1473164312064/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "รักวนลูป (2024) Love Stuck",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-Stuck-2024.jpg",
+   "stations": [
+    {
+     "name": "รักวนลูป (2024) Love Stuck",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Love-Stuck-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/29008b00d9866a13942e88667f774415/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "เทอม 3 (2024) Haunted Universities 3",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Haunted-Universities-3-2024.jpg",
+   "stations": [
+    {
+     "name": "เทอม 3 (2024) Haunted Universities 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Haunted-Universities-3-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/22caa9f5acd380f2a514774087ca95ed/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Love Next Door รักอยู่ประตูถัดไป (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/35136d59d4a899013e163a739dc41472/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2db2f14eeb33a82f0e7a2f95f555e48b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e551434ff7fb6ca2eb59305f20579f79/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/148b757b05e8c5be3e9884773214001b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1cb447da47eaa6f0d3cd6ba528b84f33/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b2c71c695ecff89663b9a4996f3f7445/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/86b7e2770b1fd76107da0e5fe24261b9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/88c2bcc5a3300459438d87ea55439aba/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5a98ec90fc038b48fb826a58767b2a00/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6fc43223b7242c98d24df0394d65b0fa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d7ec78ab55dc2b6809efc0ebc8dc4cdc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/cc409ff61c8e67acaef7cdeb592e43a5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b378bff96a46437d79681d4a2fe15ffc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a7d55a6d7fb061d6b495e55c8ba1bc5d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4784c25f19bf91e4df8432d5f5fc32b8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1bd39057f1594c70ff2c58883cc1a323/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Sweet Bobby: My Catfish Nightmare (2024) ฝันร้ายภัยนักตุ๋น",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Sweet-Bobby-My-Catfish-Nightmare.jpg",
+   "stations": [
+    {
+     "name": "Sweet Bobby: My Catfish Nightmare (2024) ฝันร้ายภัยนักตุ๋น",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Sweet-Bobby-My-Catfish-Nightmare.jpg",
+     "url": "https://master.streamhls.com/hlsr2/54fbf31dad466cd563ff80f1e9447f89/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Justice (2024) ล่าความยุติธรรม",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Justice-2024.jpg",
+   "stations": [
+    {
+     "name": "Justice (2024) ล่าความยุติธรรม",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Justice-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/72808ee2039c1c8be91f9445294a8d83/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Alien: Romulus (2024) เอเลี่ยน: โรมูลัส",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Alien-Romulus.jpg",
+   "stations": [
+    {
+     "name": "Alien: Romulus (2024) เอเลี่ยน: โรมูลัส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Alien-Romulus.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1afb84aea652fc8380f2a0f151b28b2d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "House of Spoils (2024) เชฟ บ้าน วิญญาณหลอน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/House-of-Spoils.jpg",
+   "stations": [
+    {
+     "name": "House of Spoils (2024) เชฟ บ้าน วิญญาณหลอน",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/House-of-Spoils.jpg",
+     "url": "https://master.streamhls.com/hlsr2/079c8b33918ce705ec9bfecfb5e1e68f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "House of Spoils (2024) เชฟ บ้าน วิญญาณหลอน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/House-of-Spoils.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e0c03b99d063ea22e454126118033941/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Last of the Sea Women (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Last-of-the-Sea-Women-2024.jpg",
+   "stations": [
+    {
+     "name": "The Last of the Sea Women (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Last-of-the-Sea-Women-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e5131b44343d09bd8df597f9871fe157/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "V/H/S/Beyond (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/VHSBeyond-2024.jpg",
+   "stations": [
+    {
+     "name": "V/H/S/Beyond (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/VHSBeyond-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/3edfb534b3f94b2d325a2c5e4ac52382/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Killer’s Game (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Killer-s-Game.jpg",
+   "stations": [
+    {
+     "name": "The Killer’s Game (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Killer-s-Game.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0a03d4d38ec027a4e18c7102818a4b8f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "That Kind of Love (2024) รักแบบนั้น",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/That-Kind-of-Love.jpg",
+   "stations": [
+    {
+     "name": "That Kind of Love (2024) รักแบบนั้น",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/That-Kind-of-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7a01f8e62e584c8ded63e2c1124bf23f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mystic Singer (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Mystic-Singer-2024.jpg",
+   "stations": [
+    {
+     "name": "Mystic Singer (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Mystic-Singer-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f93ad1cb9ca91156da811b8a3a151171/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Operation Blood Hunt (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Operation-Blood-Hunt-2024.jpg",
+   "stations": [
+    {
+     "name": "Operation Blood Hunt (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Operation-Blood-Hunt-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e76527e8c2db563d4f2c7a41fc84e21d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Operation Blood Hunt (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Operation-Blood-Hunt-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c1ae0b0474ac09afa44d287142bff983/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Batman: Caped Crusader แบทแมน อัศวินรัตติกาล (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/9739be63cb1e94a7bdff79a10226ca27/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fd5434f83889192ddc0811f0fb12ad36/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5fbcd2821b63687cbeb1efc81a2ab9e9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4c5517f8a5c532fa3b13165859d19c96/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e20dfa8cc37420e58666a8cd9a1f5c26/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/212783be2d1a78da03b13125830e54b5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/06df3f19bb0dd013d8355d3ad07e2537/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/efdfd6f1edc96ba00172b096e7cc92dd/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5d42d74bb9df4d2fc3a1c3a2228508e4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Batman-Caped-Crusader.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ef1ec28ab3a032ccbaa05c8538c131f4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Deceitful Love รักลวง (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Deceitful-Love.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Deceitful-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8b52b735d17a01c8088776884051dede/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Deceitful-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/01261a9f1a364fb02da4041a469b4245/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Deceitful-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/444af086999a56ce932606c06d728199/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Deceitful-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6fca7312e06718ca17c05de5006c88e1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Deceitful-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/975bb25bee40c18b119f4bda6c639ced/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Deceitful-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/25e5f91b75c5ca83a55ce01cd536c8ed/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "In Her Place (2024) ชีวิตบนเส้นขนาน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/In-her-place-2024.jpg",
+   "stations": [
+    {
+     "name": "In Her Place (2024) ชีวิตบนเส้นขนาน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/In-her-place-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/cd4e4004a954aab21391d8b1a5a7eb68/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Mr. Crocket (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Mr-Crocket-2024.jpg",
+   "stations": [
+    {
+     "name": "Mr. Crocket (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Mr-Crocket-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/047ef2b1a980f681cd8b76d3f7a80d23/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Never-Let-Go.jpg",
+   "stations": [
+    {
+     "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Never-Let-Go.jpg",
+     "url": "https://master.streamhls.com/hlsr2/90d27b4b6588591c20d9c0347af61d3f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blink-Twice.jpg",
+   "stations": [
+    {
+     "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blink-Twice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d273e7349ae91d2c44af29a6f6dbf69a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blink-Twice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/571181972e3b7a182e59cb68eb789072/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Tomb Raider: The Legend of Lara Croft ตำนานลาร่า ครอฟท์ (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+     "url": "https://master.streamhls.com/hlsr2/16e9ce9125337de9b3701581c1e8d013/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2eb0158b8f87d2a1d71d6f47eed32576/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ca2b25ee61ed93a71eaa2ff3f4ddeb49/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dc134a6b6a976b302244370bc37ce666/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0c7a45139d6776fa32fb4f3d7f19dacb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5eab7fac16186da9fcc1fd1aea4c0e6c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e28b9fa4ab126de30059d90768c5b911/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Tomb-Raider-The-Legend-of-Lara-Croft.jpg",
+     "url": "https://master.streamhls.com/hlsr2/81dac60fea99c6c88d097382dcc22f9d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Uprising (2024) กบฏผงาดแผ่นดิน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Uprising-2024.jpg",
+   "stations": [
+    {
+     "name": "Uprising (2024) กบฏผงาดแผ่นดิน",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Uprising-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/3d620458f2abb814139245c87e1f2807/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Uprising (2024) กบฏผงาดแผ่นดิน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Uprising-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4d3b038915c71acc6db59745f3d45347/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "หอแต๋วแตก แหกสัปะหยด (2024) Oh My Ghost : The Finale",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Oh-My-Ghost-The-Finale.jpg",
+   "stations": [
+    {
+     "name": "หอแต๋วแตก แหกสัปะหยด (2024) Oh My Ghost : The Finale",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Oh-My-Ghost-The-Finale.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6a7b7ac21201c2c5567f30977f546872/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Lonely Planet (2024) ที่หมายใจโดดเดี่ยว",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Lonely-Planet-2024.jpg",
+   "stations": [
+    {
+     "name": "Lonely Planet (2024) ที่หมายใจโดดเดี่ยว",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Lonely-Planet-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5212b183adff700e12be00086658cd4c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Lonely Planet (2024) ที่หมายใจโดดเดี่ยว",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Lonely-Planet-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/24162a71e06cd07c0c471283a14e0b74/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Monster High 2 (2023) มอนสเตอร์ไฮ อลเวงปีศาจพันธุ์ใหม่ เดอะ มูฟวี่ 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Monster-High-2.jpg",
+   "stations": [
+    {
+     "name": "Monster High 2 (2023) มอนสเตอร์ไฮ อลเวงปีศาจพันธุ์ใหม่ เดอะ มูฟวี่ 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Monster-High-2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/59cabae00456c06a85342fe8b48957b5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Reunion (2024) รียูเนียน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Reunion.jpg",
+   "stations": [
+    {
+     "name": "Reunion (2024) รียูเนียน",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Reunion.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1bde50968247ab0ee75038563ce04384/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Caddo Lake (2024) บึงลี้ลับ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Caddo-Lake.jpg",
+   "stations": [
+    {
+     "name": "Caddo Lake (2024) บึงลี้ลับ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Caddo-Lake.jpg",
+     "url": "https://master.streamhls.com/hlsr2/055581bd73efdd421d4ca26a639a4f5e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Citadel Diana ซิทาเดล ดิอาน่า (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Citadel-Diana.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Citadel-Diana.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7e1b385c2a734ca20502a5b1dbe048f1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Citadel-Diana.jpg",
+     "url": "https://master.streamhls.com/hlsr2/40354b2f0af9b7fe094fb3cce94aed5f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Citadel-Diana.jpg",
+     "url": "https://master.streamhls.com/hlsr2/00a10a84fa7c8054b2957ce98b247fb6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Citadel-Diana.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fbdf73bb82d2955ecf6360f80e3b60ef/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Citadel-Diana.jpg",
+     "url": "https://master.streamhls.com/hlsr2/afdf2f6262b67f50aac844f42cdef8bd/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Citadel-Diana.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7ef2c9aa71ba90c5121aa0ff11711ce1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Afraid (2024) แอบฟัง สั่งตาย",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Afraid.jpg",
+   "stations": [
+    {
+     "name": "Afraid (2024) แอบฟัง สั่งตาย",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Afraid.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ee38a06b27a4d07eabc27a3e866572b3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Afraid (2024) แอบฟัง สั่งตาย",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Afraid.jpg",
+     "url": "https://master.streamhls.com/hlsr2/16bbe1f31514f08243c0e2acad4e2f44/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "อนงค์ (2024) My Boo",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/My-Boo.jpg",
+   "stations": [
+    {
+     "name": "อนงค์ (2024) My Boo",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/My-Boo.jpg",
+     "url": "https://master.streamhls.com/hlsr2/50f9f7b0c6bcf8d8434e44060282e6ee/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Divorce (2024) หย่า",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Divorce.jpg",
+   "stations": [
+    {
+     "name": "Divorce (2024) หย่า",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Divorce.jpg",
+     "url": "https://master.streamhls.com/hlsr2/67dce2f8210cbc8fbe7faeeee1674e3b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Forge (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Forge-2024.jpg",
+   "stations": [
+    {
+     "name": "The Forge (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Forge-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6ffb754076458d8b90d95a754a5c05ae/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Thelma (2024) เธลม่า",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Thelma.jpg",
+   "stations": [
+    {
+     "name": "Thelma (2024) เธลม่า",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Thelma.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a9248b1a0c868225487b9d797232647d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Summer Camp (2024) ซัมเมอร์แคมป์ เพื่อน(รัก)กันยันแก่",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Summer-Camp.jpg",
+   "stations": [
+    {
+     "name": "Summer Camp (2024) ซัมเมอร์แคมป์ เพื่อน(รัก)กันยันแก่",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Summer-Camp.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dc76a7a1a78d958ee05033efe979f615/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Menendez Brothers (2024) พี่น้องเมเนนเดซ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Menendez-Brothers.jpg",
+   "stations": [
+    {
+     "name": "The Menendez Brothers (2024) พี่น้องเมเนนเดซ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Menendez-Brothers.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2e88781036b1171d03d930ae3abf35ad/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Menendez Brothers (2024) พี่น้องเมเนนเดซ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Menendez-Brothers.jpg",
+     "url": "https://master.streamhls.com/hlsr2/faca5e3812d7a78fdfaa65e9dca53d2c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon.jpg",
+   "stations": [
+    {
+     "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon.jpg",
+     "url": "https://master.streamhls.com/hlsr2/55b10d7a432830909fa9dcf2225ffc2d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ee69cf50ed3f3bf491e376107b8edb44/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon.jpg",
+     "url": "https://streamhls.com/view/09ff5fc2-479b-528b-b797-0766aef8e9aa.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice.jpg",
+   "stations": [
+    {
+     "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/96311a3b777ce46aff24ce1ff3a1d3ad/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/70ad21ebe9b283813b60061b9cfce7f1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Love of Nirvana ธารธารารักนิรันดร์ (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e891df06ee1745b4c6428c2747c769a5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2d0428786add89baba2e4dea8262a4d7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/df51148622374206baddc582f224372e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fa22d6e73aad946a546970aba4e76cbc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b0cf3d4827d7ac8e282a6edf58866039/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/556b4bfc33c53a9845a76a3a29ff67c7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/43f9016173ab68b47d4c2dec86ca920e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a803cf90c0ba939114ad74431890f7aa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/3987a775165fdb97427fb61263d7f6b5/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/06ef3f63ba8167d2ca7622b740979393/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/bf5df38db787f28c4f23a17f27664ff8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5e36b8710cb5c3824a332a2b747d660c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a4a448a54ab1b9e2b1c90a750b64d58e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/04537cc9a7c716ebcc13df88b7cf87fa/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/bbca1b65ad0a406c7f15d695244a3659/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c5367e0d132a3e21e9bfb030560360f3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7d34c0f2812e5235e5913e5983c3cade/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7cd18673ac4cf8e82e69a967a50f6219/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b6969c5ca09c7286d1a8506940957792/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7fb1f0add249bb3ff0f8029a26bf3b3d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a27bf371815caa8e81ca561c89280ebf/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b8559aac9c30b81a8154ed188cdb3150/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/47febc67d895250821b1ad8342033eaf/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a09773241783cacc6868f0e3e7ba6b37/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 25",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dc8294d0e84e15fdd4c0119f435d1d7f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 26",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2d81e66f7003a75ad91ed64e3714e66a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 27",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/787519d699943b58ba1f3e6b9ccef5ac/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 28",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e24b63110d584b0139018c82bb98e239/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 29",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/31ac207bcbf68baecb90e1b113fe630a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 30",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/32c0b6f3007d652bf733bfb6037cc91d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 31",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/9c5ff599c48ba3e05f8fa3cf9467874d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 32",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/56d3c11142b30d26848b04e1e1ff70ca/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 33",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d2e8ae2bc0c44532f1d3610cdcc22939/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 34",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a4e6106c4859164ee353e5f92b492c31/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 35",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4cabde0de1c5f79ba96041fa7a06fe10/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 36",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dce547b17d78c77950d0c7a666106b21/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 37",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/619fc2c5f30d0789f94b8b28521c1269/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 38",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/86246ffa9a86a846a75ca09d52d6385f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 39",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/aba160d91807a7d5d5442fa75bc5d711/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 40",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/45afb01dbaab3cfd57192331847c01e6/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Lord of the Rings: The Rings of Power Season 2 เดอะลอร์ดออฟเดอะริงส์: แหวนแห่งอำนาจ ซีซัน 2 (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+   "stations": [
+    {
+     "name": "ซีซั่น1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/3b572514-cca5-5f72-a029-d4a04462a456.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/942edb59-e25c-5b76-a18f-06011e00389c.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/f7991702-f058-5d7b-9d8f-4a6df689460e.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/82fe938b-0d95-54b0-a206-71f57afee73f.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/db5b49fb-adfa-5725-8627-76e66efb4aa7.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/518b0249-3ef0-51eb-94cd-3b5eb0e5f084.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/5478e0b0-683c-5007-942d-f32e34192ca9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/91e4e348-91ab-5dc5-b7ca-0094ecff2ce9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/855404b2-a5bd-5668-9298-00ceddc9e507.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/75404a4b-2248-54d9-b7d4-9f038aa510e9.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/634845fd-e4ed-5088-b544-b10c75ab89da.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/4bdc82de-a13d-5848-b697-d76309d0e17a.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/7010a81d-18b6-594a-ae8b-9605d90caf19.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/47ce7e0f-7dcc-5d9d-8003-07547dbfb4f5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/0aeaa6d1-b1dd-516a-9982-dc0ed54b7de0.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น1 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://www.sgcdnseries.com/view/600e5aad-7b6a-5196-9944-c2c06213593b.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8d5a580ae70206bc3a1afcb521087f86/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0b7331822205c69642461b3b4b2d298c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/68fabb987d0099a05abdc77829a91dfd/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/361856a23b8bd21e0b88af4518ffc780/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/97c0883054cc3bbdeba4ad2f983b1d3e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4d055d5ed1368d0e4c44ea6cd13504dd/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/89aa7f200f464989797bdcb07f3f1760/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e79ef0547f36c04bf3b39d486a88f2e8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b0470abbd9b19323b1ebab097b028e97/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6410a8ee2dd11423ade15ed97b43603a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/db4ee406816fbc83d789653d21e64fc2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/089a47a9ec464d15e843bbdab5392560/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/58cebc085b9a3a2f01b7ecb4c40bb32e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/bc25f73c4b971ce6f9cd08e18599219a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5ceaa2bdf7d6c29ecda2b604c0a16b20/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ซีซั่น2 ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fe247ed59ae643f7916041c54ef92fb8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Echo of Her Voice คีตาพานพบ (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a00ae85a49fecd7a66a0d6d0631fc4c9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/42670eb17f7c1ae592beb78b2c12a292/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8f06d253f7defdf3de4b69fe19bc8a58/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1bae0462b5721444a81ddebb9334eff3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ecb3b8608d957843baed159ae76483a2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fccfa02166ac422fa855eaee3419e2c9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fd6177d0086064788493f10daaa8e420/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/51109caa144db013bdd364242ff4b80c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6f6d3b021ea373600572a817ed188143/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/eac151029b72fe1d6ca99cca9db445b8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8b7e45f3ac3df2f27ec0727663fe6da4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/42a44be1dce9317888bc04425d1cce98/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1baad891e323b4c53491d002ea7b5a3b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/956970266fe2abe824c8d460cc59f1b0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/61c073f8fdacfa0688b999e600a82814/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c61fd7cf08dda0e7791e198e65088737/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/e973549c63770392ef76cb2ac3608778/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/387467fc03c266840ff42c0658c0fca4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ac5d640bf8750870206e9ac07346e05a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0f98219e043a3e709cea254db6e45658/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/be765caab95aca605be83b17358c832c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b2030a28c640b2324b0fbdc697dba644/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5ec6f076e02699c0a2604d952509aaf7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
+     "url": "https://master.streamhls.com/hlsr2/419d7bdbbe627f338755b79534a0e18d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Fall in Love with a Fox บ่วงเสน่ห์เล่ห์สิคาล (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/9384f15cbc7a9fa1714e1044b0b90dcb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/99fd588e1c5368a1db0884cdfd8fab8c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/79b8f1193d2cdc41246e9a8ec8bdb9c8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a87c9c6bb56aadadae2772b5dbe6e9a1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ac27930a13162fe3d6bfccd290f1da3f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dea82091dbf43f902d287843db3f91e9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/965d802161fc130e30290cb965bd1039/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c61799085edc3af32cfded8437684c42/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4f828ff0771f28c582bd086aad425570/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c37af363d7d028cda28112391e2181c4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c8a0c9f87583a55b0cf2e3823cc979f8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f3288ce9d6356193e01fd9fa4941cf36/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1aceee299821355d9cd6705e38726e8e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/44a6a2a4b556a260613307e26af6e0b1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/9b6a7173afe636b6832bbb4c2186e559/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f6bb5cfcb5c0c917b92cb5e5654df24a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f599cee66229542ec2c22e719956f80b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d6694338b81e1b9128939518a2725ade/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7a078185fca118cf64c032c1f726ab81/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c4ab3931e4200054d7180d0901f4d35e/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5a409f99f687acd5a0b5360e12f113dc/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 22",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/051d3ee54e7c3ccba449dcf20874fa00/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 23",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/31ce278cf02269a141fc846def153453/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 24",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ba9d47cf1befcab82eb211c5acbb0cc1/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Fate of Beauty บุปผาซ่อนแค้น (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/43fde21a7318496204a73b6edfb2bc40/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a4ff19fb3cd417fc3e9e1b1a7f087431/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5c23e95466adcad038409d4540979e6b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/839a22ea773e6f6d05be57fecc44ca30/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d0b90c3f314f6e2a5348132d24a5424a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/98c1f02c6ba8488fd9ba05a9243167cd/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 7",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d69f2d0610575d4b0f376c2078b5f495/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 8",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/8f829898737fd5971e7a4c7307119c70/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 9",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/101358c5969754025bc2103d43cb0274/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 10",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1ae1fb4e2715754875520a70821fc32f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 11",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ba5d25b489a2d794faf8cd981b6c47ba/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 12",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4788929ec8875cfa9109a164d94e7fd3/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 13",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fa65a590815b741930807507a9510f78/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 14",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f121aea373826b3ee02a2594066dc989/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 15",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6d0503e0d4cb196a0b219bd8784457ea/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 16",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0d72826876f6fb5a793e59909d3610d7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 17",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/41d1e225fd6ea27241f982d65975f639/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 18",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a03de5636b66e45cb4a988d9fa4ac393/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 19",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/61099ccc77cf88a23afe0038773c9d73/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 20",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fd6183649a3e023188dcb135c9de5b93/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "ตอนที่ 21",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
+     "url": "https://master.streamhls.com/hlsr2/ba53d4aa7a67abe0cbf6f30d852fc420/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Joker: Folie à Deux (2024) โจ๊กเกอร์ โฟลีย์ อา เดอ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Joker-Folie-a-Deux.jpg",
+   "stations": [
+    {
+     "name": "Joker: Folie à Deux (2024) โจ๊กเกอร์ โฟลีย์ อา เดอ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Joker-Folie-a-Deux.jpg",
+     "url": "https://master.streamhls.com/hlsr2/2cf5eb15bd29727261ec1fe99f82633d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Doraemon the Movie: Nobita’s Earth Symphony (2024) โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobita-s-Earth-Symphony.jpg",
+   "stations": [
+    {
+     "name": "Doraemon the Movie: Nobita’s Earth Symphony (2024) โดราเอมอน เดอะ มูฟวี่ : โลกแห่งซิมโฟนี่ของโนบิตะ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Doraemon-the-Movie-Nobita-s-Earth-Symphony.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4def8585cb9750d33c86808ca79c85eb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
+   "stations": [
+    {
+     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b82496b955fd697bff760d53b71a385a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/7eea62a28dfb6cffc9f2b9b331e6453f/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
+     "url": "https://streamhls.com/view/5ae499e9-f97e-5d5a-8d75-efe0a06ba1c5.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Dog Days (2024) ด็อกเดย์ สี่ขาว้าวุ่น",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Dog-Days.png",
+   "stations": [
+    {
+     "name": "Dog Days (2024) ด็อกเดย์ สี่ขาว้าวุ่น",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Dog-Days.png",
+     "url": "https://master.streamhls.com/hlsr2/b7de7b7c0c48adcd71e1c5e39d3da0a7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Dog Days (2024) ด็อกเดย์ สี่ขาว้าวุ่น",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Dog-Days.png",
+     "url": "https://master.streamhls.com/hlsr2/11cca526abe70e9f56133212d3443813/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Salem’s Lot (2024) ท้าสู้ผีนรก",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Salem-lot.jpg",
+   "stations": [
+    {
+     "name": "Salem’s Lot (2024) ท้าสู้ผีนรก",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Salem-lot.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f99d11854f824476d0bee0675b5f87ab/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Salem’s Lot (2024) ท้าสู้ผีนรก",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Salem-lot.jpg",
+     "url": "https://master.streamhls.com/hlsr2/223cbd4384a7e99e08d281a14620342a/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Platform 2 (2024) เดอะ แพลตฟอร์ม 2",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Platform-2.jpg",
+   "stations": [
+    {
+     "name": "The Platform 2 (2024) เดอะ แพลตฟอร์ม 2",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Platform-2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/5b67b6d1e0ddfb8419a13c85ead22623/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Platform 2 (2024) เดอะ แพลตฟอร์ม 2",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Platform-2.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6c070d2cb4085621472f9b7164cf7ee2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Platform (2019) เดอะ แพลตฟอร์ม",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/03/The-Platform.jpg",
+     "url": "https://master.streamhls.com/hlsr2/6a6ec7af58233e08d9f58a095c472b65/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Platform (2019) เดอะ แพลตฟอร์ม",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2020/03/The-Platform.jpg",
+     "url": "https://master.streamhls.com/hlsr2/303280818fc12d30dbc86c1beed4fcb7/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Diary (2024) ปริศนาสมุดขุดอดีต",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Diary.jpg",
+   "stations": [
+    {
+     "name": "The Diary (2024) ปริศนาสมุดขุดอดีต",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Diary.jpg",
+     "url": "https://master.streamhls.com/hlsr2/046eefcdb8f387ea60dcec7b63781b07/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Diary (2024) ปริศนาสมุดขุดอดีต",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/The-Diary.jpg",
+     "url": "https://master.streamhls.com/hlsr2/fed9bd75a53ebcb470e1ec17facd51c9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "It’s What’s Inside (2024) กระเป๋าลับสลับร่าง",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/It-s-What-s-Inside-2024.jpg",
+   "stations": [
+    {
+     "name": "It’s What’s Inside (2024) กระเป๋าลับสลับร่าง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/It-s-What-s-Inside-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/af0ab4f66c0d6e00649566e621d102ce/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "It’s What’s Inside (2024) กระเป๋าลับสลับร่าง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/It-s-What-s-Inside-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/4986f62fac10fd4e1f3ccd028a97b6cf/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "CTRL (2024) คอนโทรล",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Ctrl-2024.jpg",
+   "stations": [
+    {
+     "name": "CTRL (2024) คอนโทรล",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Ctrl-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c7eb1328bcb8ab802954df9b094219ed/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "CTRL (2024) คอนโทรล",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Ctrl-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/0e30e249d35077b96e4a028d3c5a3b9c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "She Taught Love (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/She-Taught-Love-2024.jpg",
+   "stations": [
+    {
+     "name": "She Taught Love (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/She-Taught-Love-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/cb03a252fae601ccbeac8ab64de3025b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Memoir Seorang Guru (2024) บันทึกของคุณครู",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Memoir-Seorang-Guru.jpg",
+   "stations": [
+    {
+     "name": "Memoir Seorang Guru (2024) บันทึกของคุณครู",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Memoir-Seorang-Guru.jpg",
+     "url": "https://master.streamhls.com/hlsr2/1a6ce2e32273c86865365d55ee0c93a0/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Between the Temples (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Between-the-Temples-2024.jpg",
+   "stations": [
+    {
+     "name": "Between the Temples (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Between-the-Temples-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f05270215d450b11d4d2e4f8f1dd08bb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Hold Your Breath (2024)",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Hold-Your-Breath.jpg",
+   "stations": [
+    {
+     "name": "Hold Your Breath (2024)",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Hold-Your-Breath.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dae8c2bddc3e23a821341e84dea24ff2/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Trouble (2024) ผิดที่ ผิดทาง",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Trouble.jpg",
+   "stations": [
+    {
+     "name": "Trouble (2024) ผิดที่ ผิดทาง",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Trouble.jpg",
+     "url": "https://master.streamhls.com/hlsr2/9e062cfa986f24d3bdbfab4b5e403175/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Trouble (2024) ผิดที่ ผิดทาง",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/10/Trouble.jpg",
+     "url": "https://master.streamhls.com/hlsr2/283832621fc1c61a3c9f873d2bec3b6d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Strange Darling (2024) รัก ลวง ฆ่า",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Strange-Darling.jpg",
+   "stations": [
+    {
+     "name": "Strange Darling (2024) รัก ลวง ฆ่า",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Strange-Darling.jpg",
+     "url": "https://master.streamhls.com/hlsr2/11c9b21f346ab65d44c222423eb88274/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Challengers (2024) ชาเลนเจอร์ส",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
+   "stations": [
+    {
+     "name": "Challengers (2024) ชาเลนเจอร์ส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d3f2f2402ccfdf0811ed41a63eba40b9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Challengers (2024) ชาเลนเจอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dd254459e1062ea86fda121d9bd52098/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Challengers (2024) ชาเลนเจอร์ส",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
+     "url": "https://streamhls.com/view/76f72a70-57de-54fb-a33d-c71992ac0218.m3u8",
+     "referer": "https://www.nung2hdd.com/"
+    }
+   ]
+  },
+  {
+   "name": "Will & Harper (2024) วิลกับฮาร์เปอร์ คู่ซี้ท่องอเมริกา",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Will-Harper.jpg",
+   "stations": [
+    {
+     "name": "Will & Harper (2024) วิลกับฮาร์เปอร์ คู่ซี้ท่องอเมริกา",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Will-Harper.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d14e957f2a038b84c568af2d82b9c9f9/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Deadpool-And-Wolverine.jpg",
+   "stations": [
+    {
+     "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Deadpool-And-Wolverine.jpg",
+     "url": "https://master.streamhls.com/hlsr2/840fb49a0937ebb7038730dd5a4d589c/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Rez Ball (2024) เรซบอล",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Rez-Ball.jpg",
+   "stations": [
+    {
+     "name": "Rez Ball (2024) เรซบอล",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Rez-Ball.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b0bf5cab553d584c65d9c52751e7fb34/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Rez Ball (2024) เรซบอล",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Rez-Ball.jpg",
+     "url": "https://master.streamhls.com/hlsr2/72627b1267f6eb320075cf12e18c85a8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Taklee Genesis (2024) ตาคลี เจเนซิส",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Taklee-Genesis.jpg",
+   "stations": [
+    {
+     "name": "Taklee Genesis (2024) ตาคลี เจเนซิส",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Taklee-Genesis.jpg",
+     "url": "https://master.streamhls.com/hlsr2/cded360d728f2fe04b7d3eef0ddbf30b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Transformers One (2024) ทรานส์ฟอร์เมอร์ส 1",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Transformers-One.jpg",
+   "stations": [
+    {
+     "name": "Transformers One (2024) ทรานส์ฟอร์เมอร์ส 1",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Transformers-One.jpg",
+     "url": "https://master.streamhls.com/hlsr2/17731b9049db67f3c39c3eccea324c6b/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Land of Bad (2024) ภารกิจฝ่าแดนดิบ",
+   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Land-of-Bad-2024.jpg",
+   "stations": [
+    {
+     "name": "Land of Bad (2024) ภารกิจฝ่าแดนดิบ",
+     "info": "พากย์ไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Land-of-Bad-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/b85e8ceeaef6ab3818fcb691438bef80/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Land of Bad (2024) ภารกิจฝ่าแดนดิบ",
+     "info": "ซับไทย",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Land-of-Bad-2024.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d0691c385b8630e12ce14a7241f3c3a4/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
   {
    "name": "Nobody Wants This รักนี้… ไม่มีใครอยากได้ (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Nobody-Wants-This.jpg",
@@ -278,221 +3630,19 @@
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/No-Gain-No-Love.jpg",
      "url": "https://master.streamhls.com/hlsr2/1bd101d75e88d21ab6c833fcf9dcf714/master.m3u8",
      "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Lord of the Rings: The Rings of Power Season 2 เดอะลอร์ดออฟเดอะริงส์: แหวนแห่งอำนาจ ซีซัน 2 (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-   "stations": [
-    {
-     "name": "ซีซั่น1 ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/3b572514-cca5-5f72-a029-d4a04462a456.m3u8",
-     "referer": "https://www.nung2hdd.com/"
     },
     {
-     "name": "ซีซั่น1 ตอนที่ 1",
+     "name": "ตอนที่ 11",
      "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/942edb59-e25c-5b76-a18f-06011e00389c.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/f7991702-f058-5d7b-9d8f-4a6df689460e.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/82fe938b-0d95-54b0-a206-71f57afee73f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/db5b49fb-adfa-5725-8627-76e66efb4aa7.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/518b0249-3ef0-51eb-94cd-3b5eb0e5f084.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/5478e0b0-683c-5007-942d-f32e34192ca9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/91e4e348-91ab-5dc5-b7ca-0094ecff2ce9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/855404b2-a5bd-5668-9298-00ceddc9e507.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/75404a4b-2248-54d9-b7d4-9f038aa510e9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/634845fd-e4ed-5088-b544-b10c75ab89da.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/4bdc82de-a13d-5848-b697-d76309d0e17a.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/7010a81d-18b6-594a-ae8b-9605d90caf19.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/47ce7e0f-7dcc-5d9d-8003-07547dbfb4f5.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/0aeaa6d1-b1dd-516a-9982-dc0ed54b7de0.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น1 ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://www.sgcdnseries.com/view/600e5aad-7b6a-5196-9944-c2c06213593b.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/8d5a580ae70206bc3a1afcb521087f86/master.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/No-Gain-No-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/dcb10891ef6a62966b7fbb3f2ca8071e/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
-     "name": "ซีซั่น2 ตอนที่ 1",
+     "name": "ตอนที่ 12",
      "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/0b7331822205c69642461b3b4b2d298c/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/68fabb987d0099a05abdc77829a91dfd/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/361856a23b8bd21e0b88af4518ffc780/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/97c0883054cc3bbdeba4ad2f983b1d3e/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/4d055d5ed1368d0e4c44ea6cd13504dd/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/89aa7f200f464989797bdcb07f3f1760/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/e79ef0547f36c04bf3b39d486a88f2e8/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/b0470abbd9b19323b1ebab097b028e97/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/6410a8ee2dd11423ade15ed97b43603a/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/db4ee406816fbc83d789653d21e64fc2/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/089a47a9ec464d15e843bbdab5392560/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/58cebc085b9a3a2f01b7ecb4c40bb32e/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ซีซั่น2 ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Lord-of-the-Rings-SS2.jpg",
-     "url": "https://master.streamhls.com/hlsr2/bc25f73c4b971ce6f9cd08e18599219a/master.m3u8",
+     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/No-Gain-No-Love.jpg",
+     "url": "https://master.streamhls.com/hlsr2/a1e3ed0b5177f0ed50e85c8097e4bdb1/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
@@ -633,68 +3783,6 @@
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Killer-Heat.jpg",
      "url": "https://master.streamhls.com/hlsr2/7bd1dcd0e9d3eda47c055794dcd26c30/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "เมืองลับแล (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-     "url": "https://master.streamhls.com/hlsr2/5c0b7e90215c2cad8cded0aa65c1e021/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-     "url": "https://master.streamhls.com/hlsr2/8d4d307829d75bd22796a8bbbd4de6cc/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-     "url": "https://master.streamhls.com/hlsr2/4360a4ae046228fd5ca7f111e53774ff/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-     "url": "https://master.streamhls.com/hlsr2/f77920a783fef3f1d7be389d0f4d5f02/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-     "url": "https://master.streamhls.com/hlsr2/c8812b892c3df0d760691c347c80bf48/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-     "url": "https://master.streamhls.com/hlsr2/faac093efeab13ad7d7fe25132e6a086/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-     "url": "https://master.streamhls.com/hlsr2/d155826a6d74bd041b913dfd68f87492/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Luplae-The-Hidden-Town.jpg",
-     "url": "https://master.streamhls.com/hlsr2/1da5c12caf5a898f4a45b4a293331f5a/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
@@ -953,392 +4041,6 @@
      "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Loves-Rebellion-2024.jpg",
      "url": "https://master.streamhls.com/hlsr2/10eff303db9764513479cfbbea148ae7/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Love of Nirvana ธารธารารักนิรันดร์ (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/e891df06ee1745b4c6428c2747c769a5/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/2d0428786add89baba2e4dea8262a4d7/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/df51148622374206baddc582f224372e/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/fa22d6e73aad946a546970aba4e76cbc/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/b0cf3d4827d7ac8e282a6edf58866039/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/556b4bfc33c53a9845a76a3a29ff67c7/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/43f9016173ab68b47d4c2dec86ca920e/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a803cf90c0ba939114ad74431890f7aa/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/3987a775165fdb97427fb61263d7f6b5/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/06ef3f63ba8167d2ca7622b740979393/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/bf5df38db787f28c4f23a17f27664ff8/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/5e36b8710cb5c3824a332a2b747d660c/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 13",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a4a448a54ab1b9e2b1c90a750b64d58e/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 14",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/04537cc9a7c716ebcc13df88b7cf87fa/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 15",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/bbca1b65ad0a406c7f15d695244a3659/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 16",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/c5367e0d132a3e21e9bfb030560360f3/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 17",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/7d34c0f2812e5235e5913e5983c3cade/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 18",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/7cd18673ac4cf8e82e69a967a50f6219/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 19",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/b6969c5ca09c7286d1a8506940957792/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 20",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/7fb1f0add249bb3ff0f8029a26bf3b3d/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 21",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a27bf371815caa8e81ca561c89280ebf/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Fate of Beauty บุปผาซ่อนแค้น (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-     "url": "https://master.streamhls.com/hlsr2/43fde21a7318496204a73b6edfb2bc40/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a4ff19fb3cd417fc3e9e1b1a7f087431/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-     "url": "https://master.streamhls.com/hlsr2/5c23e95466adcad038409d4540979e6b/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-     "url": "https://master.streamhls.com/hlsr2/839a22ea773e6f6d05be57fecc44ca30/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-     "url": "https://master.streamhls.com/hlsr2/d0b90c3f314f6e2a5348132d24a5424a/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-     "url": "https://master.streamhls.com/hlsr2/98c1f02c6ba8488fd9ba05a9243167cd/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-     "url": "https://master.streamhls.com/hlsr2/d69f2d0610575d4b0f376c2078b5f495/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fate-of-Beauty.jpg",
-     "url": "https://master.streamhls.com/hlsr2/8f829898737fd5971e7a4c7307119c70/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Fall in Love with a Fox บ่วงเสน่ห์เล่ห์สิคาล (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/9384f15cbc7a9fa1714e1044b0b90dcb/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/99fd588e1c5368a1db0884cdfd8fab8c/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/79b8f1193d2cdc41246e9a8ec8bdb9c8/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a87c9c6bb56aadadae2772b5dbe6e9a1/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/ac27930a13162fe3d6bfccd290f1da3f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/dea82091dbf43f902d287843db3f91e9/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/965d802161fc130e30290cb965bd1039/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/c61799085edc3af32cfded8437684c42/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/4f828ff0771f28c582bd086aad425570/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox.jpg",
-     "url": "https://master.streamhls.com/hlsr2/c37af363d7d028cda28112391e2181c4/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Echo of Her Voice คีตาพานพบ (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a00ae85a49fecd7a66a0d6d0631fc4c9/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/42670eb17f7c1ae592beb78b2c12a292/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/8f06d253f7defdf3de4b69fe19bc8a58/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/1bae0462b5721444a81ddebb9334eff3/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/ecb3b8608d957843baed159ae76483a2/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/fccfa02166ac422fa855eaee3419e2c9/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/fd6177d0086064788493f10daaa8e420/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Echo-of-Her-Voice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/51109caa144db013bdd364242ff4b80c/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Judge from Hell (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
-     "url": "https://master.streamhls.com/hlsr2/e2525f989ec768e97a3349fa3d0d0c2f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Judge-from-Hell.jpg",
-     "url": "https://master.streamhls.com/hlsr2/b0f068f659870eae79ba1a960e178f1f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "The Penguin เดอะ เพนกวิน (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Penguin.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/The-Penguin.jpg",
-     "url": "https://master.streamhls.com/hlsr2/3671d2ccbce7ef94847209ec63702b76/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
@@ -1782,96 +4484,6 @@
    ]
   },
   {
-   "name": "Love Next Door รักอยู่ประตูถัดไป (2024)",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/35136d59d4a899013e163a739dc41472/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/2db2f14eeb33a82f0e7a2f95f555e48b/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/e551434ff7fb6ca2eb59305f20579f79/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 4",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/148b757b05e8c5be3e9884773214001b/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 5",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/1cb447da47eaa6f0d3cd6ba528b84f33/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 6",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/b2c71c695ecff89663b9a4996f3f7445/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 7",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/86b7e2770b1fd76107da0e5fe24261b9/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 8",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/88c2bcc5a3300459438d87ea55439aba/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 9",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/5a98ec90fc038b48fb826a58767b2a00/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 10",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/6fc43223b7242c98d24df0394d65b0fa/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 11",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/d7ec78ab55dc2b6809efc0ebc8dc4cdc/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "ตอนที่ 12",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Love-Next-Door.jpg",
-     "url": "https://master.streamhls.com/hlsr2/cc409ff61c8e67acaef7cdeb592e43a5/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
    "name": "Totto-chan: The Little Girl at the Window (2024) โต๊ะโตะจัง เด็กหญิงข้างหน้าต่าง",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Totto-chan-The-Little-Girl-at-the-Window.jpg",
    "stations": [
@@ -1957,19 +4569,6 @@
    ]
   },
   {
-   "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Never-Let-Go.jpg",
-   "stations": [
-    {
-     "name": "Never Let Go (2024) ผูกเป็น หลุดตาย",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Never-Let-Go.jpg",
-     "url": "https://master.streamhls.com/hlsr2/7c458fd7c2348d2cc0f58cfac2fb91fd/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
    "name": "Hijack 1971 (2024) นรกเหนือน่านฟ้า",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Hijack.jpg",
    "stations": [
@@ -2018,19 +4617,6 @@
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Subservience.jpg",
      "url": "https://master.streamhls.com/hlsr2/baf51bf05e8136db9d2ac5b74cb7eda0/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
-   "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blink-Twice.jpg",
-   "stations": [
-    {
-     "name": "Blink Twice (2024) บลิงก์ ทไวซ์ ซิกอันตราย",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blink-Twice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/4d317c9855d23f49e8807e5d1514cfbc/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
@@ -2497,19 +5083,6 @@
    ]
   },
   {
-   "name": "Prey (2024) ขย้ำ",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Prey.jpg",
-   "stations": [
-    {
-     "name": "Prey (2024) ขย้ำ",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Prey.jpg",
-     "url": "https://master.streamhls.com/hlsr2/0cb6c709e20043d5ab004b8ae5462e28/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    }
-   ]
-  },
-  {
    "name": "Upgraded (2024) รักฉบับอัปเกรด",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/02/Upgraded-2024.jpg",
    "stations": [
@@ -2839,26 +5412,6 @@
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Rebel-Ridge-2024.jpg",
      "url": "https://streamhls.com/view/cd5c2539-6375-5919-acbb-1e78cc4e3f60.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice.jpg",
-   "stations": [
-    {
-     "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a7ccbc9d82d3ab14c29087aa3a8873b0/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Beetlejuice Beetlejuice (2024) บีเทิลจู๊ดส์ บีเทิลจู๊ดส์ ผีขี้จุ้ย 2",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/09/Beetlejuice-Beetlejuice.jpg",
-     "url": "https://streamhls.com/view/32285ff1-f648-5fa8-9c02-6a82cd619243.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -4683,26 +7236,6 @@
    ]
   },
   {
-   "name": "Strange Darling (2024) รัก ลวง ฆ่า",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Strange-Darling.jpg",
-   "stations": [
-    {
-     "name": "Strange Darling (2024) รัก ลวง ฆ่า",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Strange-Darling.jpg",
-     "url": "https://master.streamhls.com/hlsr2/988eefdebf20f370897d8b34c4312cbc/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Strange Darling (2024) รัก ลวง ฆ่า",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Strange-Darling.jpg",
-     "url": "https://streamhls.com/view/289e156d-4ffa-5f7a-b5cd-9cb0d81008d9.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
    "name": "Terror Tuesday Extreme อังคารคลุมโปงเอ็กซ์ตรีม (2024)",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Terror-Tuesday-Extreme.jpg",
    "stations": [
@@ -5092,46 +7625,6 @@
      "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Crimson-Snout-2023.jpg",
      "url": "https://streamhls.com/view/58a676c5-015e-5b80-84b3-3643eb672f52.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Blue Lock: Episode Nagi (2024) บลูล็อก เดอะมูฟวี่ : ตอนนากิ",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blue-Lock-Episode-Nagi.jpg",
-   "stations": [
-    {
-     "name": "Blue Lock: Episode Nagi (2024) บลูล็อก เดอะมูฟวี่ : ตอนนากิ",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blue-Lock-Episode-Nagi.jpg",
-     "url": "https://master.streamhls.com/hlsr2/852c2dc91140968d20bedff957bed09c/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Blue Lock: Episode Nagi (2024) บลูล็อก เดอะมูฟวี่ : ตอนนากิ",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Blue-Lock-Episode-Nagi.jpg",
-     "url": "https://streamhls.com/view/580e60d5-b2a2-5aa3-b154-624cb1e7fabb.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon.jpg",
-   "stations": [
-    {
-     "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon.jpg",
-     "url": "https://master.streamhls.com/hlsr2/ee69cf50ed3f3bf491e376107b8edb44/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Harold and the Purple Crayon (2024) แฮโรลด์กับสีเทียนมหัศจรรย์",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Harold-and-the-Purple-Crayon.jpg",
-     "url": "https://streamhls.com/view/09ff5fc2-479b-528b-b797-0766aef8e9aa.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -6973,26 +9466,6 @@
    ]
   },
   {
-   "name": "Alien: Romulus (2024) เอเลี่ยน: โรมูลัส",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Alien-Romulus.jpg",
-   "stations": [
-    {
-     "name": "Alien: Romulus (2024) เอเลี่ยน: โรมูลัส",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Alien-Romulus.jpg",
-     "url": "https://master.streamhls.com/hlsr2/c01c1f4bbd0544da5638877eca1075b9/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Alien: Romulus (2024) เอเลี่ยน: โรมูลัส",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Alien-Romulus.jpg",
-     "url": "https://streamhls.com/view/2787f7a0-b973-529c-a5eb-1aa7c1281d53.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
    "name": "Daughters (2024) ลูกสาว",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/Daughters.jpg",
    "stations": [
@@ -7076,40 +9549,6 @@
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/08/The-Union.jpg",
      "url": "https://streamhls.com/view/fe52a6fb-4dca-5234-ad8c-01187c34138c.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Twisters (2024) ทวิสเตอร์ส",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
-   "stations": [
-    {
-     "name": "Twisters (2024) ทวิสเตอร์ส",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/53ae628e7955dada468909725322490c/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Twisters (2024) ทวิสเตอร์ส",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
-     "url": "https://streamhls.com/view/96aedb24-f1a7-5c37-ab11-a9444b5137e3.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Twisters (2024) ทวิสเตอร์ส",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/a013383235a5edac1184e860ddce1b3a/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Twisters (2024) ทวิสเตอร์ส",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Twisters-2024.jpg",
-     "url": "https://streamhls.com/view/4fd211e2-e65d-51ae-bdcf-a2e92e09c359.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -8944,26 +11383,6 @@
      "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Pee-Nak.jpg",
      "url": "https://streamhls.com/view/21e32aa1-65f0-546b-8f23-d92c0ace9e4f.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Deadpool-And-Wolverine.jpg",
-   "stations": [
-    {
-     "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Deadpool-And-Wolverine.jpg",
-     "url": "https://master.streamhls.com/hlsr2/aeb8af4585489eeccbd76f0b60671c0b/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Deadpool & Wolverine (2024) เดดพูล & วูล์ฟเวอรีน",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/07/Deadpool-And-Wolverine.jpg",
-     "url": "https://streamhls.com/view/ce1ff0d4-8fb2-53e3-a783-94c87a29016c.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -14616,40 +17035,6 @@
      "info": "พากย์ไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/06/Baby-Shark-s-Big-Movie.jpg",
      "url": "https://streamhls.com/view/33443013-d04b-5caf-b144-c72c36cb6466.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Challengers (2024) ชาเลนเจอร์ส",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
-   "stations": [
-    {
-     "name": "Challengers (2024) ชาเลนเจอร์ส",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/2a00a0329212c67201a22ba95e605ec0/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Challengers (2024) ชาเลนเจอร์ส",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
-     "url": "https://streamhls.com/view/86bf84ef-1be0-5c4d-83a0-f6194e5f3634.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    },
-    {
-     "name": "Challengers (2024) ชาเลนเจอร์ส",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/dd254459e1062ea86fda121d9bd52098/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Challengers (2024) ชาเลนเจอร์ส",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/05/Challengers-2024.jpg",
-     "url": "https://streamhls.com/view/76f72a70-57de-54fb-a33d-c71992ac0218.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
@@ -27208,26 +29593,6 @@
    ]
   },
   {
-   "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
-   "stations": [
-    {
-     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
-     "url": "https://master.streamhls.com/hlsr2/7eea62a28dfb6cffc9f2b9b331e6453f/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Bob Marley One Love (2024) บ็อบ มาร์เลย์ วัน เลิฟ",
-     "info": "ซับไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Bob-Marley-One-Love-2024.jpg",
-     "url": "https://streamhls.com/view/5ae499e9-f97e-5d5a-8d75-efe0a06ba1c5.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
    "name": "Guntur Kaaram (2024) เจ้าพ่อกุนตูร์",
    "image": "https://www.nung2hdd.com/wp-content/uploads/2024/04/Guntur-Kaaram-2024.jpg",
    "stations": [
@@ -28117,26 +30482,6 @@
      "info": "ซับไทย",
      "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/5lbs-of-Pressure.png",
      "url": "https://streamhls.com/view/9f06f847-1296-56be-8404-b796f8277180.m3u8",
-     "referer": "https://www.nung2hdd.com/"
-    }
-   ]
-  },
-  {
-   "name": "Dog Days (Dogeudeijeu) (2024) ด็อกเดย์ สี่ขาว้าวุ่น",
-   "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Dog-Days.png",
-   "stations": [
-    {
-     "name": "Dog Days (Dogeudeijeu) (2024) ด็อกเดย์ สี่ขาว้าวุ่น",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Dog-Days.png",
-     "url": "https://master.streamhls.com/hlsr2/d1eb81cefe4cd5e7b7e910ad12b3e3b2/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Dog Days (Dogeudeijeu) (2024) ด็อกเดย์ สี่ขาว้าวุ่น",
-     "info": "พากย์ไทย",
-     "image": "https://www.nung2hdd.com/wp-content/uploads/2024/03/Dog-Days.png",
-     "url": "https://streamhls.com/view/6125d9a1-5faf-5e54-a410-9cc5835180b9.m3u8",
      "referer": "https://www.nung2hdd.com/"
     }
    ]
