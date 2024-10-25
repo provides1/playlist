@@ -1,9 +1,168 @@
 {
  "name": "หนังเข้าฉายปี 2024",
- "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 01:40:32 เสร็จ 01:50:32",
+ "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567 เริ่ม 23:09:40 เสร็จ 23:16:03",
  "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
  "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
  "groups": [
+  {
+   "name": "Hellbound 2 - ทัณฑ์นรก 2 (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/20241025141806OQ1f.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/20241025141806OQ1f.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/video/19819/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/20241025141806OQ1f.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/video/19820/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/20241025141806OQ1f.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/video/19821/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/20241025141806OQ1f.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/video/19822/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 5",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/20241025141806OQ1f.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/video/19823/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 6",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/20241025141806OQ1f.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5377/video/19824/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Venom: The Last Dance - เวน่อม: มหาศึกอสูรอหังการ (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5376/202410251408058Ebe.jpg",
+   "info": "Zoom พากย์ไทย",
+   "stations": [
+    {
+     "name": "Venom: The Last Dance - เวน่อม: มหาศึกอสูรอหังการ (2024)",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5376/202410251408058Ebe.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5376/video/19818/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "The Empress of Ayodhaya - แม่หยัว (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5375/20241025105344yjuj.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5375/20241025105344yjuj.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5375/video/19817/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "DAN DA DAN - ดันดาดัน (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
+   "info": "พากย์ไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/video/19700/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/video/19701/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/video/19761/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "พากย์ไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/video/19816/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/",
+     "subtitle": "https://pastebin.com/raw/cuyErKD4"
+    }
+   ]
+  },
+  {
+   "name": "Rurouni Kenshin: Kyoto Disturbance - ซามูไรพเนจร: บทการปฎิวัติในเกียวโต (2024)",
+   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+   "info": "ซับไทย",
+   "stations": [
+    {
+     "name": "ตอนที่ 1",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19698/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 2",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19699/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 3",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19758/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    },
+    {
+     "name": "ตอนที่ 4",
+     "info": "ซับไทย",
+     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
+     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19815/hls/movie_3.m3u8",
+     "referer": "https://tongha-movie.com/"
+    }
+   ]
+  },
   {
    "name": "Transformers One - ทรานส์ฟอร์เมอร์ส 1 (2024)",
    "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5335/202409281652537ett.jpg",
@@ -964,65 +1123,6 @@
      "info": "พากย์ไทย",
      "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5301/20240906123518Yypw.jpg",
      "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5301/video/19777/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    }
-   ]
-  },
-  {
-   "name": "Rurouni Kenshin: Kyoto Disturbance - ซามูไรพเนจร: บทการปฎิวัติในเกียวโต (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
-   "info": "ซับไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19698/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19699/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "ซับไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/20241011113353UWyC.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5349/video/19758/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/"
-    }
-   ]
-  },
-  {
-   "name": "DAN DA DAN - ดันดาดัน (2024)",
-   "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
-   "info": "พากย์ไทย",
-   "stations": [
-    {
-     "name": "ตอนที่ 1",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/video/19700/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    },
-    {
-     "name": "ตอนที่ 2",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/video/19701/hls/movie_3.m3u8",
-     "referer": "https://tongha-movie.com/",
-     "subtitle": "https://pastebin.com/raw/cuyErKD4"
-    },
-    {
-     "name": "ตอนที่ 3",
-     "info": "พากย์ไทย",
-     "image": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/20241011122409ODLC.jpg",
-     "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/5350/video/19761/hls/movie_3.m3u8",
      "referer": "https://tongha-movie.com/",
      "subtitle": "https://pastebin.com/raw/cuyErKD4"
     }
