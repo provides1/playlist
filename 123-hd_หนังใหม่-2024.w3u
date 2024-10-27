@@ -1,9 +1,35 @@
 {
   "name": "หนังใหม่ 2024",
-  "author": "เจียว เจียว อัพวันที่ 25 ตุลาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 27 ตุลาคม 2567",
   "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
   "groups": [
+    {
+      "name": "The Bad Guys Haunted Heist วายร้ายพันธุ์ดี ปล้นป่วนฮาโลวีน (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-วายร้ายพันธุ์ดี-ปล้นป่วนฮาโลวีน-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Bad Guys Haunted Heist วายร้ายพันธุ์ดี ปล้นป่วนฮาโลวีน (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/The-Bad-Guys-Haunted-Heist-วายร้ายพันธุ์ดี-ปล้นป่วนฮาโลวีน-2024-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/b68739aeb386aff5d472fa23/b68739aeb386aff5d472fa23438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Black Storm พายุทมิฬ (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Black-Storm-พายุทมิฬ-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "Black Storm พายุทมิฬ (2024)",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Black-Storm-พายุทมิฬ-2024-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/ba560476adc5775884d08356/ba560476adc5775884d08356438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
     {
       "name": "Prey ขย้ำ (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Prey-ขย้ำ-2024-300x450.jpg",
@@ -312,6 +338,32 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/10/เทอม-3-Haunted-Universities-3-2024-300x450.jpg",
           "url": "https://main.abcplays.com/m3u8/8bb361bb8176617b1d08f4aa/8bb361bb8176617b1d08f4aa438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Family Guy Peter Peter Pumpkin Cheater (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Family-Guy-Peter-Peter-Pumpkin-Cheater-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "Family Guy Peter Peter Pumpkin Cheater (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Family-Guy-Peter-Peter-Pumpkin-Cheater-2024-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/8b6a68a90809b2cbd48b98c0/8b6a68a90809b2cbd48b98c0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Babes (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Babes-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "Babes (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/10/Babes-2024-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/948a8d696a4579f27f5fa1cc/948a8d696a4579f27f5fa1cc438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -1185,19 +1237,6 @@
       ]
     },
     {
-      "name": "Prey ขย้ำ (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Prey-ขย้ำ-2024-300x450.jpg",
-      "stations": [
-        {
-          "name": "Prey ขย้ำ (2024)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Prey-ขย้ำ-2024-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/8a74b687b03678763fda29ef/8a74b687b03678763fda29ef438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Siapa Buka Lampu ไล่ผีวิลล่าหลอน (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Siapa-Buka-Lampu-ไล่ผีวิลล่าหลอน-2024-300x450.jpg",
       "stations": [
@@ -1219,19 +1258,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/09/Fruit-Cake-2024-300x450.jpg",
           "url": "https://main.abcplays.com/m3u8/bf464975234986fc40b53527/bf464975234986fc40b53527438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "หลานม่า How to Make Millions Before Grandma Dies (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/09/หลานม่า-How-to-Make-Millions-Before-Grandma-Dies-2024-300x450.jpg",
-      "stations": [
-        {
-          "name": "หลานม่า How to Make Millions Before Grandma Dies (2024)",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/09/หลานม่า-How-to-Make-Millions-Before-Grandma-Dies-2024-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/222da444705fd1cf1175d3f0/222da444705fd1cf1175d3f0438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -2227,6 +2253,19 @@
       ]
     },
     {
+      "name": "Treasure Hunter (2024) ตำนานนักล่าสมบัติ",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Treasure-Hunter-2024-ตำนานนักล่าสมบัติ-300x450.jpg",
+      "stations": [
+        {
+          "name": "Treasure Hunter (2024) ตำนานนักล่าสมบัติ",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Treasure-Hunter-2024-ตำนานนักล่าสมบัติ-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/60e6b5076c6030d27e7ac200/60e6b5076c6030d27e7ac200438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Sharp Teeth (2024) ปลากินคน",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/08/Sharp-Teeth-2024-ปลากินคน-1-300x450.jpg",
       "stations": [
@@ -2581,45 +2620,6 @@
       ]
     },
     {
-      "name": "The Night Of The Peak (2024) หลงใหลในคืนประหลาด",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Night-Of-The-Peak-2024-หลงใหลในคืนประหลาด-1-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Night Of The Peak (2024) หลงใหลในคืนประหลาด",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Night-Of-The-Peak-2024-หลงใหลในคืนประหลาด-1-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/89f491543517c3a90c1a5c7d/89f491543517c3a90c1a5c7d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Leha (2024) เลฮา",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Leha-2024-เลฮา-300x450.jpg",
-      "stations": [
-        {
-          "name": "Leha (2024) เลฮา",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Leha-2024-เลฮา-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/67195ba218f24d257a05f1fa/67195ba218f24d257a05f1fa438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Inheritance (2024)",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Inheritance-2024-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Inheritance (2024)",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/07/The-Inheritance-2024-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/de98fc315967189ff9fcafba/de98fc315967189ff9fcafba438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
       "name": "Pagpag 24/7 (2024) ร้านสะดวกหลอน",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Pagpag-247-2024-300x450.jpg",
       "stations": [
@@ -2922,6 +2922,32 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Life-After-Fighting-2024-1-300x450.jpg",
           "url": "https://main.abcplays.com/m3u8/e33082ee4f7a1118c36eedc0/e33082ee4f7a1118c36eedc0438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-1-300x450.jpg",
+      "stations": [
+        {
+          "name": "The Roundup Punishment (2024) บู๊ระห่ำล่าล้างนรก นรกลงทัณฑ์",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/The-Roundup-Punishment-2024-บู๊ระห่ำล่าล้างนรก-นรกลงทัณฑ์-1-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/c5efc6e179db377e338651dc/c5efc6e179db377e338651dc438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Tan-Ti-Ana (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Tan-Ti-Ana-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "Tan-Ti-Ana (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/07/Tan-Ti-Ana-2024-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/a53f0fb206620d40aad1a904/a53f0fb206620d40aad1a904438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -3618,32 +3644,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Wicked-Little-Letters-2024-ปริศนาจดหมายป่วน-300x450.jpg",
           "url": "https://main.abcplays.com/m3u8/940a22610a1193cab74110be/940a22610a1193cab74110be438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Ordinary Angels (2024) ปาฏิหาริย์สายใยรัก",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Ordinary-Angels-2024-ปาฏิหาริย์สายใยรัก-1-300x450.jpg",
-      "stations": [
-        {
-          "name": "Ordinary Angels (2024) ปาฏิหาริย์สายใยรัก",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Ordinary-Angels-2024-ปาฏิหาริย์สายใยรัก-1-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/4755b37155b495b20ef6a9d3/4755b37155b495b20ef6a9d3438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "Revolutionize The World (2024) พลิกโลกกลับสวรรค์",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Revolutionize-The-World-2024-พลิกโลกกลับสวรรค์-1-300x450.jpg",
-      "stations": [
-        {
-          "name": "Revolutionize The World (2024) พลิกโลกกลับสวรรค์",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Revolutionize-The-World-2024-พลิกโลกกลับสวรรค์-1-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/029cdd159eacd5ec14685d17/029cdd159eacd5ec14685d17438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -4781,6 +4781,52 @@
       ]
     },
     {
+      "name": "Prom Dates (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Prom-Dates-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "Prom Dates (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Prom-Dates-2024-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/1c8c69b3a08e9a579f16ede9/1c8c69b3a08e9a579f16ede9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Unfrosted (2024) ศึกป๊อปทาร์ต",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต-300x450.jpg",
+      "stations": [
+        {
+          "name": "Unfrosted (2024) ศึกป๊อปทาร์ต",
+          "info": "พากย์ไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/0ed3cf2a8e795bf648eda9d9/0ed3cf2a8e795bf648eda9d9438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        },
+        {
+          "name": "Unfrosted (2024) ศึกป๊อปทาร์ต",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Unfrosted-2024-ศึกป๊อปทาร์ต-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/1ff75facf2c7eb5f1a68dec3/1ff75facf2c7eb5f1a68dec3438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
+      "name": "Chief of Station (2024)",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Chief-of-Station-2024-300x450.jpg",
+      "stations": [
+        {
+          "name": "Chief of Station (2024)",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Chief-of-Station-2024-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/ce525cbd3f633ab27f84cacb/ce525cbd3f633ab27f84cacb438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Humane (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/05/Humane-2024-300x450.jpg",
       "stations": [
@@ -5081,19 +5127,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/04/Immaculate-2024-บริสุทธิ์ผุดปีศาจ-1-300x450.jpg",
           "url": "https://main.abcplays.com/m3u8/e88585a40b35519fd9fb737b/e88585a40b35519fd9fb737b438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "The Lord of The Monsters (2024) ประกาศิตเทพปีศาจ",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024-ประกาศิตเทพปีศาจ-300x450.jpg",
-      "stations": [
-        {
-          "name": "The Lord of The Monsters (2024) ประกาศิตเทพปีศาจ",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/04/The-Lord-of-The-Monsters-2024-ประกาศิตเทพปีศาจ-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/35f708b9771b66568ff2b462/35f708b9771b66568ff2b462438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
@@ -6568,6 +6601,19 @@
       ]
     },
     {
+      "name": "BHAKSHAK (2024) เปิดหน้ากากความจริง",
+      "image": "https://www.123-hd.com/wp-content/uploads/2024/02/BHAKSHAK-2024-เปิดหน้ากากความจริง-300x450.jpg",
+      "stations": [
+        {
+          "name": "BHAKSHAK (2024) เปิดหน้ากากความจริง",
+          "info": "ซับไทย",
+          "image": "https://www.123-hd.com/wp-content/uploads/2024/02/BHAKSHAK-2024-เปิดหน้ากากความจริง-300x450.jpg",
+          "url": "https://main.abcplays.com/m3u8/4e0bf9ccab9ead87ee6d0985/4e0bf9ccab9ead87ee6d0985438.m3u8",
+          "referer": "https://www.123-hd.com/"
+        }
+      ]
+    },
+    {
       "name": "Cult Killer (2024)",
       "image": "https://www.123-hd.com/wp-content/uploads/2024/02/Cult-Killer-2024-300x450.jpg",
       "stations": [
@@ -6868,26 +6914,6 @@
           "info": "ซับไทย",
           "image": "https://www.123-hd.com/wp-content/uploads/2024/01/Trespassers-2024-บุกมาปล้น-300x450.jpg",
           "url": "https://main.abcplays.com/m3u8/868073940d4529e4e2c0438d/868073940d4529e4e2c0438d438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        }
-      ]
-    },
-    {
-      "name": "60 Minuten (2024) 60 นาที",
-      "image": "https://www.123-hd.com/wp-content/uploads/2024/01/60-Minuten-2024-60-นาที-300x450.jpg",
-      "stations": [
-        {
-          "name": "60 Minuten (2024) 60 นาที",
-          "info": "พากย์ไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/60-Minuten-2024-60-นาที-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/dd44f2dd0267794d9bc7aa5c/dd44f2dd0267794d9bc7aa5c438.m3u8",
-          "referer": "https://www.123-hd.com/"
-        },
-        {
-          "name": "60 Minuten (2024) 60 นาที",
-          "info": "ซับไทย",
-          "image": "https://www.123-hd.com/wp-content/uploads/2024/01/60-Minuten-2024-60-นาที-300x450.jpg",
-          "url": "https://main.abcplays.com/m3u8/bbc78e8841c8298704d2d16e/bbc78e8841c8298704d2d16e438.m3u8",
           "referer": "https://www.123-hd.com/"
         }
       ]
