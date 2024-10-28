@@ -1,9 +1,223 @@
 {
   "name": "WeTV",
-  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 28 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Love In The Desert (2024) รำพันรักวายุทะเลทราย",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/f5ca3822665fe0c914f49d35a78ac6d0/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/393e5ef8760d234beaa278e13c8fed18/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/377438a45606daede53dcb8679e45d1f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e135b5273d9ce3b09f222bcdc6eaedb5/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/890b612ab30f1f8f4eef5dfc8f9757f1/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/39c8f9a86c11858d47e971116fa55232/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/30b54bb9acfe6b351cd8ac682889ce38/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/917fd63c9e3940e392ad05969f4d3b63/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/da69088c1a3fa323d97137c131d89587/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e0658ce1366997373752b8e9e9346f7b/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/4d7124d9d9cab5032aba55fb85e9f2fa/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0522a82e78c24678a0777e9c543269fc/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e873fbdbea859bac9174fc3adf0d847d/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/74a4b14bdd29c4235aa8a3523f2470e0/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/58a578e7f82dfb8eb0daaa6f149852d0/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2e459a03f9e8386eadacc7238a820ac8/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/956d6f7bc3b0b027be1f2cf8873fa7fa/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b9541ab4530956670e3591645cec07d7/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/430f07e3c0d4b0fc24e2b23c8e250d88/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/cef92c181aaa0039e9df91a888e4337b/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/161e8c1450a0454034addacbfb1c9176/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/756aad7e567a6e0a640f3818237a510c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/977b3fde21475ae46977a26f58ef1f21/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/81f9d85c5e30a8d149ecf553f89dd6f9/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d2803212da873603039ef9ad12496f58/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Love-In-The-Desert-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ea4512d92f6adbbabdc93576234dc61c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
     {
       "name": "Love of Nirvana (2024) ธารธารารักนิรันดร์",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Love-of-Nirvana-2024-220x300-c-default.jpg",

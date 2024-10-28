@@ -1,9 +1,63 @@
 {
   "name": "วิทยาศาสตร์",
-  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 28 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "Gundam: Requiem for Vengeance (2024) กันดั้ม: บทสวดส่งวิญญาณแห่งความอาฆาต",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d33b14a2c14750065776aedb569ddb93/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/a251e8015af528f113215141df06adc4/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8eec65d85de96f2ef15a18f76870ed98/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/dd9f2bbcaec56077eb2e39b9afa7b192/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e357fcc5ecfc1f9d68487c7e62f9d47a/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/10/Gunda-Requiem-for-Vengeance-2024-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b0a026c8635999c7682d43fc6f827733/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
     {
       "name": "Gyeongseong Creature (2024) สัตว์สยองกยองซอง",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Gyeongseong-Creature_S02-220x300-c-default.jpg",
@@ -26306,6 +26360,30 @@
               "url": "https://master.streamhls.com/hlsr2/08c0940cf448a9f3ccde68973303a982/master.m3u8",
               "referer": "https://master.streamhls.com/",
               "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 5",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/51dfc358d8ce32cff729f6c8f396810b/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 6",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/a4dd27195bb3a9e00d088643d19a0ef1/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
+            },
+            {
+              "name": "ซีซั่น 2 ตอนที่ 7",
+              "info": "พากย์ไทย",
+              "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/eO0QV5qJaEngP1Ax9w3eV6bJG2f-220x300-c-default.jpg",
+              "url": "https://master.streamhls.com/hlsr2/aa4291bd7b2ed4f0fb7e31d2d3cfe0ff/master.m3u8",
+              "referer": "https://master.streamhls.com/",
+              "subtitle": "https://pastebin.com/raw/cuyErKD4"
             }
           ]
         }
@@ -26630,7 +26708,14 @@
           "url": "https://www.sgcdnseries.com/view/0dd98986-2db6-56af-ab23-9dea728e9e2f.m3u8",
           "referer": "https://www.dooseries4k.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
+        }
+      ]
+    },
+    {
+      "name": "MOONFALL (2022) วันวิบัติ จันทร์ถล่มโลก",
+      "info": "SUB",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/03/n7tuqI1Kb0wiM0iGbWYQI7bMHXQ-220x300-c-default.jpg",
+      "stations": [
         {
           "name": "MOONFALL (2022) วันวิบัติ จันทร์ถล่มโลก",
           "info": "ซับไทย",

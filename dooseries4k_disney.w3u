@@ -1,6 +1,6 @@
 {
   "name": "Disney+",
-  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 28 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
@@ -53,6 +53,54 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
           "url": "https://master.streamhls.com/hlsr2/635b95a9069e684631b5f968d7cc855c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8e42c53d1c36c93799c8018e89302849/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/06045603667ec9439c43dbe799462cde/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/71ed558b3cd2fe7e58a17557951ccce5/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ce19a240f695c7063d4518c2a697a7cb/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0b44b5be4170b36cb67bd0e074810244/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/960acc329b130a7a8f58d9782fa9e728/master.m3u8",
           "referer": "https://master.streamhls.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         }

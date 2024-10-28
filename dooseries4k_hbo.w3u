@@ -1,6 +1,6 @@
 {
   "name": "HBO",
-  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 28 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
@@ -29,6 +29,22 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Penguin-220x300-c-default.jpg",
           "url": "https://master.streamhls.com/hlsr2/498e9a7e22d127fb67b62f1156e510d2/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Penguin-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/fd692e114c69804ab265bae4210ddce8/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Penguin-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/49d7169e1721232f91fc070d33f65ea7/master.m3u8",
           "referer": "https://master.streamhls.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         }

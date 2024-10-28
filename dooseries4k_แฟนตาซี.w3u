@@ -1,9 +1,111 @@
 {
   "name": "แฟนตาซี",
-  "author": "เจียว เจียว อัพวันที่ 14 ตุลาคม 2567",
+  "author": "เจียว เจียว อัพวันที่ 28 ตุลาคม 2567",
   "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
   "image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
   "groups": [
+    {
+      "name": "The Judge from Hell (2024)",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/e2525f989ec768e97a3349fa3d0d0c2f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/b0f068f659870eae79ba1a960e178f1f/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/9b30a337c958e8ae95aacdc53637c767/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d845e5409cf1537af850dfd3a8ae566c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/946a5f417e60cd08eafce4d4e1d79b61/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/635b95a9069e684631b5f968d7cc855c/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/8e42c53d1c36c93799c8018e89302849/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/06045603667ec9439c43dbe799462cde/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/71ed558b3cd2fe7e58a17557951ccce5/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/ce19a240f695c7063d4518c2a697a7cb/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/0b44b5be4170b36cb67bd0e074810244/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/960acc329b130a7a8f58d9782fa9e728/master.m3u8",
+          "referer": "https://master.streamhls.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
     {
       "name": "Echo of Her Voice (2024) คีตาพานพบ",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Echo-of-Her-Voice-220x300-c-default.jpg",
@@ -397,58 +499,44 @@
           "url": "https://master.streamhls.com/hlsr2/ba9d47cf1befcab82eb211c5acbb0cc1/master.m3u8",
           "referer": "https://master.streamhls.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        }
-      ]
-    },
-    {
-      "name": "The Judge from Hell (2024)",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
-      "stations": [
+        },
         {
-          "name": "ตอนที่ 1",
+          "name": "ตอนที่ 25",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
-          "url": "https://master.streamhls.com/hlsr2/e2525f989ec768e97a3349fa3d0d0c2f/master.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/5d5f754994db55400bd8a6cfe5860b9f/master.m3u8",
           "referer": "https://master.streamhls.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         },
         {
-          "name": "ตอนที่ 2",
+          "name": "ตอนที่ 26",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
-          "url": "https://master.streamhls.com/hlsr2/b0f068f659870eae79ba1a960e178f1f/master.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/d7411041b41b850b062dee56a152fde5/master.m3u8",
           "referer": "https://master.streamhls.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         },
         {
-          "name": "ตอนที่ 3",
+          "name": "ตอนที่ 27",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
-          "url": "https://master.streamhls.com/hlsr2/9b30a337c958e8ae95aacdc53637c767/master.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/2fd48d259c0c2903390a08b85bb85880/master.m3u8",
           "referer": "https://master.streamhls.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         },
         {
-          "name": "ตอนที่ 4",
+          "name": "ตอนที่ 28",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
-          "url": "https://master.streamhls.com/hlsr2/d845e5409cf1537af850dfd3a8ae566c/master.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/273a2d5066f231b90e5fbca346106ea1/master.m3u8",
           "referer": "https://master.streamhls.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         },
         {
-          "name": "ตอนที่ 5",
+          "name": "ตอนที่ 29",
           "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
-          "url": "https://master.streamhls.com/hlsr2/946a5f417e60cd08eafce4d4e1d79b61/master.m3u8",
-          "referer": "https://master.streamhls.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/The-Judge-from-Hell-220x300-c-default.jpg",
-          "url": "https://master.streamhls.com/hlsr2/635b95a9069e684631b5f968d7cc855c/master.m3u8",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2024/09/Fall-in-Love-with-a-Fox-220x300-c-default.jpg",
+          "url": "https://master.streamhls.com/hlsr2/282afa975a3d9cb620a1769921cfcecf/master.m3u8",
           "referer": "https://master.streamhls.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         }
@@ -59490,108 +59578,6 @@
       ]
     },
     {
-      "name": "365: Repeat the Year (2020) ย้อนเวลาแก้ไขอดีต",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/0ba5d7a8-289d-552a-bd77-0770d5093261.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/67b6d861-619d-56c1-a466-55d408bf7e6d.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/5e0de007-8fce-59c9-8204-900a3ea203c3.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/23f79f5f-d42d-525a-94fa-662d74baeb9a.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/749feff3-ffd4-572d-a94d-45b7a9c11504.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/fa73e3f1-1440-561f-a80c-96659c63156e.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/c7838a7f-5bd3-5611-833e-414609a6e2b5.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/ac5f50fd-847f-54d6-8916-4adb843fa675.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/09112e41-2f52-5920-a774-ac8c85f2b968.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/7c63ad02-1677-52c7-9c89-86fee01105b6.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/0049b632-2419-562d-af7a-d3498e8bac04.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/1ceebbe4-8920-5750-be3a-93849832d051.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        }
-      ]
-    },
-    {
       "name": "Find Me in Your Memory (2020) ตามรัก..คืนความทรงจำ",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20210729131912v2-d19864cb47c4aaea370e35f6dfcd0441_1440w-220x300-c-default.jpg",
       "stations": [
@@ -59720,6 +59706,108 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20210729131912v2-d19864cb47c4aaea370e35f6dfcd0441_1440w-220x300-c-default.jpg",
           "url": "https://www.sgcdnseries.com/view/06705c60-406f-5d55-ad39-5dfca06704d8.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "365: Repeat the Year (2020) ย้อนเวลาแก้ไขอดีต",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/0ba5d7a8-289d-552a-bd77-0770d5093261.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/67b6d861-619d-56c1-a466-55d408bf7e6d.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/5e0de007-8fce-59c9-8204-900a3ea203c3.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/23f79f5f-d42d-525a-94fa-662d74baeb9a.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/749feff3-ffd4-572d-a94d-45b7a9c11504.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/fa73e3f1-1440-561f-a80c-96659c63156e.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/c7838a7f-5bd3-5611-833e-414609a6e2b5.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/ac5f50fd-847f-54d6-8916-4adb843fa675.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/09112e41-2f52-5920-a774-ac8c85f2b968.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/7c63ad02-1677-52c7-9c89-86fee01105b6.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/0049b632-2419-562d-af7a-d3498e8bac04.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/202012171148520477ebc6fb5e10930397b03c0a5a8eea-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/1ceebbe4-8920-5750-be3a-93849832d051.m3u8",
           "referer": "https://www.dooseries4k.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         }
@@ -61420,568 +61508,6 @@
       ]
     },
     {
-      "name": "Deep in My Heart (2019) จิตสัมผัสแห่งรัก",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/90811c44-c033-5f87-ad49-4d447406f79c.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/17cfe6d6-aded-588d-91a1-1b2f076e737e.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/dfbc6022-15d3-5651-b11b-52741e265b09.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/ffd8bdb1-3dc4-56e8-8991-a046b03de561.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/d54c7489-cdd4-54f9-ae5f-3b02ba266966.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/7ca71865-96f5-55f9-add5-990c235bad83.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/33bf8c1a-cf95-59e6-9677-a746043bd513.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/31dea2e9-6a5c-5a34-9dd5-b026e6a59f11.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/66845e20-c358-5220-8a09-465051ad780c.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/63113bd0-37da-5ffd-adb8-c1a756d2da4f.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/333dbfeb-8147-5c13-ba4b-1de64d8ba14c.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/1a882bd3-257e-5e15-b290-0c81a7007dd2.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/f890ecf4-5451-5d9e-bcdf-bd2b4fc8fe70.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/f72e804b-71cf-55bb-b3d5-132f5150f16b.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/49d935b3-7b0b-521b-9d33-880668aabd45.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/b5ebcefc-577c-5e43-9273-4c9bdc69625c.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/5a49fd42-1309-53c9-919c-0739e5906002.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/28decace-f3dc-5dcc-8814-74c710231859.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/cd2cba96-0773-58d5-b798-bf7a49b1372f.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/111b28e5-c9d3-57b2-8dfd-c77e7ec3ceab.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 21",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/33803c7c-f094-5f1e-addc-bb148a411e79.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 22",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/5421f48c-e16c-5387-b2da-e4d55c843517.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 23",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/42cbdc6c-46fb-5acc-a4fd-1281caf3d38e.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 24",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/b8233a43-a913-5671-bd8b-4e3e8016fd86.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 25",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/014e2a4d-eb13-57b9-b5ce-8c799e4edbdf.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 26",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/14735cb4-15af-5954-ad9d-e5c14902618a.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 27",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/178e0b67-b8f5-589e-8855-7b1ac032e694.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 28",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/b4419470-d9e7-56fb-be76-af671c28d831.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        }
-      ]
-    },
-    {
-      "name": "With You (2019) ช่วงเวลาที่ดีของเรา",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/c729a68a-9585-58d8-a3b8-1d9a73330c3b.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/062d0986-6633-5707-ad5a-56e25a6a5785.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/87c0ddf5-04d8-52b3-a10d-a931fe863a6c.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/fcdd8d2f-fbf3-59b0-a97f-4415368a53e7.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/b0ee56c2-7e57-5e73-bb0d-20cadc5a6215.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/b3370c62-0c09-5ad9-abdb-374a185b086a.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/29e87070-05a5-56d0-818d-d00db62d180f.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/22d1cc82-f6e2-5064-a301-3606fdddb3a4.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 9",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/3314ab29-5543-5bb6-a120-81be7daf59f9.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 10",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/2b7589bf-ff57-52e4-a6c2-d98c2c61a01e.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 11",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/741449fe-1abf-51d1-a8fd-677123bea4bb.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 12",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/b949982d-c035-5e28-b6d4-d5726d0c11d5.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 13",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/2eb59d93-e4cd-5853-bd56-2b13d0918f41.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 14",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/391b63b4-5adc-5506-8c5b-1afc72763b4e.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 15",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/c5a310b3-f71b-5ab8-a0b1-0f4f3e398da7.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 16",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/93f47a69-d6ec-5652-be89-6b505555e700.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 17",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/536295c8-dddf-5be1-b512-0dc4670a4951.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 18",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/e806e8bf-e2f0-53ca-a569-97a8eae4c81b.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 19",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/8591e2fc-6e4f-5d7a-8a05-b98dc60b1c41.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 20",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/a845390e-745b-5c35-8944-1b789d85c202.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 21",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/ee8634f9-47ef-5fcf-a6aa-b67304c27d6a.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 22",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/93a7ad9b-bb3b-5768-b906-1ec09b6edfd9.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 23",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/e9e1e755-3bd3-5514-a897-4afad510f939.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 24",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
-          "url": "https://www.sgcdnseries.com/view/e967ac64-c736-596a-ba26-8fd8249b9e9e.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        }
-      ]
-    },
-    {
-      "name": "Nowhere Man (2019) แหกคุกทะลุมิติ",
-      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-      "stations": [
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/49510684-6aeb-5690-814b-45130a262ae7.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 1",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/cce75bbb-50c1-5fba-b9b9-3286b7630c14.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/af81c866-14ac-541d-a299-f130ab6c08c3.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 2",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/cf367582-ce39-5792-a9e9-94204acc75d5.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/e918a3a9-fe6b-51d5-bb4b-2244162801a8.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 3",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/ada80c71-c18a-5991-b647-605b54bc2633.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/9e04a93f-d9ba-5446-a249-352799a43eff.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 4",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/ee04483f-172f-52af-8df4-144f5996cbd3.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/90409bab-ea57-50c1-9193-56b1bda46a1d.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 5",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/1134ff2b-cc49-5477-9fc9-0665cdd8ba6b.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/97fc0e2b-94a5-5eed-951e-b71668c20cb0.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 6",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/005c0a11-d720-5401-9c11-896ab51a9c1c.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/947f376b-98c1-5df7-b29d-f5e1ce12e165.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 7",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/799dac63-bd4a-531a-bbce-f75de5369982.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/731fd524-a735-5c0d-88a8-3741a4db5dff.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        },
-        {
-          "name": "ตอนที่ 8",
-          "info": "พากย์ไทย",
-          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
-          "url": "https://www.sgcdnseries.com/view/790ec085-a83a-583b-963d-5c622d61b9e3.m3u8",
-          "referer": "https://www.dooseries4k.com/",
-          "subtitle": "https://pastebin.com/raw/cuyErKD4"
-        }
-      ]
-    },
-    {
       "name": "Only Beautiful:",
       "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20200902110218Only-Beautiful-Season-1-220x300-c-default.jpg",
       "groups": [
@@ -63192,6 +62718,568 @@
           "info": "พากย์ไทย",
           "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20201114160546ลิขิตรักป่วนยุทธภพ-220x300-c-default.jpg",
           "url": "https://www.sgcdnseries.com/view/88f1b233-de70-5c5a-bc7b-ae98a81d40df.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "Deep in My Heart (2019) จิตสัมผัสแห่งรัก",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/90811c44-c033-5f87-ad49-4d447406f79c.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/17cfe6d6-aded-588d-91a1-1b2f076e737e.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/dfbc6022-15d3-5651-b11b-52741e265b09.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/ffd8bdb1-3dc4-56e8-8991-a046b03de561.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/d54c7489-cdd4-54f9-ae5f-3b02ba266966.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/7ca71865-96f5-55f9-add5-990c235bad83.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/33bf8c1a-cf95-59e6-9677-a746043bd513.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/31dea2e9-6a5c-5a34-9dd5-b026e6a59f11.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/66845e20-c358-5220-8a09-465051ad780c.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/63113bd0-37da-5ffd-adb8-c1a756d2da4f.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/333dbfeb-8147-5c13-ba4b-1de64d8ba14c.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/1a882bd3-257e-5e15-b290-0c81a7007dd2.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/f890ecf4-5451-5d9e-bcdf-bd2b4fc8fe70.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/f72e804b-71cf-55bb-b3d5-132f5150f16b.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/49d935b3-7b0b-521b-9d33-880668aabd45.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/b5ebcefc-577c-5e43-9273-4c9bdc69625c.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/5a49fd42-1309-53c9-919c-0739e5906002.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/28decace-f3dc-5dcc-8814-74c710231859.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/cd2cba96-0773-58d5-b798-bf7a49b1372f.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/111b28e5-c9d3-57b2-8dfd-c77e7ec3ceab.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/33803c7c-f094-5f1e-addc-bb148a411e79.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/5421f48c-e16c-5387-b2da-e4d55c843517.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/42cbdc6c-46fb-5acc-a4fd-1281caf3d38e.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/b8233a43-a913-5671-bd8b-4e3e8016fd86.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 25",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/014e2a4d-eb13-57b9-b5ce-8c799e4edbdf.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 26",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/14735cb4-15af-5954-ad9d-e5c14902618a.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 27",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/178e0b67-b8f5-589e-8855-7b1ac032e694.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 28",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/2021081518023520190830105349Deep-in-My-Heart-จิตสัมผัสแห่งรัก-cc-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/b4419470-d9e7-56fb-be76-af671c28d831.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "With You (2019) ช่วงเวลาที่ดีของเรา",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/c729a68a-9585-58d8-a3b8-1d9a73330c3b.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/062d0986-6633-5707-ad5a-56e25a6a5785.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/87c0ddf5-04d8-52b3-a10d-a931fe863a6c.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/fcdd8d2f-fbf3-59b0-a97f-4415368a53e7.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/b0ee56c2-7e57-5e73-bb0d-20cadc5a6215.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/b3370c62-0c09-5ad9-abdb-374a185b086a.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/29e87070-05a5-56d0-818d-d00db62d180f.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/22d1cc82-f6e2-5064-a301-3606fdddb3a4.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/3314ab29-5543-5bb6-a120-81be7daf59f9.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/2b7589bf-ff57-52e4-a6c2-d98c2c61a01e.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/741449fe-1abf-51d1-a8fd-677123bea4bb.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/b949982d-c035-5e28-b6d4-d5726d0c11d5.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/2eb59d93-e4cd-5853-bd56-2b13d0918f41.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/391b63b4-5adc-5506-8c5b-1afc72763b4e.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/c5a310b3-f71b-5ab8-a0b1-0f4f3e398da7.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/93f47a69-d6ec-5652-be89-6b505555e700.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/536295c8-dddf-5be1-b512-0dc4670a4951.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/e806e8bf-e2f0-53ca-a569-97a8eae4c81b.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/8591e2fc-6e4f-5d7a-8a05-b98dc60b1c41.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/a845390e-745b-5c35-8944-1b789d85c202.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/ee8634f9-47ef-5fcf-a6aa-b67304c27d6a.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/93a7ad9b-bb3b-5768-b906-1ec09b6edfd9.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 23",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/e9e1e755-3bd3-5514-a897-4afad510f939.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 24",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211020215957ช่วงเวลาที่ดีของเรา-220x300-c-default.jpeg",
+          "url": "https://www.sgcdnseries.com/view/e967ac64-c736-596a-ba26-8fd8249b9e9e.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        }
+      ]
+    },
+    {
+      "name": "Nowhere Man (2019) แหกคุกทะลุมิติ",
+      "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/49510684-6aeb-5690-814b-45130a262ae7.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 1",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/cce75bbb-50c1-5fba-b9b9-3286b7630c14.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/af81c866-14ac-541d-a299-f130ab6c08c3.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/cf367582-ce39-5792-a9e9-94204acc75d5.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/e918a3a9-fe6b-51d5-bb4b-2244162801a8.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/ada80c71-c18a-5991-b647-605b54bc2633.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/9e04a93f-d9ba-5446-a249-352799a43eff.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/ee04483f-172f-52af-8df4-144f5996cbd3.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/90409bab-ea57-50c1-9193-56b1bda46a1d.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/1134ff2b-cc49-5477-9fc9-0665cdd8ba6b.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/97fc0e2b-94a5-5eed-951e-b71668c20cb0.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/005c0a11-d720-5401-9c11-896ab51a9c1c.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/947f376b-98c1-5df7-b29d-f5e1ce12e165.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/799dac63-bd4a-531a-bbce-f75de5369982.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/731fd524-a735-5c0d-88a8-3741a4db5dff.m3u8",
+          "referer": "https://www.dooseries4k.com/",
+          "subtitle": "https://pastebin.com/raw/cuyErKD4"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "info": "พากย์ไทย",
+          "image": "https://www.dooseries4k.com/wp-content/uploads/2022/02/20211115193447Nowhere-Man-2019-แหกคุกทะลุมิติ-บรรยายไทย-Netflix-220x300-c-default.jpg",
+          "url": "https://www.sgcdnseries.com/view/790ec085-a83a-583b-963d-5c622d61b9e3.m3u8",
           "referer": "https://www.dooseries4k.com/",
           "subtitle": "https://pastebin.com/raw/cuyErKD4"
         }
