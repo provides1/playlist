@@ -1,0 +1,9 @@
+requests
+selenium
+datetime
+urllib3
+beautifulsoup4
+tqdm
+colorama
+lxml
+cloudscraper
