@@ -2,8 +2,8 @@ name: run flixmono_ch
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 14 * * 1"   # 22:00 ไทย -> 15:00 UTC
+  #schedule:
+  #  - cron: "0 14 * * 1"   # 22:00 ไทย -> 15:00 UTC
 
 jobs:
   run-python:
