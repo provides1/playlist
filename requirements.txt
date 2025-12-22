@@ -7,3 +7,5 @@ tqdm
 colorama
 lxml
 cloudscraper
+google-api-python-client
+google-auth

@@ -3,7 +3,7 @@ name: run FLIXMONO_MOVIE
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 10 * * 6"   # 22:00 ไทย -> 15:00 UTC
+    - cron: "0 10 * * *"   # 22:00 ไทย -> 15:00 UTC
 
 jobs:
   run-python:
