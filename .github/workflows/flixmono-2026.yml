@@ -1,9 +1,9 @@
-name: run flixmono_2025
+name: run flixmono_2026
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 14 * * 2"   # 22:00 ไทย -> 15:00 UTC
+    - cron: "0 17 * * *"   # 22:00 ไทย -> 15:00 UTC
 
 jobs:
   run-python:
@@ -23,7 +23,7 @@ jobs:
 
       - name: Python script
         env:
-          FILE_URL: ${{ secrets.FLIXMONO_2025 }}   
+          FILE_URL: ${{ secrets.FLIXMONO_2026 }}   
         run: |
           set +x  
           gdown "$FILE_URL" -O script.py
