@@ -3,7 +3,7 @@ name: run 123HD_series2025
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 21 * * *"   # 22:00 ไทย -> 15:00 UTC
+    #- cron: "0 19 * * 3"   # 22:00 ไทย -> 15:00 UTC
     #- cron: "0 */1 * * *"   # รันทุก 6 ชม.
 
 jobs:

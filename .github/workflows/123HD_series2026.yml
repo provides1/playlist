@@ -1,9 +1,10 @@
-name: run SERIESDAY ปี2025
+name: run 123HD_series2026
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 13 * * 2"   # 22:00 ไทย -> 15:00 UTC
+    - cron: "0 21 * * *"   # 22:00 ไทย -> 15:00 UTC
+    #- cron: "0 */1 * * *"   # รันทุก 6 ชม.
 
 jobs:
   run-python:
@@ -23,7 +24,7 @@ jobs:
 
       - name: Python script
         env:
-          FILE_URL: ${{ secrets.SERIESDAY_2025 }}   
+          FILE_URL: ${{ secrets.SERIES2026_123HD }}   
         run: |
           set +x  
           gdown "$FILE_URL" -O script.py

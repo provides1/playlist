@@ -3,7 +3,7 @@ name: run baan-series_ซีรี่ย์ปี-2025
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * *"   # 22:00 ไทย -> 15:00 UTC
+    - cron: "0 15 * * 2"   # 22:00 ไทย -> 15:00 UTC
 
 jobs:
   run-python:
