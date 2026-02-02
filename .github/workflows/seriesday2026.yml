@@ -3,7 +3,7 @@ name: run SERIESDAY ปี2026
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 16 * * *"   # 22:00 ไทย -> 15:00 UTC
+    - cron: "0 17 * * *"   # 22:00 ไทย -> 15:00 UTC
 
 jobs:
   run-python:
